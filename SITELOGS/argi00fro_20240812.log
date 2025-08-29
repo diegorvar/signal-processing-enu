@@ -1,0 +1,355 @@
+     ARGI00FRO Site Information Form (site log)
+     International GNSS Service
+     See Instructions at:
+       https://files.igs.org/pub/station/general/sitelog_instr.txt
+
+
+0.   Form
+
+     Prepared by (full name)  : SDFI GNSS Team (gnss@sdfi.dk)
+     Date Prepared            : 2024-08-12
+     Report Type              : UPDATE
+     If Update:
+      Previous Site Log       : argi00fro_20221129.log
+      Modified/Added Sections : 1
+
+
+1.   Site Identification of the GNSS Monument
+
+     Site Name                : Thorshavn, Faroe Islands
+     Four Character ID        : ARGI
+     Monument Inscription     : 
+     IERS DOMES Number        : 10117M002
+     CDP Number               : (A4)
+     Monument Description     : Steelmast attached to building
+       Height of the Monument : (m)
+       Monument Foundation    : (STEEL RODS, CONCRETE BLOCK, ROOF, etc)
+       Foundation Depth       : (m)
+     Marker Description       : Center and top of mast
+     Date Installed           : 2008-09-24T00:00Z
+     Geologic Characteristic  : (BEDROCK/CLAY/CONGLOMERATE/GRAVEL/SAND/etc)
+       Bedrock Type           : (IGNEOUS/METAMORPHIC/SEDIMENTARY)
+       Bedrock Condition      : (FRESH/JOINTED/WEATHERED)
+       Fracture Spacing       : (0 cm/1-10 cm/11-50 cm/51-200 cm/over 200 cm)
+       Fault zones nearby     : (YES/NO/Name of the zone)
+         Distance/activity    : (multiple lines)
+     Additional Information   : Steelmast attached to the building housing
+                              : umhv?rvisstovan. The steelmast has an height of
+                              : 2.04 m.
+                              : At the plinth of the building under the station
+                              : is located a height bench mark. From this bench
+                              : mark is an observation til the ARP.
+
+
+2.   Site Location Information
+
+     City or Town             : Argir, Torshavn
+     State or Province        : Torshavn
+     Country                  : Faroe Islands (the)
+     Tectonic Plate           : EURASIAN
+     Approximate Position (ITRF)
+       X coordinate (m)       : 2981489.900
+       Y coordinate (m)       : -354651.390
+       Z coordinate (m)       : 5608474.890
+       Latitude (N is +)      : +615950.53
+       Longitude (E is +)     : -0064700.67
+       Elevation (m,ellips.)  : 110.2
+     Additional Information   : (multiple lines)
+
+
+3.   GNSS Receiver Information
+
+3.1  Receiver Type            : LEICA GRX1200GGPRO
+     Satellite System         : GPS+GLO
+     Serial Number            : 356103
+     Firmware Version         : 6.00
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2008-09-25T00:00Z
+     Date Removed             : 2016-11-11T09:06Z
+     Temperature Stabiliz.    : 21.0 +/- (deg C)
+     Additional Information   : (multiple lines)
+
+3.2  Receiver Type            : LEICA GRX1200GGPRO
+     Satellite System         : GPS+GLO
+     Serial Number            : 356103
+     Firmware Version         : 9.20
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2016-11-11T11:19Z
+     Date Removed             : 2017-04-19T09:54Z
+     Temperature Stabiliz.    : 21.0 +/- 2.0
+     Additional Information   : (multiple lines)
+
+3.3  Receiver Type            : TRIMBLE NETR9
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS
+     Serial Number            : 5548R50598
+     Firmware Version         : 5.22
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2017-04-19T15:37Z
+     Date Removed             : 2022-11-29T14:06Z
+     Temperature Stabiliz.    : 21.0 +/- 2.0
+     Additional Information   : (multiple lines)
+
+3.4  Receiver Type            : TRIMBLE NETR9
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS
+     Serial Number            : 5548R50598
+     Firmware Version         : 5.33
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2022-11-29T14:20Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Temperature Stabiliz.    : 21.0 +/- 2.0
+     Additional Information   : (multiple lines)
+
+3.x  Receiver Type            : (A20, from rcvr_ant.tab; see instructions)
+     Satellite System         : (GPS+GLO+GAL+BDS+QZSS+IRNSS+SBAS)
+     Serial Number            : (A20, but note the first A5 is used in SINEX)
+     Firmware Version         : (A11)
+     Elevation Cutoff Setting : (deg)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Temperature Stabiliz.    : (none or tolerance in degrees C)
+     Additional Information   : (multiple lines)
+
+
+4.   GNSS Antenna Information
+
+4.1  Antenna Type             : LEIAT504GG      LEIS
+     Serial Number            : 200708
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  :   0.0000
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : LEIS
+     Radome Serial Number     : 
+     Antenna Cable Type       : RG213
+     Antenna Cable Length     : 15 m
+     Date Installed           : 2008-09-24T00:00Z
+     Date Removed             : 2017-04-19T09:54Z
+     Additional Information   : (multiple lines)
+
+4.2  Antenna Type             : TRM57971.00     TZGD
+     Serial Number            : 1551009151
+     Antenna Reference Point  : BAM
+     Marker->ARP Up Ecc. (m)  :   0.0054
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : TZGD
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : 15 m
+     Date Installed           : 2017-04-19T15:37Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Additional Information   : (multiple lines)
+
+4.x  Antenna Type             : (A20, from rcvr_ant.tab; see instructions)
+     Serial Number            : (A*, but note the first A5 is used in SINEX)
+     Antenna Reference Point  : (BPA/BCR/XXX from "antenna.gra"; see instr.)
+     Marker->ARP Up Ecc. (m)  : (F8.4)
+     Marker->ARP North Ecc(m) : (F8.4)
+     Marker->ARP East Ecc(m)  : (F8.4)
+     Alignment from True N    : (deg; + is clockwise/east)
+     Antenna Radome Type      : (A4 from rcvr_ant.tab; see instructions)
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+5.   Surveyed Local Ties
+
+5.x  Tied Marker Name         : 
+     Tied Marker Usage        : (SLR/VLBI/LOCAL CONTROL/FOOTPRINT/etc)
+     Tied Marker CDP Number   : (A4)
+     Tied Marker DOMES Number : (A9)
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : (m)
+       dy (m)                 : (m)
+       dz (m)                 : (m)
+     Accuracy (mm)            : (mm)
+     Survey method            : (GPS CAMPAIGN/TRILATERATION/TRIANGULATION/etc)
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+6.   Frequency Standard
+
+6.1  Standard Type            : INTERNAL
+       Input Frequency        : (if external)
+       Effective Dates        : 2008-09-25/CCYY-MM-DD
+       Notes                  : (multiple lines)
+
+6.x  Standard Type            : (INTERNAL or EXTERNAL H-MASER/CESIUM/etc)
+       Input Frequency        : (if external)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+7.   Collocation Information
+
+7.x  Instrumentation Type     : (GPS/GLONASS/DORIS/PRARE/SLR/VLBI/TIME/etc)
+       Status                 : (PERMANENT/MOBILE)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+8.   Meteorological Instrumentation
+
+8.1.x  Humidity Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy (% rel h)     : (% rel h)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.2.x  Pressure Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (hPa)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.3.x  Temp. Sensor Model     : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (deg C)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.4.x  Water Vapor Radiometer : 
+       Manufacturer           : 
+       Serial Number          : 
+       Distance to Antenna    : (m)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.5.x  Other Instrumentation  : (multiple lines)
+
+
+9.   Local Ongoing Conditions Possibly Affecting Computed Position
+
+9.1.x  Radio Interferences    : (TV/CELL PHONE ANTENNA/RADAR/etc)
+       Observed Degradations  : (SN RATIO/DATA GAPS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.2.x  Multipath Sources      : (METAL ROOF/DOME/VLBI ANTENNA/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.3.1  Signal Obstructions    : Mountains
+       Effective Dates        : 2008-09-25/CCYY-MM-DD
+       Additional Information : At South - South-West of the antenna is
+                              : mountain. The Mountain has a cut off angle of
+                              : approximatly 10 degrees.
+
+9.3.x  Signal Obstructions    : (TREES/BUILDINGS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+
+10.  Local Episodic Effects Possibly Affecting Data Quality
+
+10.x  Date                    : (CCYY-MM-DD/CCYY-MM-DD)
+      Event                   : (TREE CLEARING/CONSTRUCTION/etc)
+
+
+11.  On-Site, Point of Contact Agency Information
+
+     Agency                   : Agency for Data Supply and Infrastructure
+     Preferred Abbreviation   : SDFI
+     Mailing Address          : Rentemestervej 8
+                              : DK-2400 Copenhagen NV
+                              : Denmark
+     Primary Contact
+       Contact Name           : SDFI GNSS Team
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : gnss@sdfi.dk
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+
+
+12.  Responsible Agency (if different from 11.)
+
+     Agency                   : (multiple lines)
+     Preferred Abbreviation   : (A10)
+     Mailing Address          : (multiple lines)
+     Primary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+13.  More Information
+
+     Primary Data Center      : BKG
+     Secondary Data Center    : BEV
+     URL for More Information : 
+     Hardcopy on File
+       Site Map               : (Y or URL)
+       Site Diagram           : (Y or URL)
+       Horizon Mask           : (Y or URL)
+       Monument Description   : (Y or URL)
+       Site Pictures          : (Y or URL)
+     Additional Information   : (multiple lines)
+     Antenna Graphics with Dimensions
+
+LEIAT504GG
+
+                       +-------+                          <--  0.1393
+                     /
+                    |             |
+  +-----------------+-------------+-----------------+     <--  0.1012  TCR
+  |                                                 |
+  |                                                 |
+  |                                                 |
+  |                                                 |
++-+-------------------------------------------------+-+   <--  0.0378
++-------------------+-------------+-------------------+   <--  0.0345  BCR
+                    |             |
+                    |             |
+                    +------x------+                       <--  0.0000  BPA=ARP
+
+TRM57971.00
+
+   / --------------------------------------------- \
+  +                                                 +
+   \ --------------------------------------------- /
+                   \               /
+                    \             /
+                     \-----x-----/                        <--  0.0000  BAM=ARP
+                                                                       RXC=NRP
+  <--                    0.3396                   -->                  Notches

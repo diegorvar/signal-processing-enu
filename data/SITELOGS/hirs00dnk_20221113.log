@@ -1,0 +1,409 @@
+     HIRS00DNK Site Information Form (site log)
+     International GNSS Service
+     See Instructions at:
+       https://files.igscb.org/pub/station/general/sitelog_instr.txt
+
+
+0.   Form
+
+     Prepared by (full name)  : SDFI GNSS Team (gnss@sdfi.dk)
+     Date Prepared            : 2022-11-13
+     Report Type              : UPDATE
+     If Update:
+      Previous Site Log       : hirs00dnk_20210629.log
+      Modified/Added Sections : 3.7, 3.8, 11
+
+
+1.   Site Identification of the GNSS Monument
+
+     Site Name                : HIRTSHALS
+     Four Character ID        : HIRS
+     Monument Inscription     : None
+     IERS DOMES Number        : 10106M002
+     CDP Number               : (A4)
+     Monument Description     : PILLAR
+       Height of the Monument : 4 m
+       Monument Foundation    : The pillar is situated on top of an 7,7 x 14 
+                              : munderground concrete wast water plant
+       Foundation Depth       : (m)
+     Marker Description       : CHISELLED CROSS in a BRASS bolt
+     Date Installed           : 2004-10-10
+     Geologic Characteristic  : GRAVEL/SAND
+       Bedrock Type           : SEDIMENTARY
+       Bedrock Condition      : (FRESH/JOINTED/WEATHERED)
+       Fracture Spacing       : (0 cm/1-10 cm/11-50 cm/51-200 cm/over 200 cm)
+       Fault zones nearby     : NO
+         Distance/activity    : (multiple lines)
+     Additional Information   : The reference marker is situated on top of
+                              : the pillar 0.1731 m under the ARP of the
+                              : antenna. The mount disc to the antenna is
+                              : embedded on the top of the concrete pillar.
+                              : The pillar consistes of 1) an inner solid
+                              : concrete pillar (500 mm diameter) electrical
+                              : heated to prevent thermal expansion.
+                              : 2) 100 mm insulation material.
+                              : 3) Outer wooden cunstruction carrying a
+                              : conical concrete top.
+                              : 4) an outher wooden protective surface.
+                              : Inner and outher parts of the pillar are
+                              : only connected via the foundation and on
+                              : top of an elastic joint.
+
+
+2.   Site Location Information
+
+     City or Town             : Hirtshals
+     State or Province        : Jutland
+     Country                  : Denmark
+     Tectonic Plate           : EURASIAN
+     Approximate Position (ITRF)
+       X coordinate (m)       : 3374903.328
+       Y coordinate (m)       : 593115.368
+       Z coordinate (m)       : 5361509.310
+       Latitude (N is +)      : +573527.95
+       Longitude (E is +)     : +0095803.15
+       Elevation (m,ellips.)  : 50.1
+     Additional Information   : ETRS89 coordinates (Danish realization).
+                              : The ETRS89 coordinates originates from a 7 day
+                              : IGb14 solution at the epoch 2020-10-21.
+
+
+3.   GNSS Receiver Information
+
+3.1  Receiver Type            : ASHTECH UZ-12
+     Satellite System         : GPS
+     Serial Number            : IR2200306021
+     Firmware Version         : CQ00/EC00
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2004-11-10T13:00Z
+     Date Removed             : 2005-10-04T06:12Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.2  Receiver Type            : ASHTECH UZ-12
+     Satellite System         : GPS
+     Serial Number            : IR2200306013
+     Firmware Version         : CQ00/EC00
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2005-10-04T06:12Z
+     Date Removed             : 2012-09-28T10:15Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.3  Receiver Type            : TRIMBLE NETR9
+     Satellite System         : GPS+GLO
+     Serial Number            : 5133K77740
+     Firmware Version         : 4.62/4.62
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2012-09-28T10:15Z
+     Date Removed             : 2015-11-24T09:10Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.4  Receiver Type            : TRIMBLE NETR9
+     Satellite System         : GPS+GLO
+     Serial Number            : 5133K77740
+     Firmware Version         : 5.10
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2015-11-24T09:10Z
+     Date Removed             : 2019-08-08T13:00Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.5  Receiver Type            : TRIMBLE NETR9
+     Satellite System         : GPS+GLO
+     Serial Number            : 5133K77740
+     Firmware Version         : 5.42
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2019-08-08T13:15Z
+     Date Removed             : 2020-10-06T07:00Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.6  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS
+     Serial Number            : 3062237
+     Firmware Version         : 5.3.2
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2020-10-06T08:00Z
+     Date Removed             : 2021-06-29T12:02Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.7  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS
+     Serial Number            : 3062237
+     Firmware Version         : 5.4.0-patch1
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2021-06-29T12:11Z
+     Date Removed             : 2022-11-13T13:06Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.8  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS
+     Serial Number            : 3062237
+     Firmware Version         : 5.5.0
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2022-11-13T13:10Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.x  Receiver Type            : (A20, from rcvr_ant.tab; see instructions)
+     Satellite System         : (GPS+GLO+GAL+BDS+QZSS+IRNSS+SBAS)
+     Serial Number            : (A20, but note the first A5 is used in SINEX)
+     Firmware Version         : (A11)
+     Elevation Cutoff Setting : (deg)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Temperature Stabiliz.    : (none or tolerance in degrees C)
+     Additional Information   : (multiple lines)
+
+
+4.   GNSS Antenna Information
+
+4.1  Antenna Type             : ASH701945E_M    SCIS
+     Serial Number            : CR5200327011
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  :   0.1731
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :  -0.0030
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : SCIS
+     Radome Serial Number     : 
+     Antenna Cable Type       : RG213
+     Antenna Cable Length     : 20 m
+     Date Installed           : 2004-11-10T13:00Z
+     Date Removed             : 2020-10-06T08:00Z
+     Additional Information   : (multiple lines)
+
+4.2  Antenna Type             : LEIAR25.R4      LEIT
+     Serial Number            : 727175
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  :   0.1754
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :  -0.0030
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : LEIT
+     Radome Serial Number     : 
+     Antenna Cable Type       : Times Microwave Systems LMR-400
+     Antenna Cable Length     : 20 m
+     Date Installed           : 2020-10-07T08:22Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Additional Information   : (multiple lines)
+
+4.x  Antenna Type             : (A20, from rcvr_ant.tab; see instructions)
+     Serial Number            : (A*, but note the first A5 is used in SINEX)
+     Antenna Reference Point  : (BPA/BCR/XXX from "antenna.gra"; see instr.)
+     Marker->ARP Up Ecc. (m)  : (F8.4)
+     Marker->ARP North Ecc(m) : (F8.4)
+     Marker->ARP East Ecc(m)  : (F8.4)
+     Alignment from True N    : (deg; + is clockwise/east)
+     Antenna Radome Type      : (A4 from rcvr_ant.tab; see instructions)
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+5.   Surveyed Local Ties
+
+5.x  Tied Marker Name         : 
+     Tied Marker Usage        : (SLR/VLBI/LOCAL CONTROL/FOOTPRINT/etc)
+     Tied Marker CDP Number   : (A4)
+     Tied Marker DOMES Number : (A9)
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : (m)
+       dy (m)                 : (m)
+       dz (m)                 : (m)
+     Accuracy (mm)            : (mm)
+     Survey method            : (GPS CAMPAIGN/TRILATERATION/TRIANGULATION/etc)
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+6.   Frequency Standard
+
+6.x  Standard Type            : (INTERNAL or EXTERNAL H-MASER/CESIUM/etc)
+       Input Frequency        : (if external)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+7.   Collocation Information
+
+7.x  Instrumentation Type     : (GPS/GLONASS/DORIS/PRARE/SLR/VLBI/TIME/etc)
+       Status                 : (PERMANENT/MOBILE)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+8.   Meteorological Instrumentation
+
+8.1.x  Humidity Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy (% rel h)     : (% rel h)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.2.x  Pressure Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (hPa)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.3.x  Temp. Sensor Model     : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (deg C)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.4.x  Water Vapor Radiometer : 
+       Manufacturer           : 
+       Serial Number          : 
+       Distance to Antenna    : (m)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.5.x  Other Instrumentation  : (multiple lines)
+
+
+9.   Local Ongoing Conditions Possibly Affecting Computed Position
+
+9.1.x  Radio Interferences    : (TV/CELL PHONE ANTENNA/RADAR/etc)
+       Observed Degradations  : (SN RATIO/DATA GAPS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.2.x  Multipath Sources      : (METAL ROOF/DOME/VLBI ANTENNA/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.3.x  Signal Obstructions    : (TREES/BUILDINGS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+
+10.  Local Episodic Effects Possibly Affecting Data Quality
+
+10.x  Date                    : (CCYY-MM-DD/CCYY-MM-DD)
+      Event                   : (TREE CLEARING/CONSTRUCTION/etc)
+
+
+11.  On-Site, Point of Contact Agency Information
+
+     Agency                   : Agency for Data Supply and Infrastructure
+     Preferred Abbreviation   : SDFI
+     Mailing Address          : Rentemestervej 8
+                              : DK-2400 Copenhagen NV
+                              : Denmark
+     Primary Contact
+       Contact Name           : SDFI GNSS Team
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : gnss@sdfi.dk
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+
+
+12.  Responsible Agency (if different from 11.)
+
+     Agency                   : (multiple lines)
+     Preferred Abbreviation   : (A10)
+     Mailing Address          : (multiple lines)
+     Primary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+13.  More Information
+
+     Primary Data Center      : BKG
+     Secondary Data Center    : BEV
+     URL for More Information : 
+     Hardcopy on File
+       Site Map               : (Y or URL)
+       Site Diagram           : (Y or URL)
+       Horizon Mask           : (Y or URL)
+       Monument Description   : (Y or URL)
+       Site Pictures          : (Y or URL)
+     Additional Information   : (multiple lines)
+     Antenna Graphics with Dimensions
+
+ASH701945E_M
+
+                         +-------+
+                       /     +     \                        <--  0.1280 L2
+                      |      +      |                       <--  0.1100 L1
+    +-----------------+-------------+------------------+    <--  0.1006 TCR
+    |                                                  |
+    |                                                  |
+    |                                                  |
+    |                                                  |
+  +-+--------------------------------------------------+-+  <--  0.0376
+  +-------------------+-------------+--------------------+  <--  0.0346 BCR
+                      |             |
+                      |             |
+                      +------x------+                       <--  0.0000 BPA=ARP
+
+  <--                      0.3794                      -->
+
+
+LEIAR25.R3
+LEIAR25.R4
+
+                       +-------+                          <--  0.1995
+                      /         \
+                +---+-------------+---+                   <--  0.1606  TCR
+                |                     |
+             |---------------------------|
+          |---------------------------------|
+       |---------------------------------------|
+    +---------------------------------------------+
+    |                                             |
+    |                                             |
+  +-+---------------------------------------------+-+
+  +-----------------+-------------+-----------------+     <--  0.0320  BCR
+                    |             |
+                    |             |
+                    +------x------+                       <--  0.0000  BPA=ARP
+                                                              (5/8" thread might
+                                                               differ from BPA!)
+  <--                    0.3802                   -->                  NOM=NRP

@@ -1,0 +1,434 @@
+     PLPK00GRL Site Information Form (site log v2.0)
+     International GNSS Service
+     See Instructions at:
+       https://files.igs.org/pub/station/general/sitelog_instr_v2.0.txt
+
+
+0.   Form
+
+     Prepared by (full name)  : SDFI GNSS Team (gnss@sdfi.dk)
+     Date Prepared            : 2025-08-08
+     Report Type              : UPDATE
+     If Update:
+      Previous Site Log       : plpk00grl_20230805.log
+      Modified/Added Sections : 1, 2, 3.11, 3.12
+
+
+1.   Site Identification of the GNSS Monument
+
+     Site Name                : Pilappik
+     Nine Character ID        : PLPK00GRL
+     Monument Inscription     : 
+     IERS DOMES Number        : 43023M001
+     CDP Number               : (A4)
+     Monument Description     : BEDROCK-BOLTED MAST
+       Height of the Monument : 1 m
+       Monument Foundation    : ROCK BOLTS
+       Foundation Depth       : (m)
+     Marker Description       : PLATE
+     Date Installed           : 2007-08-11
+     Geologic Characteristic  : Bedrock
+       Bedrock Type           : IGNEOUS
+       Bedrock Condition      : FRESH
+       Fracture Spacing       : (0 cm/1-10 cm/11-50 cm/51-200 cm/over 200 cm)
+       Fault zones nearby     : (YES/NO/Name of the zone)
+         Distance/activity    : (multiple lines)
+     Additional Information   : (multiple lines)
+
+
+2.   Site Location Information
+
+     City or Town             : N/A
+     State or Province        : GREENLAND
+     Country or Region        : GRL
+     Tectonic Plate           : NORTH AMERICAN
+     Approximate Position (ITRF)
+       X coordinate (m)       : 2079880.037
+       Y coordinate (m)       : -1404664.903
+       Z coordinate (m)       : 5844060.076
+       Latitude (N is +)      : +665351.82
+       Longitude (E is +)     : -0340200.47
+       Elevation (m,ellips.)  : 122.4
+     Additional Information   : (multiple lines)
+
+
+3.   GNSS Receiver Information
+
+3.1  Receiver Type            : TRIMBLE NETRS
+     Satellite System         : GPS
+     Serial Number            : 4702126998
+     Firmware Version         : 1.1-3
+     Elevation Cutoff Setting : 7 deg
+     Date Installed           : 2007-08-11T00:00Z
+     Date Removed             : 2010-08-23T00:00Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.2  Receiver Type            : TRIMBLE NETRS
+     Satellite System         : GPS
+     Serial Number            : 4706128327
+     Firmware Version         : 1.3-0
+     Elevation Cutoff Setting : 7 deg
+     Date Installed           : 2010-08-23T00:00Z
+     Date Removed             : 2012-08-27T14:01Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.3  Receiver Type            : TRIMBLE NETRS
+     Satellite System         : GPS
+     Serial Number            : 4451241751
+     Firmware Version         : 1.3-1
+     Elevation Cutoff Setting : 7 deg
+     Date Installed           : 2012-08-27T14:01Z
+     Date Removed             : 2012-09-18T10:01Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.4  Receiver Type            : TRIMBLE NETRS
+     Satellite System         : GPS
+     Serial Number            : 4705127741
+     Firmware Version         : 1.3-1
+     Elevation Cutoff Setting : 7 deg
+     Date Installed           : 2012-09-18T10:01Z
+     Date Removed             : 2014-08-28T05:16Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.5  Receiver Type            : TRIMBLE NETRS
+     Satellite System         : GPS
+     Serial Number            : 4705127741
+     Firmware Version         : 1.3-2
+     Elevation Cutoff Setting : 7 deg
+     Date Installed           : 2014-08-28T05:16Z
+     Date Removed             : 2017-08-23T05:01Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.6  Receiver Type            : TRIMBLE NETRS
+     Satellite System         : GPS
+     Serial Number            : 4702127045
+     Firmware Version         : 1.3-2
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2017-08-23T05:01Z
+     Date Removed             : 2019-08-15T17:01Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.7  Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0254
+     Firmware Version         : 5488
+     Elevation Cutoff Setting : 5 deg
+     Date Installed           : 2019-08-15T17:01Z
+     Date Removed             : 2021-08-31T21:08Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.8  Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0254
+     Firmware Version         : 7047
+     Elevation Cutoff Setting : 5 deg
+     Date Installed           : 2021-08-31T21:08Z
+     Date Removed             : 2023-03-07T07:55Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.9  Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0254
+     Firmware Version         : 7047
+     Elevation Cutoff Setting : 5 deg
+     Date Installed           : 2023-03-07T07:55Z
+     Date Removed             : 2023-05-26T07:55Z
+     Temperature Stabiliz.    : none
+     Additional Information   : Change to 5s measurement rate
+
+3.10 Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0254
+     Firmware Version         : 7047
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2023-05-26T07:55Z
+     Date Removed             : 2023-08-04T16:06Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 0 elevation mask
+
+3.11 Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0254
+     Firmware Version         : 8882
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2023-08-04T16:06Z
+     Date Removed             : 2025-08-05T15:59Z
+     Temperature Stabiliz.    : none
+     Additional Information   : Raw format now SBF Meas3
+
+3.12 Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0254
+     Firmware Version         : 12228
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2025-08-05T15:59Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Temperature Stabiliz.    : none
+     Additional Information   : New firmware
+
+3.x  Receiver Type            : (A20, from rcvr_ant.tab; see instructions)
+     Satellite System         : (GPS+GLO+GAL+BDS+QZSS+IRNSS+SBAS)
+     Serial Number            : (A20, but note the first A5 is used in SINEX)
+     Firmware Version         : (A11)
+     Elevation Cutoff Setting : (deg)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Temperature Stabiliz.    : (none or tolerance in degrees C)
+     Additional Information   : (multiple lines)
+
+
+4.   GNSS Antenna Information
+
+4.1  Antenna Type             : TRM29659.00     SCIS
+     Serial Number            : 17065
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  :   0.0000
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : SCIS
+     Radome Serial Number     : 0258
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : 2007-08-11T00:00Z
+     Date Removed             : 2012-08-27T15:32Z
+     Additional Information   : SN: 4624A17065
+
+4.2  Antenna Type             : NOV702GG        SCIS
+     Serial Number            : 50047
+     Antenna Reference Point  : BAM
+     Marker->ARP Up Ecc. (m)  :   0.0000
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : SCIS
+     Radome Serial Number     : 0258
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : 2012-08-27T15:32Z
+     Date Removed             : 2012-09-18T11:02Z
+     Additional Information   : SN: NAE07350047
+
+4.3  Antenna Type             : TRM59800.00     SCIS
+     Serial Number            : 59877
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  :   0.0000
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : SCIS
+     Radome Serial Number     : 0258
+     Antenna Cable Type       : LMR400
+     Antenna Cable Length     : 30 m
+     Date Installed           : 2012-09-18T11:02Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Additional Information   : SN: 4844A59877
+
+4.x  Antenna Type             : (A20, from rcvr_ant.tab; see instructions)
+     Serial Number            : (A*, but note the first A5 is used in SINEX)
+     Antenna Reference Point  : (BPA/BCR/XXX from "antenna.gra"; see instr.)
+     Marker->ARP Up Ecc. (m)  : (F8.4)
+     Marker->ARP North Ecc(m) : (F8.4)
+     Marker->ARP East Ecc(m)  : (F8.4)
+     Alignment from True N    : (deg; + is clockwise/east)
+     Antenna Radome Type      : (A4 from rcvr_ant.tab; see instructions)
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+5.   Surveyed Local Ties
+
+5.x  Tied Marker Name         : 
+     Tied Marker Usage        : (SLR/VLBI/LOCAL CONTROL/FOOTPRINT/etc)
+     Tied Marker CDP Number   : (A4)
+     Tied Marker DOMES Number : (A9)
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : (m)
+       dy (m)                 : (m)
+       dz (m)                 : (m)
+     Accuracy (mm)            : (mm)
+     Survey method            : (GPS CAMPAIGN/TRILATERATION/TRIANGULATION/etc)
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+6.   Frequency Standard
+
+6.1  Standard Type            : INTERNAL
+       Input Frequency        : (if external)
+       Effective Dates        : 2007-08-11/CCYY-MM-DD
+       Notes                  : (multiple lines)
+
+6.x  Standard Type            : (INTERNAL or EXTERNAL H-MASER/CESIUM/etc)
+       Input Frequency        : (if external)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+7.   Collocation Information
+
+7.x  Instrumentation Type     : (GPS/GLONASS/DORIS/PRARE/SLR/VLBI/TIME/etc)
+       Status                 : (PERMANENT/MOBILE)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+8.   Meteorological Instrumentation
+
+8.1.x  Humidity Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy (% rel h)     : (% rel h)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.2.x  Pressure Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (hPa)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.3.x  Temp. Sensor Model     : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (deg C)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.4.x  Water Vapor Radiometer : 
+       Manufacturer           : 
+       Serial Number          : 
+       Distance to Antenna    : (m)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.5.x  Other Instrumentation  : (multiple lines)
+
+
+9.   Local Ongoing Conditions Possibly Affecting Computed Position
+
+9.1.x  Radio Interferences    : (TV/CELL PHONE ANTENNA/RADAR/etc)
+       Observed Degradations  : (SN RATIO/DATA GAPS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.2.x  Multipath Sources      : (METAL ROOF/DOME/VLBI ANTENNA/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.3.x  Signal Obstructions    : (TREES/BUILDINGS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+
+10.  Local Episodic Effects Possibly Affecting Data Quality
+
+10.x  Date                    : (CCYY-MM-DD/CCYY-MM-DD)
+      Event                   : (TREE CLEARING/CONSTRUCTION/etc)
+
+
+11.  On-Site, Point of Contact Agency Information
+
+     Agency                   : National Space Institute
+                              : Technical University of Denmark
+     Preferred Abbreviation   : DTU Space
+     Mailing Address          : Elektrovej Building 328
+                              : Denmark DK-2800 Kongens Lyngby
+                              : Denmark
+     Primary Contact
+       Contact Name           : DTU Space GNSS Team
+       Telephone (primary)    : +45 45 25 95 00
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : dtuspace-gnss@space.dtu.dk
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+12.  Responsible Agency (if different from 11.)
+
+     Agency                   : Agency for Data Supply and Infrastructure
+     Preferred Abbreviation   : SDFI
+     Mailing Address          : Rentemestervej 8
+                              : DK-2400 Copenhagen NV
+                              : Denmark
+     Primary Contact
+       Contact Name           : SDFI GNSS Team
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : gnss@sdfi.dk
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+13.  More Information
+
+     Primary Data Center      : Agency for Data Supply and Infrastructure (SDFI)
+     Secondary Data Center    : DTU Space
+     URL for More Information : 
+     Hardcopy on File
+       Site Map               : (Y or URL)
+       Site Diagram           : (Y)
+       Horizon Mask           : (Y)
+       Monument Description   : (Y)
+       Site Pictures          : (Y)
+     Additional Information   : (multiple lines)
+     Antenna Graphics with Dimensions
+
+TRM29659.00
+TRM59800.00
+TRM59800.80
+TRM59900.00
+
+                         -----
+                     /           \
+                    |             |
+  +-------------------------------------------------+     <--  0.1020  TCR
+  |                                                 |
+  |                                                 |
+  |                                                 |
+  |                                                 |
++-+-------------------------------------------------+-+   <--  0.0381
++-------------------+-------------+-------------------+   <--  0.0350  BCR
+                    |             |
+                   =|             |
+                    +------x------+                       <--  0.0000  BPA=ARP
+
+<--                      0.3810                     -->

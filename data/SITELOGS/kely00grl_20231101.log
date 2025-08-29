@@ -1,0 +1,522 @@
+     KELY00GRL Site Information Form (site log)
+     International GNSS Service
+     See Instructions at:
+       https://files.igs.org/pub/station/general/sitelog_instr.txt
+
+
+0.   Form
+
+     Prepared by (full name)  : SDFI GNSS Team (gnss@sdfi.dk)
+     Date Prepared            : 2023-11-01
+     Report Type              : UPDATE
+     If Update:
+      Previous Site Log       : kely00grl_20231025.log
+      Modified/Added Sections : 4.1, 4.2, 13
+
+
+1.   Site Identification of the GNSS Monument
+
+     Site Name                : Kellyville (Kangerlussuaq)
+     Four Character ID        : KELY
+     Monument Inscription     : KELLYVILLE 1995
+     IERS DOMES Number        : 43005M002
+     CDP Number               : (A4)
+     Monument Description     : CONCRETE PILLAR
+       Height of the Monument : 1.5 m
+       Monument Foundation    : EXPOSED BEDROCK
+       Foundation Depth       : (m)
+     Marker Description       : Dimple in 5/8' bolt set in pillar
+     Date Installed           : 1995-07-23T00:00Z
+     Geologic Characteristic  : (BEDROCK/CLAY/CONGLOMERATE/GRAVEL/SAND/etc)
+       Bedrock Type           : (IGNEOUS/METAMORPHIC/SEDIMENTARY)
+       Bedrock Condition      : (FRESH/JOINTED/WEATHERED)
+       Fracture Spacing       : (0 cm/1-10 cm/11-50 cm/51-200 cm/over 200 cm)
+       Fault zones nearby     : (YES/NO/Name of the zone)
+         Distance/activity    : (multiple lines)
+     Additional Information   : UNAVCO antenna leveling mount used on
+                              : (mark) bolt.
+
+
+2.   Site Location Information
+
+     City or Town             : Kangerlussuaq
+     State or Province        : N/A
+     Country                  : Greenland
+     Tectonic Plate           : NORTH AMERICAN
+     Approximate Position (ITRF)
+       X coordinate (m)       : 1575558.808
+       Y coordinate (m)       : -1941828.029
+       Z coordinate (m)       : 5848076.708
+       Latitude (N is +)      : +665914.71
+       Longitude (E is +)     : -0505641.44
+       Elevation (m,ellips.)  : 230.0
+     Additional Information   : The GPS site is located on the Sondrestrom
+                              : fjord, at the Sondrestrom Incoherent Scatter
+                              : Radar facility.  This facility is known as
+                              : as Kellyville.  A 3 megawatt radar operates
+                              : approximately 10% of the month.
+                              : This radar operates at 1290 MHz.  Because
+                              : of safety concerns, we are not currently
+                              : collecting data through the radar runs.  The
+                              : The nearest town is Kangerlussuaq.  We have
+                              : named this site KELY so as to not confuse
+                              : this site with a temporary GPS marker named
+                              : KANG.
+
+
+3.   GNSS Receiver Information
+
+3.1  Receiver Type            : ROGUE SNR-8000
+     Satellite System         : GPS
+     Serial Number            : T295
+     Firmware Version         : 3.2
+     Elevation Cutoff Setting : 4 deg
+     Date Installed           : 1995-07-23T00:00Z
+     Date Removed             : 1995-07-27T23:59Z
+     Temperature Stabiliz.    : (deg C) +/- (deg C)
+     Additional Information   : (multiple lines)
+
+3.2  Receiver Type            : ROGUE SNR-8000
+     Satellite System         : GPS
+     Serial Number            : T314
+     Firmware Version         : 3.2
+     Elevation Cutoff Setting : 4 deg
+     Date Installed           : 1995-07-28T01:41Z
+     Date Removed             : 1996-02-03T07:34Z
+     Temperature Stabiliz.    : (deg C) +/- (deg C)
+     Additional Information   : (multiple lines)
+
+3.3  Receiver Type            : ROGUE SNR-8000
+     Satellite System         : GPS
+     Serial Number            : T295
+     Firmware Version         : 3.2.32.1
+     Elevation Cutoff Setting : 4 deg
+     Date Installed           : 1996-02-09T11:09Z
+     Date Removed             : 1999-05-26T23:59Z
+     Temperature Stabiliz.    : (deg C) +/- (deg C)
+     Additional Information   : (multiple lines)
+
+3.4  Receiver Type            : ROGUE SNR-8000
+     Satellite System         : GPS
+     Serial Number            : T295
+     Firmware Version         : 3.2.32.8
+     Elevation Cutoff Setting : 4 deg
+     Date Installed           : 1999-05-27T11:03Z
+     Date Removed             : 1999-08-27T11:40Z
+     Temperature Stabiliz.    : (deg C) +/- (deg C)
+     Additional Information   : Firmware Upgrade
+
+3.5  Receiver Type            : ROGUE SNR-8000
+     Satellite System         : GPS
+     Serial Number            : T295
+     Firmware Version         : 3.2.32.9
+     Elevation Cutoff Setting : 4 deg
+     Date Installed           : 1999-08-27T11:52Z
+     Date Removed             : 2000-10-16T11:16Z
+     Temperature Stabiliz.    : (deg C) +/- (deg C)
+     Additional Information   : Firmware Upgrade
+
+3.6  Receiver Type            : ROGUE SNR-8000
+     Satellite System         : GPS
+     Serial Number            : T295
+     Firmware Version         : 3.2.32.11
+     Elevation Cutoff Setting : 4 deg
+     Date Installed           : 2000-10-16T11:16Z
+     Date Removed             : 2001-09-14T17:18Z
+     Temperature Stabiliz.    : (deg C) +/- (deg C)
+     Additional Information   : (multiple lines)
+
+3.7  Receiver Type            : ASHTECH Z-XII3
+     Satellite System         : GPS
+     Serial Number            : LP020003804
+     Firmware Version         : CD00-1D02 1s soc2rnx
+     Elevation Cutoff Setting : 4 deg
+     Date Installed           : 2001-09-14T17:18Z
+     Date Removed             : 2010-06-08T13:20Z
+     Temperature Stabiliz.    : (deg C) +/- (deg C)
+     Additional Information   : (multiple lines)
+
+3.8  Receiver Type            : ASHTECH UZ-12
+     Satellite System         : GPS
+     Serial Number            : ZR520021809
+     Firmware Version         : CQ00
+     Elevation Cutoff Setting : 4 deg
+     Date Installed           : 2010-06-08T13:30Z
+     Date Removed             : 2017-12-07T00:00Z
+     Temperature Stabiliz.    : (deg C) +/- (deg C)
+     Additional Information   : UNAVCO # 16196
+                              : DOWNLOAD COMPUTER REPLACED
+
+3.9  Receiver Type            : JAVAD TRE_3 DELTA
+     Satellite System         : GPS+GLO+GAL+BDS
+     Serial Number            : 02466
+     Firmware Version         : 3.6.7
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2017-12-07T00:00Z
+     Date Removed             : 2018-07-29T00:00Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.10 Receiver Type            : TRIMBLE NETRS
+     Satellite System         : GPS
+     Serial Number            : 4632120736
+     Firmware Version         : 1.3-2
+     Elevation Cutoff Setting : 5 deg
+     Date Installed           : 2020-08-06T12:00Z
+     Date Removed             : 2020-08-27T11:54Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.11 Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0337
+     Firmware Version         : 6048
+     Elevation Cutoff Setting : 5 deg
+     Date Installed           : 2020-08-27T11:54Z
+     Date Removed             : 2021-02-25T21:43Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.12 Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0337
+     Firmware Version         : 6956
+     Elevation Cutoff Setting : 5 deg
+     Date Installed           : 2021-02-25T21:43Z
+     Date Removed             : 2021-07-24T17:27Z
+     Temperature Stabiliz.    : none
+     Additional Information   : Firmware upgrade
+
+3.13 Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0337
+     Firmware Version         : 7047
+     Elevation Cutoff Setting : 5 deg
+     Date Installed           : 2021-07-24T17:27Z
+     Date Removed             : 2022-08-03T12:18Z
+     Temperature Stabiliz.    : none
+     Additional Information   : Firmware upgrade
+
+3.14 Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0406
+     Firmware Version         : 7244
+     Elevation Cutoff Setting : 5 deg
+     Date Installed           : 2022-08-03T12:18Z
+     Date Removed             : 2023-07-06T06:57Z
+     Temperature Stabiliz.    : none
+     Additional Information   : New Resolute with cell modem
+
+3.15 Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0406
+     Firmware Version         : 7244
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2023-07-06T06:57Z
+     Date Removed             : 2023-07-30T13:15Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 0 elevation mask
+
+3.16 Receiver Type            : ALERTGEO RESOLUTE
+     Satellite System         : GPS+GAL
+     Serial Number            : 0406
+     Firmware Version         : 8882
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2023-07-30T13:15Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.x  Receiver Type            : (A20, from rcvr_ant.tab; see instructions)
+     Satellite System         : (GPS+GLO+GAL+BDS+QZSS+IRNSS+SBAS)
+     Serial Number            : (A20, but note the first A5 is used in SINEX)
+     Firmware Version         : (A11)
+     Elevation Cutoff Setting : (deg)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Temperature Stabiliz.    : (none or tolerance in degrees C)
+     Additional Information   : (multiple lines)
+
+
+4.   GNSS Antenna Information
+
+4.1  Antenna Type             : AOAD/M_T        DOME
+     Serial Number            : 394
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  :   0.0000
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : DOME
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : 1995-07-23T00:00Z
+     Date Removed             : 1996-04-04T18:22Z
+     Additional Information   : radome was conical fiberglass unit
+                              : of indeterminate origin. Change ARPZ
+                              : to 0.0762 on 20210607
+
+4.2  Antenna Type             : AOAD/M_T        DOME
+     Serial Number            : 230
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  :   0.0000
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : DOME
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : 1996-04-05T05:58Z
+     Date Removed             : 2001-09-14T17:18Z
+     Additional Information   : radome was conical fiberglass unit
+                              : of indeterminate origin.
+                              : As requested by EUREF, the antenna
+                              : reference point was changed to BPA
+                              : on 2001-04-12. Change ARPZ
+                              : to 0.0762 on 20210607
+
+4.3  Antenna Type             : ASH701945C_M    NONE
+     Serial Number            : CR620010504
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  :   0.0762
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : NONE
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : 2001-09-14T17:18Z
+     Date Removed             : 2018-07-29T00:00Z
+     Additional Information   : antenna height of 7.62cm measured at
+                              : site (previously reported as 0.00).
+                              : UNAVCO levelling mount used over
+                              : monument. Cone fiberglass dome removed
+                              : along with old antenna. SCIGN-type dome
+                              : to be added at a later date.
+
+4.4  Antenna Type             : TRM59800.00     SCIS
+     Serial Number            : 60395
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  :   0.0762
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : SCIS
+     Radome Serial Number     : n/a
+     Antenna Cable Type       : LMR400
+     Antenna Cable Length     : 30 m
+     Date Installed           : 2020-08-06T12:00Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Additional Information   : New antenna installed on existing level mount
+                              : Antenna serial number is 4846A60395
+
+4.x  Antenna Type             : (A20, from rcvr_ant.tab; see instructions)
+     Serial Number            : (A*, but note the first A5 is used in SINEX)
+     Antenna Reference Point  : (BPA/BCR/XXX from "antenna.gra"; see instr.)
+     Marker->ARP Up Ecc. (m)  : (F8.4)
+     Marker->ARP North Ecc(m) : (F8.4)
+     Marker->ARP East Ecc(m)  : (F8.4)
+     Alignment from True N    : (deg; + is clockwise/east)
+     Antenna Radome Type      : (A4 from rcvr_ant.tab; see instructions)
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+5.   Surveyed Local Ties
+
+5.x  Tied Marker Name         : 
+     Tied Marker Usage        : (SLR/VLBI/LOCAL CONTROL/FOOTPRINT/etc)
+     Tied Marker CDP Number   : (A4)
+     Tied Marker DOMES Number : (A9)
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : (m)
+       dy (m)                 : (m)
+       dz (m)                 : (m)
+     Accuracy (mm)            : (mm)
+     Survey method            : (GPS CAMPAIGN/TRILATERATION/TRIANGULATION/etc)
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+6.   Frequency Standard
+
+6.1  Standard Type            : INTERNAL
+       Input Frequency        : (if external)
+       Effective Dates        : 1995-07-23/CCYY-MM-DD
+       Notes                  : (multiple lines)
+
+6.x  Standard Type            : (INTERNAL or EXTERNAL H-MASER/CESIUM/etc)
+       Input Frequency        : (if external)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+7.   Collocation Information
+
+7.x  Instrumentation Type     : (GPS/GLONASS/DORIS/PRARE/SLR/VLBI/TIME/etc)
+       Status                 : (PERMANENT/MOBILE)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+8.   Meteorological Instrumentation
+
+8.1.x  Humidity Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy (% rel h)     : (% rel h)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.2.x  Pressure Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (hPa)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.3.x  Temp. Sensor Model     : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (deg C)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.4.x  Water Vapor Radiometer : 
+       Manufacturer           : 
+       Serial Number          : 
+       Distance to Antenna    : (m)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.5.x  Other Instrumentation  : (multiple lines)
+
+
+9.   Local Ongoing Conditions Possibly Affecting Computed Position
+
+9.1.x  Radio Interferences    : (TV/CELL PHONE ANTENNA/RADAR/etc)
+       Observed Degradations  : (SN RATIO/DATA GAPS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.2.x  Multipath Sources      : (METAL ROOF/DOME/VLBI ANTENNA/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.3.x  Signal Obstructions    : (TREES/BUILDINGS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+
+10.  Local Episodic Effects Possibly Affecting Data Quality
+
+10.1  Date                    : 2012-02-07/2012-02-07
+      Event                   : Transitioned from .soc to .ash data types.  For
+                              : soc data typed used soc2rnx to do the
+                              : conversion to RINEX data.  For ash data types
+                              : using teqc directly to do the conversion to
+                              : RINEX.
+
+10.x  Date                    : (CCYY-MM-DD/CCYY-MM-DD)
+      Event                   : (TREE CLEARING/CONSTRUCTION/etc)
+
+
+11.  On-Site, Point of Contact Agency Information
+
+     Agency                   : National Space Institute
+                              : Technical University of Denmark
+     Preferred Abbreviation   : DTU Space
+     Mailing Address          : Elektrovej Building 328
+                              : Denmark DK-2800 Kongens Lyngby
+                              : Denmark
+     Primary Contact
+       Contact Name           : DTU Space GNSS Team
+       Telephone (primary)    : +45 45 25 95 00
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : dtuspace-gnss@space.dtu.dk
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+12.  Responsible Agency (if different from 11.)
+
+     Agency                   : Agency for Data Supply and Infrastructure
+     Preferred Abbreviation   : SDFI
+     Mailing Address          : Rentemestervej 8
+                              : DK-2400 Copenhagen NV
+                              : Denmark
+     Primary Contact
+       Contact Name           : SDFI GNSS Team
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : gnss@sdfi.dk
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+13.  More Information
+
+     Primary Data Center      : Agency for Data Supply and Infrastructure (SDFI)
+     Secondary Data Center    : DTU Space
+     URL for More Information : 
+     Hardcopy on File
+       Site Map               : (Y or URL)
+       Site Diagram           : (Y)
+       Horizon Mask           : (Y)
+       Monument Description   : (Y)
+       Site Pictures          : (Y)
+     Additional Information   : (multiple lines)
+     Antenna Graphics with Dimensions
+
+TRM29659.00
+TRM59800.00
+TRM59800.80
+TRM59900.00
+
+                         -----
+                     /           \
+                    |             |
+  +-------------------------------------------------+     <--  0.1020  TCR
+  |                                                 |
+  |                                                 |
+  |                                                 |
+  |                                                 |
++-+-------------------------------------------------+-+   <--  0.0381
++-------------------+-------------+-------------------+   <--  0.0350  BCR
+                    |             |
+                   =|             |
+                    +------x------+                       <--  0.0762  BPA=ARP
+
+<--                      0.3810                     -->

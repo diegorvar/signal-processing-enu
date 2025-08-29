@@ -1,0 +1,302 @@
+     KSUT00GRL Site Information Form (site log v2.0)
+     International GNSS Service
+     See Instructions at:
+       https://files.igs.org/pub/station/general/sitelog_instr_v2.0.txt
+
+
+0.   Form
+
+     Prepared by (full name)  : SDFI GNSS Team (gnss@sdfi.dk)
+     Date Prepared            : 2025-06-04
+     Report Type              : UPDATE
+     If Update:
+      Previous Site Log       : ksut00grl_20231011.log
+      Modified/Added Sections : 1, 2, 3.1, 3.2
+
+
+1.   Site Identification of the GNSS Monument
+
+     Site Name                : Kitsissut
+     Nine Character ID        : KSUT00GRL
+     Monument Inscription     : 
+     IERS DOMES Number        : 43062M001
+     CDP Number               : (A4)
+     Monument Description     : Aluminium pipe mast (100 mm diameter)
+       Height of the Monument : 1 m
+       Monument Foundation    : Steed treaded rods
+       Foundation Depth       : 0.25 m
+     Marker Description       : Top center of mast
+     Date Installed           : 2023-08-22T19:00Z
+     Geologic Characteristic  : BEDROCK
+       Bedrock Type           : METAMORPHIC
+       Bedrock Condition      : FRESH
+       Fracture Spacing       : (0 cm/1-10 cm/11-50 cm/51-200 cm/over 200 cm)
+       Fault zones nearby     : (YES/NO/Name of the zone)
+         Distance/activity    : (multiple lines)
+     Additional Information   : (multiple lines)
+
+
+2.   Site Location Information
+
+     City or Town             : Nuuk
+     State or Province        : GREENLAND
+     Country or Region        : GRL
+     Tectonic Plate           : NORTH AMERICAN
+     Approximate Position (ITRF)
+       X coordinate (m)       : 1721410.074
+       Y coordinate (m)       : -2203914.708
+       Z coordinate (m)       : 5713202.063
+       Latitude (N is +)      : +640414.51
+       Longitude (E is +)     : -0520027.71
+       Elevation (m,ellips.)  : 40.7
+     Additional Information   : 1 hrs NRCan Ultrarapid solution from 08/23/2023
+
+
+3.   GNSS Receiver Information
+
+3.1  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS
+     Serial Number            : 3048295
+     Firmware Version         : 5.5.0
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2023-08-23T15:30Z
+     Date Removed             : 2025-06-04T11:17Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.2  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS
+     Serial Number            : 3048295
+     Firmware Version         : 5.6.0
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2025-06-04T11:17Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.x  Receiver Type            : (A20, from rcvr_ant.tab; see instructions)
+     Satellite System         : (GPS+GLO+GAL+BDS+QZSS+IRNSS+SBAS)
+     Serial Number            : (A20, but note the first A5 is used in SINEX)
+     Firmware Version         : (A11)
+     Elevation Cutoff Setting : (deg)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Temperature Stabiliz.    : (none or tolerance in degrees C)
+     Additional Information   : (multiple lines)
+
+
+4.   GNSS Antenna Information
+
+4.1  Antenna Type             : LEIAR20         LEIM
+     Serial Number            : 24058
+     Antenna Reference Point  : BAM
+     Marker->ARP Up Ecc. (m)  :   0.0000
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : LEIM
+     Radome Serial Number     : NA
+     Antenna Cable Type       : LMR400
+     Antenna Cable Length     : 28 m
+     Date Installed           : 2023-08-22T19:00Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Additional Information   : Full SN#25024058
+
+4.x  Antenna Type             : (A20, from rcvr_ant.tab; see instructions)
+     Serial Number            : (A*, but note the first A5 is used in SINEX)
+     Antenna Reference Point  : (BPA/BCR/XXX from "antenna.gra"; see instr.)
+     Marker->ARP Up Ecc. (m)  : (F8.4)
+     Marker->ARP North Ecc(m) : (F8.4)
+     Marker->ARP East Ecc(m)  : (F8.4)
+     Alignment from True N    : (deg; + is clockwise/east)
+     Antenna Radome Type      : (A4 from rcvr_ant.tab; see instructions)
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+5.   Surveyed Local Ties
+
+5.x  Tied Marker Name         : 
+     Tied Marker Usage        : (SLR/VLBI/LOCAL CONTROL/FOOTPRINT/etc)
+     Tied Marker CDP Number   : (A4)
+     Tied Marker DOMES Number : (A9)
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : (m)
+       dy (m)                 : (m)
+       dz (m)                 : (m)
+     Accuracy (mm)            : (mm)
+     Survey method            : (GPS CAMPAIGN/TRILATERATION/TRIANGULATION/etc)
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+6.   Frequency Standard
+
+6.1  Standard Type            : INTERNAL
+       Input Frequency        : (if external)
+       Effective Dates        : 2022-08-08/CCYY-MM-DD
+       Notes                  : (multiple lines)
+
+6.x  Standard Type            : (INTERNAL or EXTERNAL H-MASER/CESIUM/etc)
+       Input Frequency        : (if external)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+7.   Collocation Information
+
+7.x  Instrumentation Type     : (GPS/GLONASS/DORIS/PRARE/SLR/VLBI/TIME/etc)
+       Status                 : (PERMANENT/MOBILE)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+8.   Meteorological Instrumentation
+
+8.1.x  Humidity Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy (% rel h)     : (% rel h)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.2.x  Pressure Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (hPa)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.3.x  Temp. Sensor Model     : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (deg C)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.4.x  Water Vapor Radiometer : 
+       Manufacturer           : 
+       Serial Number          : 
+       Distance to Antenna    : (m)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.5.x  Other Instrumentation  : (multiple lines)
+
+
+9.   Local Ongoing Conditions Possibly Affecting Computed Position
+
+9.1.x  Radio Interferences    : (TV/CELL PHONE ANTENNA/RADAR/etc)
+       Observed Degradations  : (SN RATIO/DATA GAPS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.2.x  Multipath Sources      : (METAL ROOF/DOME/VLBI ANTENNA/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.3.x  Signal Obstructions    : (TREES/BUILDINGS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+
+10.  Local Episodic Effects Possibly Affecting Data Quality
+
+10.x  Date                    : (CCYY-MM-DD/CCYY-MM-DD)
+      Event                   : (TREE CLEARING/CONSTRUCTION/etc)
+
+
+11.  On-Site, Point of Contact Agency Information
+
+     Agency                   : National Space Institute
+                              : Technical University of Denmark
+     Preferred Abbreviation   : DTU Space
+     Mailing Address          : Elektrovej Building 328
+                              : Denmark DK-2800 Kongens Lyngby
+                              : Denmark
+     Primary Contact
+       Contact Name           : DTU Space GNSS Team
+       Telephone (primary)    : +45 45 25 95 00
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : dtuspace-gnss@space.dtu.dk
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+12.  Responsible Agency (if different from 11.)
+
+     Agency                   : Agency for Data Supply and Infrastructure
+     Preferred Abbreviation   : SDFI
+     Mailing Address          : Rentemestervej 8
+                              : DK-2400 Copenhagen NV
+                              : Denmark
+     Primary Contact
+       Contact Name           : SDFI GNSS Team
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : gnss@sdfi.dk
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+13.  More Information
+
+     Primary Data Center      : Agency for Data Supply and Infrastructure (SDFI)
+     Secondary Data Center    : DTU Space
+     URL for More Information : 
+     Hardcopy on File
+       Site Map               : (Y or URL)
+       Site Diagram           : (Y)
+       Horizon Mask           : (Y)
+       Monument Description   : (Y)
+       Site Pictures          : (Y)
+     Additional Information   : (multiple lines)
+     Antenna Graphics with Dimensions
+
+LEIAR20
+
+                        +-----+                           <--  0.1613
+                      /         \
+                     |           |
+    +----------------+-----------+----------------+       <--  0.1113  TCR
+    |                                             |
+    |                                             |
+    |                                             |
+    |                                             |
+  +-+---------------------------------------------+-+
+  +------------------+-----------+------------------+     <--  0.0323  BCR
+                     |           |
+                     |           |
+                     +----+ +----+                        <--  0.0013  BPA
+                          +x+                             <--  0.0000  BAM=ARP
+                                                                       NOM=NRP
+  <--                    0.3200                   -->

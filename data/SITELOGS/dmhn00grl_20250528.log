@@ -1,0 +1,486 @@
+     DMHN00GRL Site Information Form (site log v2.0)
+     International GNSS Service
+     See Instructions at:
+       https://files.igs.org/pub/station/general/sitelog_instr_v2.0.txt
+
+
+0.   Form
+
+     Prepared by (full name)  : SDFI GNSS Team (gnss@sdfi.dk)
+     Date Prepared            : 2025-05-28
+     Report Type              : UPDATE
+     If Update:
+      Previous Site Log       : dmhn00grl_20240807.log
+      Modified/Added Sections : 1, 2, 3.10, 3.11, 8.1.2, 8.1.1, 8.2.2, 8.2.1,
+                              : 8.3.2, 8.3.1, 13
+
+
+1.   Site Identification of the GNSS Monument
+
+     Site Name                : Danmarkshavn
+     Nine Character ID        : DMHN00GRL
+     Monument Inscription     : 
+     IERS DOMES Number        : 43014M001
+     CDP Number               : (A4)
+     Monument Description     : 1.0 m alumunium mast
+       Height of the Monument : 1.0 m
+       Monument Foundation    : bedrock
+       Foundation Depth       : (m)
+     Marker Description       : (CHISELLED CROSS/DIVOT/BRASS NAIL/etc)
+     Date Installed           : 2009-08-20
+     Geologic Characteristic  : BEDROCK
+       Bedrock Type           : METAMORPHIC
+       Bedrock Condition      : FRESH
+       Fracture Spacing       : (0 cm/1-10 cm/11-50 cm/51-200 cm/over 200 cm)
+       Fault zones nearby     : (YES/NO/Name of the zone)
+         Distance/activity    : (multiple lines)
+     Additional Information   : 
+                              : Monument consist of a aluminium tube 10 mm thick
+                              : and radius 100 mm. Three equiangular distributed
+                              : "wings" with boltattachment holes.
+                              : Centered base plate diameter 118 mm with hole
+                              : for antenna attachment.
+
+
+2.   Site Location Information
+
+     City or Town             : Danmarkshavn
+     State or Province        : Greenland
+     Country or Region        : GRL
+     Tectonic Plate           : NORTH AMERICAN
+     Approximate Position (ITRF)
+       X coordinate (m)       : 1387317.415
+       Y coordinate (m)       : -468385.228
+       Z coordinate (m)       : 6187028.648
+       Latitude (N is +)      : +764615.88
+       Longitude (E is +)     : -0183920.44
+       Elevation (m,ellips.)  : 55.5
+     Additional Information   : 24 hrs NRCan Rapid solution ITRF14 2020-10-09
+
+
+3.   GNSS Receiver Information
+
+3.1  Receiver Type            : LEICA GRX1200+
+     Satellite System         : GPS
+     Serial Number            : 495031
+     Firmware Version         : 7.01
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2009-08-20
+     Date Removed             : 2010-08-01
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.2  Receiver Type            : LEICA GRX1200+
+     Satellite System         : GPS+GLO+GAL
+     Serial Number            : 495031
+     Firmware Version         : 8.00
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2010-08-02
+     Date Removed             : 2019-03-07
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.3  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS+SBAS
+     Serial Number            : 3046434
+     Firmware Version         : 5.2.0
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2019-03-07T20:19Z
+     Date Removed             : 2019-10-02T12:00Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 1Hz
+
+3.4  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS+SBAS
+     Serial Number            : 3046434
+     Firmware Version         : 5.3.0
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2019-10-02T12:00Z
+     Date Removed             : 2020-02-18T23:59Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 1Hz
+
+3.5  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS+SBAS
+     Serial Number            : 3046434
+     Firmware Version         : 5.3.2
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2020-02-19T00:05Z
+     Date Removed             : 2020-10-02T10:00Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 1Hz
+
+3.6  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS
+     Serial Number            : 3046434
+     Firmware Version         : 5.3.2
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2020-10-02T10:15Z
+     Date Removed             : 2021-01-12T00:15Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 1Hz
+
+3.7  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS
+     Serial Number            : 3046434
+     Firmware Version         : 5.4.0
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2021-01-12T00:15Z
+     Date Removed             : 2021-07-18T14:55Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 1Hz
+
+3.8  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS
+     Serial Number            : 3046434
+     Firmware Version         : 5.4.0-patch1
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2021-07-18T14:55Z
+     Date Removed             : 2022-05-06T16:00Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 1Hz
+
+3.9  Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS
+     Serial Number            : 3071181
+     Firmware Version         : 5.4.0-patch1
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2022-05-06T16:07Z
+     Date Removed             : 2022-09-07T12:30Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 1Hz
+
+3.10 Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS
+     Serial Number            : 3071181
+     Firmware Version         : 5.5.0
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2022-09-07T12:30Z
+     Date Removed             : 2025-05-28T11:06Z
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.11 Receiver Type            : SEPT POLARX5
+     Satellite System         : GPS+GLO+GAL+BDS+QZSS+IRNSS
+     Serial Number            : 3071181
+     Firmware Version         : 5.6.0
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2025-05-28T11:06Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Temperature Stabiliz.    : none
+     Additional Information   : (multiple lines)
+
+3.x  Receiver Type            : (A20, from rcvr_ant.tab; see instructions)
+     Satellite System         : (GPS+GLO+GAL+BDS+QZSS+IRNSS+SBAS)
+     Serial Number            : (A20, but note the first A5 is used in SINEX)
+     Firmware Version         : (A11)
+     Elevation Cutoff Setting : (deg)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Temperature Stabiliz.    : (none or tolerance in degrees C)
+     Additional Information   : (multiple lines)
+
+
+4.   GNSS Antenna Information
+
+4.1  Antenna Type             : LEIAR25         LEIT
+     Serial Number            : 90008
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  :   0.0000
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : LEIT
+     Radome Serial Number     : n/a
+     Antenna Cable Type       : Andrew LDF4-50A
+     Antenna Cable Length     : 60 m
+     Date Installed           : 2009-08-20
+     Date Removed             : 2010-08-01
+     Additional Information   : (multiple lines)
+
+4.2  Antenna Type             : LEIAR25.R3      LEIT
+     Serial Number            : 40024
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  :   0.0000
+     Marker->ARP North Ecc(m) :   0.0000
+     Marker->ARP East Ecc(m)  :   0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : LEIT
+     Radome Serial Number     : n/a
+     Antenna Cable Type       : Andrew LDF4-50A
+     Antenna Cable Length     : 60 m
+     Date Installed           : 2010-08-01
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Additional Information   : Serial number incorrectly entered as part
+                              : number.
+
+4.x  Antenna Type             : (A20, from rcvr_ant.tab; see instructions)
+     Serial Number            : (A*, but note the first A5 is used in SINEX)
+     Antenna Reference Point  : (BPA/BCR/XXX from "antenna.gra"; see instr.)
+     Marker->ARP Up Ecc. (m)  : (F8.4)
+     Marker->ARP North Ecc(m) : (F8.4)
+     Marker->ARP East Ecc(m)  : (F8.4)
+     Alignment from True N    : (deg; + is clockwise/east)
+     Antenna Radome Type      : (A4 from rcvr_ant.tab; see instructions)
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+5.   Surveyed Local Ties
+
+5.x  Tied Marker Name         : 
+     Tied Marker Usage        : (SLR/VLBI/LOCAL CONTROL/FOOTPRINT/etc)
+     Tied Marker CDP Number   : (A4)
+     Tied Marker DOMES Number : (A9)
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : (m)
+       dy (m)                 : (m)
+       dz (m)                 : (m)
+     Accuracy (mm)            : (mm)
+     Survey method            : (GPS CAMPAIGN/TRILATERATION/TRIANGULATION/etc)
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+6.   Frequency Standard
+
+6.1  Standard Type            : INTERNAL
+       Input Frequency        : (if external)
+       Effective Dates        : 2009-08-20/CCYY-MM-DD
+       Notes                  : (multiple lines)
+
+6.x  Standard Type            : (INTERNAL or EXTERNAL H-MASER/CESIUM/etc)
+       Input Frequency        : (if external)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+7.   Collocation Information
+
+7.x  Instrumentation Type     : (GPS/GLONASS/DORIS/PRARE/SLR/VLBI/TIME/etc)
+       Status                 : (PERMANENT/MOBILE)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+8.   Meteorological Instrumentation
+
+8.1.1  Humidity Sensor Model  : PTU303
+       Manufacturer           : VAISALA
+       Serial Number          : 
+       Data Sampling Interval :   300 sec
+       Accuracy (% rel h)     : 2 % rel h
+       Aspiration             : UNASPIRATED
+       Height Diff to Ant     : -3 m
+       Calibration date       : 2018-12-01
+       Effective Dates        : 2019-08-23/2024-08-07
+       Notes                  : Serial ?
+
+8.1.2  Humidity Sensor Model  : PTU303
+       Manufacturer           : VAISALA
+       Serial Number          : W0428243
+       Data Sampling Interval :   300 sec
+       Accuracy (% rel h)     : 2 % rel h
+       Aspiration             : UNASPIRATED
+       Height Diff to Ant     : -3 m
+       Calibration date       : 2024-01-01
+       Effective Dates        : 2024-08-07/CCYY-MM-DD
+       Notes                  : (multiple lines)
+
+8.1.x  Humidity Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy (% rel h)     : (% rel h)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.2.1  Pressure Sensor Model  : PTU303
+       Manufacturer           : VAISALA
+       Serial Number          : 
+       Data Sampling Interval : 300 sec
+       Accuracy               : 0.3 hPa
+       Height Diff to Ant     : -3 m
+       Calibration date       : 2018-12-01
+       Effective Dates        : 2019-08-23/2024-08-07
+       Notes                  : (multiple lines)
+
+8.2.2  Pressure Sensor Model  : PTU303
+       Manufacturer           : VAISALA
+       Serial Number          : W0428243
+       Data Sampling Interval : 300 sec
+       Accuracy               : 0.3 hPa
+       Height Diff to Ant     : -3 m
+       Calibration date       : 2024-01-01
+       Effective Dates        : 2024-08-07/CCYY-MM-DD
+       Notes                  : (multiple lines)
+
+8.2.x  Pressure Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (hPa)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.3.1  Temp. Sensor Model     : PTU303
+       Manufacturer           : VAISALA
+       Serial Number          : 
+       Data Sampling Interval : 300 sec
+       Accuracy               : 0.2 deg C
+       Aspiration             : UNASPIRATED
+       Height Diff to Ant     : -3 m
+       Calibration date       : 2018-12-01
+       Effective Dates        : 2019-08-23/2024-08-07
+       Notes                  : (multiple lines)
+
+8.3.2  Temp. Sensor Model     : PTU303
+       Manufacturer           : VAISALA
+       Serial Number          : W0428243
+       Data Sampling Interval : 300 sec
+       Accuracy               : 0.2 deg C
+       Aspiration             : UNASPIRATED
+       Height Diff to Ant     : -3 m
+       Calibration date       : 2024-01-01
+       Effective Dates        : 2024-08-07/CCYY-MM-DD
+       Notes                  : (multiple lines)
+
+8.3.x  Temp. Sensor Model     : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (deg C)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.4.x  Water Vapor Radiometer : 
+       Manufacturer           : 
+       Serial Number          : 
+       Distance to Antenna    : (m)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.5.x  Other Instrumentation  : (multiple lines)
+
+
+9.   Local Ongoing Conditions Possibly Affecting Computed Position
+
+9.1.x  Radio Interferences    : (TV/CELL PHONE ANTENNA/RADAR/etc)
+       Observed Degradations  : (SN RATIO/DATA GAPS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.2.x  Multipath Sources      : (METAL ROOF/DOME/VLBI ANTENNA/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.3.x  Signal Obstructions    : (TREES/BUILDINGS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+
+10.  Local Episodic Effects Possibly Affecting Data Quality
+
+10.x  Date                    : (CCYY-MM-DD/CCYY-MM-DD)
+      Event                   : (TREE CLEARING/CONSTRUCTION/etc)
+
+
+11.  On-Site, Point of Contact Agency Information
+
+     Agency                   : National Space Institute
+                              : Technical University of Denmark
+     Preferred Abbreviation   : DTU Space
+     Mailing Address          : Elektrovej Building 328
+                              : Denmark DK-2800 Kongens Lyngby
+                              : Denmark
+     Primary Contact
+       Contact Name           : DTU Space GNSS Team
+       Telephone (primary)    : +45 45 25 95 00
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : dtuspace-gnss@space.dtu.dk
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+12.  Responsible Agency (if different from 11.)
+
+     Agency                   : Agency for Data Supply and Infrastructure
+     Preferred Abbreviation   : SDFI
+     Mailing Address          : Rentemestervej 8
+                              : DK-2400 Copenhagen NV
+                              : Denmark
+     Primary Contact
+       Contact Name           : SDFI GNSS Team
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : gnss@sdfi.dk
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : (multiple lines)
+
+
+13.  More Information
+
+     Primary Data Center      : Agency for Data Supply and Infrastructure (SDFI)
+     Secondary Data Center    : DTU Space
+     URL for More Information : 
+     Hardcopy on File
+       Site Map               : (Y or URL)
+       Site Diagram           : (Y)
+       Horizon Mask           : (Y)
+       Monument Description   : (Y)
+       Site Pictures          : (Y)
+     Additional Information   : (multiple lines)
+     Antenna Graphics with Dimensions
+
+LEIAR25.R3/LEIAR25.R4
+
+                         +-------+                        <-- 0.1995
+                        /         \
+                  +---+-------------+---+                 <-- 0.1606  TCR
+                  |                     |
+               |---------------------------|
+            |---------------------------------|
+         |---------------------------------------|
+      +---------------------------------------------+
+      |                                             |
+      |                                             |
+    +-+---------------------------------------------+-+
+    +-----------------+-------------+-----------------+   <-- 0.0320  BCR
+                      |             |
+                      |             |
+                      +------x------+                     <-- 0.0000  BPA=ARP
+
+    <--                    0.3802                   -->
+
+ARP: Antenna Reference Point
+L1 : L1 Phase Center                   L2 : L2 Phase Center
+TCR: Top of Chokering                  BCR: Bottom of Chokering
+TGP: Top of Ground Plane               BGP: Bottom of Ground Plane
+TPA: Top of Preamplifier               BPA: Bottom of Preamplifier
+TOP: Top of Pole

@@ -1,0 +1,472 @@
+
+     THU300GRL Site Information Form (site log)
+     International GNSS Service
+     See Instructions at:
+       ftp://igs.org/pub/station/general/sitelog_instr.txt
+
+0.   Form
+
+     Prepared by (full name)  : Ole Bjerregaard Hansen
+     Date Prepared            : 2019-05-15
+     Report Type              : UPDATE
+     If Update:
+      Previous Site Log       : thu3_20090515.log
+      Modified/Added Sections : 0, 3.5, 11, 13
+
+
+1.   Site Identification of the GNSS Monument
+
+     Site Name                : THULE
+     Four Character ID        : THU3
+     Monument Inscription     : 
+     IERS DOMES Number        : 43001M002
+     CDP Number               : 
+     Monument Description     : Bolt in 1.5 meter concrete pillar
+       Height of the Monument : 
+       Monument Foundation    : Steel rods
+       Foundation Depth       : 
+     Marker Description       : 
+     Date Installed           : 2001-09-01T00:00Z
+     Geologic Characteristic  : BEDROCK
+       Bedrock Type           : METAMORPHIC
+       Bedrock Condition      : JOINTED
+       Fracture Spacing       : over 200 cm
+       Fault zones nearby     : 
+         Distance/activity    : 
+     Additional Information   : MONUMENT+ANTENNA SHARED WITH IGLOS STATION THU2
+                              : 2002-08-20 Format issues, antenna eccentricity,
+                              : elevation cutoff setting and datacenter
+                              : information has been corrected/added.
+
+
+2.   Site Location Information
+
+     City or Town             : Thule Airbase
+     State or Province        : Greenland
+     Country                  : Greenland
+     Tectonic Plate           : NORTH AMERICAN
+     Approximate Position (ITRF)
+       X coordinate (m)       : 538093.700
+       Y coordinate (m)       : -1389088.000
+       Z coordinate (m)       : 6180979.300
+       Latitude (N is +)      : +763213.37
+       Longitude (E is +)     : -0684930.11
+       Elevation (m,ellips.)  : 36.2
+     Additional Information   : 00018.9
+
+
+3.   GNSS Receiver Information
+
+3.1  Receiver Type            : ASHTECH UZ-12
+     Satellite System         : GPS
+     Serial Number            : ZR20011104
+     Firmware Version         : CJ00
+     Elevation Cutoff Setting : 5 deg
+     Date Installed           : 2001-09-01T00:00Z
+     Date Removed             : 2003-11-13T00:00Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 
+
+3.2  Receiver Type            : ASHTECH UZ-12
+     Satellite System         : GPS
+     Serial Number            : 11104
+     Firmware Version         : CJ00
+     Elevation Cutoff Setting : 5 deg
+     Date Installed           : 2003-11-13T00:00Z
+     Date Removed             : 2006-08-29T00:00Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 
+
+3.3  Receiver Type            : ASHTECH UZ-12
+     Satellite System         : GPS
+     Serial Number            : 11104
+     Firmware Version         : CJ00
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2006-08-29T00:00Z
+     Date Removed             : 2008-02-15T14:06Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 
+
+3.4  Receiver Type            : ASHTECH Z-XII3
+     Satellite System         : GPS
+     Serial Number            : 02259
+     Firmware Version         : 1L00
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2008-02-15T14:07Z
+     Date Removed             : 2009-04-30T19:11Z
+     Temperature Stabiliz.    : none
+     Additional Information   : 
+
+3.5  Receiver Type            : ASHTECH UZ-12
+     Satellite System         : GPS
+     Serial Number            : 11104
+     Firmware Version         : CK00
+     Elevation Cutoff Setting : 0 deg
+     Date Installed           : 2009-04-30T19:11Z
+     Date Removed             : 2019-05-23T23:59Z
+     Temperature Stabiliz.    : none
+     Additional Information   : THU2 continues on the same MARKER
+
+3.x  Receiver Type            : (A20, from rcvr_ant.tab; see instructions)
+     Satellite System         : (GPS+GLO+GAL+BDS+QZSS+SBAS)
+     Serial Number            : (A20, but note the first A5 is used in SINEX)
+     Firmware Version         : (A11)
+     Elevation Cutoff Setting : (deg)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Temperature Stabiliz.    : (none or tolerance in degrees C)
+     Additional Information   : (multiple lines)
+
+
+4.   GNSS Antenna Information
+
+4.1  Antenna Type             : ASH701073.1     SCIS
+     Serial Number            : G0111
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  : 0.1002
+     Marker->ARP North Ecc(m) : 0.0000
+     Marker->ARP East Ecc(m)  : 0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : SCIS
+     Radome Serial Number     : 
+     Antenna Cable Type       : Andrew LDF4-50A
+     Antenna Cable Length     : 70 m
+     Date Installed           : 2000-11-17T00:00Z
+     Date Removed             : 2003-11-13T00:00Z
+     Additional Information   : SN: CRG0111
+
+4.2  Antenna Type             : ASH701073.1     SCIS
+     Serial Number            : G0111
+     Antenna Reference Point  : BPA
+     Marker->ARP Up Ecc. (m)  : 0.1002
+     Marker->ARP North Ecc(m) : 0.0000
+     Marker->ARP East Ecc(m)  : 0.0000
+     Alignment from True N    : 0 deg
+     Antenna Radome Type      : SCIS
+     Radome Serial Number     : 
+     Antenna Cable Type       : Andrew LDF4-50A
+     Antenna Cable Length     : 70 m
+     Date Installed           : 2003-11-13T00:00Z
+     Date Removed             : CCYY-MM-DDThh:mmZ
+     Additional Information   : Serial Number changed in order to conform with
+                              : SINEX
+
+4.x  Antenna Type             : (A20, from rcvr_ant.tab; see instructions)
+     Serial Number            : (A*, but note the first A5 is used in SINEX)
+     Antenna Reference Point  : (BPA/BCR/XXX from "antenna.gra"; see instr.)
+     Marker->ARP Up Ecc. (m)  : (F8.4)
+     Marker->ARP North Ecc(m) : (F8.4)
+     Marker->ARP East Ecc(m)  : (F8.4)
+     Alignment from True N    : (deg; + is clockwise/east)
+     Antenna Radome Type      : (A4 from rcvr_ant.tab; see instructions)
+     Radome Serial Number     : 
+     Antenna Cable Type       : (vendor & type number)
+     Antenna Cable Length     : (m)
+     Date Installed           : (CCYY-MM-DDThh:mmZ)
+     Date Removed             : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+5.   Surveyed Local Ties
+
+5.1  Tied Marker Name         : THU1
+     Tied Marker Usage        : 
+     Tied Marker CDP Number   : 
+     Tied Marker DOMES Number : 43001M001
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : 887.691
+       dy (m)                 : 373.240
+       dz (m)                 : 25.840
+     Accuracy (mm)            : 
+     Survey method            : GPS CAMPAIGN
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : ONE YEAR OF DAILY FILES
+
+5.2  Tied Marker Name         : THU2
+     Tied Marker Usage        : 
+     Tied Marker CDP Number   : 
+     Tied Marker DOMES Number : 43001M002
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : 0.000
+       dy (m)                 : 0.000
+       dz (m)                 : 0.000
+     Accuracy (mm)            : 
+     Survey method            : UNKNOWN
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : 
+
+5.3  Tied Marker Name         : THU1
+     Tied Marker Usage        : IGS global station
+     Tied Marker CDP Number   : 
+     Tied Marker DOMES Number : 43001M001
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : 887.699
+       dy (m)                 : 373.219
+       dz (m)                 : 25.937
+     Accuracy (mm)            : 0.5 mm
+     Survey method            : GPS CAMPAIGN
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : Differential components in section 5.1 have
+                              : been found erroneous. Two years of daily files
+                              : have been processed.
+
+5.4  Tied Marker Name         : THUB
+     Tied Marker Usage        : DORIS station
+     Tied Marker CDP Number   : 
+     Tied Marker DOMES Number : 43001S005
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : 16.946
+       dy (m)                 : 56.670
+       dz (m)                 : 15.283
+     Accuracy (mm)            : 1 mm
+     Survey method            : GPS
+     Date Measured            : 2002-09-28T00:00Z
+     Additional Information   : 20 hours of GPS observations
+
+5.5  Tied Marker Name         : THUB
+     Tied Marker Usage        : DORIS station
+     Tied Marker CDP Number   : 
+     Tied Marker DOMES Number : 43001S005
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : 16.954
+       dy (m)                 : 56.685
+       dz (m)                 : 15.270
+     Accuracy (mm)            : 1 mm
+     Survey method            : GPS, directions and distances, levelling
+     Date Measured            : 2008-08-01T00:00Z
+     Additional Information   : First re-measurement since monument was
+                              : damaged and rebuilt 2002-10-14
+
+5.x  Tied Marker Name         : 
+     Tied Marker Usage        : (SLR/VLBI/LOCAL CONTROL/FOOTPRINT/etc)
+     Tied Marker CDP Number   : (A4)
+     Tied Marker DOMES Number : (A9)
+     Differential Components from GNSS Marker to the tied monument (ITRS)
+       dx (m)                 : (m)
+       dy (m)                 : (m)
+       dz (m)                 : (m)
+     Accuracy (mm)            : (mm)
+     Survey method            : (GPS CAMPAIGN/TRILATERATION/TRIANGULATION/etc)
+     Date Measured            : (CCYY-MM-DDThh:mmZ)
+     Additional Information   : (multiple lines)
+
+
+6.   Frequency Standard
+
+6.1  Standard Type            : INTERNAL
+       Input Frequency        : 
+       Effective Dates        : 2001-09-01/2002-09-24
+       Notes                  : 
+
+6.2  Standard Type            : EXTERNAL RUBIDIUM
+       Input Frequency        : 5 MHz
+       Effective Dates        : 2002-09-25/CCYY-MM-DD
+       Notes                  : DATUM FRK-LLN P/N: 80104736 S/N: 19087
+
+6.x  Standard Type            : (INTERNAL or EXTERNAL H-MASER/CESIUM/etc)
+       Input Frequency        : (if external)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+7.   Collocation Information
+
+7.x  Instrumentation Type     : (GPS/GLONASS/DORIS/PRARE/SLR/VLBI/TIME/etc)
+       Status                 : (PERMANENT/MOBILE)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+
+8.   Meteorological Instrumentation
+
+8.1.1  Humidity Sensor Model  : HMP45D
+       Manufacturer           : VAISALA
+       Serial Number          : 
+       Data Sampling Interval : 300 sec
+       Accuracy (% rel h)     : 2
+       Aspiration             : 
+       Height Diff to Ant     : 5.1 m
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : 2001-09-01/2005-09-15
+       Notes                  : Serial U5020003
+
+8.1.2  Humidity Sensor Model  : HMP45DSP
+       Manufacturer           : VAISALA
+       Serial Number          : 
+       Data Sampling Interval : 300 sec
+       Accuracy (% rel h)     : 2
+       Aspiration             : 
+       Height Diff to Ant     : 5.1 m
+       Calibration date       : 2005-08-15
+       Effective Dates        : 2005-09-15/CCYY-MM-DD
+       Notes                  : Serial A3310004
+
+8.1.x  Humidity Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy (% rel h)     : (% rel h)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.2.1  Pressure Sensor Model  : PTU200 Class A
+       Manufacturer           : VAISALA
+       Serial Number          : 
+       Data Sampling Interval : 
+       Accuracy               : 0.15 hPa
+       Height Diff to Ant     : 5.1 m
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : 2001-09-01/CCYY-MM-DD
+       Notes                  : Serial U5120003
+
+8.2.x  Pressure Sensor Model  : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (hPa)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.3.1  Temp. Sensor Model     : PTU200
+       Manufacturer           : VAISALA
+       Serial Number          : 
+       Data Sampling Interval : 300 sec
+       Accuracy               : 0.2 deg C
+       Aspiration             : 
+       Height Diff to Ant     : 5.1 m
+       Calibration date       : 
+       Effective Dates        : 2001-09-01/2005-09-15
+       Notes                  : Serial U5120003
+
+8.3.2  Temp. Sensor Model     : HMP45DSP
+       Manufacturer           : VAISALA
+       Serial Number          : 
+       Data Sampling Interval : 300 sec
+       Accuracy               : 0.2 deg C
+       Aspiration             : 
+       Height Diff to Ant     : 5.1 m
+       Calibration date       : 2005-08-15
+       Effective Dates        : 2005-09-15/CCYY-MM-DD
+       Notes                  : Serial A3310004
+
+8.3.x  Temp. Sensor Model     : 
+       Manufacturer           : 
+       Serial Number          : 
+       Data Sampling Interval : (sec)
+       Accuracy               : (deg C)
+       Aspiration             : (UNASPIRATED/NATURAL/FAN/etc)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.4.x  Water Vapor Radiometer : 
+       Manufacturer           : 
+       Serial Number          : 
+       Distance to Antenna    : (m)
+       Height Diff to Ant     : (m)
+       Calibration date       : (CCYY-MM-DD)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Notes                  : (multiple lines)
+
+8.5.x  Other Instrumentation  : (multiple lines)
+
+
+9.   Local Ongoing Conditions Possibly Affecting Computed Position
+
+9.1.x  Radio Interferences    : (TV/CELL PHONE ANTENNA/RADAR/etc)
+       Observed Degradations  : (SN RATIO/DATA GAPS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.2.x  Multipath Sources      : (METAL ROOF/DOME/VLBI ANTENNA/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+9.3.x  Signal Obstructions    : (TREES/BUILDINGS/etc)
+       Effective Dates        : (CCYY-MM-DD/CCYY-MM-DD)
+       Additional Information : (multiple lines)
+
+
+10.  Local Episodic Effects Possibly Affecting Data Quality
+
+10.x Date                     : (CCYY-MM-DD/CCYY-MM-DD)
+     Event                    : (TREE CLEARING/CONSTRUCTION/etc)
+
+11.  On-Site, Point of Contact Agency Information
+
+     Agency                   : Danish National Space Center
+     Preferred Abbreviation   : DNSC
+     Mailing Address          : Juliane Maries Vej 30
+                              : DK-2100 Copenhagen E
+                              : Denmark
+     Primary Contact
+       Contact Name           : Finn Bo Madsen
+       Telephone (primary)    : +45 35 32 57 84
+       Telephone (secondary)  : 
+       Fax                    : +45 35 36 24 75
+       E-mail                 : bm@spacecenter.dk
+     Secondary Contact
+       Contact Name           : Mr. Ole Bjerregaard Hansen
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : obh@spacecenter.dk
+     Additional Information   : 
+
+
+12.  Responsible Agency (if different from 11.)
+
+     Agency                   : 
+     Preferred Abbreviation   : 
+     Mailing Address          : 
+     Primary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Secondary Contact
+       Contact Name           : 
+       Telephone (primary)    : 
+       Telephone (secondary)  : 
+       Fax                    : 
+       E-mail                 : 
+     Additional Information   : 
+
+13.  More Information
+
+     Primary Data Center      : CDDIS
+     Secondary Data Center    : BKG
+     URL for More Information : geodesy.spacecenter.dk/~geod/REFSTA/ref.html
+     Hardcopy on File
+       Site Map               : 
+       Site Diagram           : (Y)
+       Horizon Mask           : (Y)
+       Monument Description   : (Y)
+       Site Pictures          : (Y)
+     Additional Information   : 
+     Antenna Graphics with Dimensions
+
+ASH701073.1 
+ASH701073.3 
+
+                         +-------+
+                       /     +     \                        <-- 0.1280 L2
+                      |      +      |                       <-- 0.1100 L1
+    +-----------------+-------------+------------------+    <-- 0.1020 TCR
+    |                                                  |
+    |                                                  |
+    |                                                  |
+    |                                                  |
+  +-+--------------------------------------------------+-+  <-- 0.0380
+  +-------------------+-------------+--------------------+  <-- 0.0350 BCR
+                      |             |
+                      |             |
+                      +------x------+                       <-- 0.0 BPA=ARP
+
