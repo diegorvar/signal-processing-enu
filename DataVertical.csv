@@ -1,4 +1,4 @@
-,station,lon,lat,disp,Amplitude,Peak_DoY,Min_DoY,Time_PeaktoMin,Amplitude_StDev,Peak_DoY_StDev,Min_DoY_StDev,Time_PeaktoMin_StDev
+,station,lon,lat,disp,Amplitude,Peak_DoY,Min_DoY,Time_MintoPeak,Amplitude_StDev,Peak_DoY_StDev,Min_DoY_StDev,Time_MintoPeak_StDev
 0,JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
 Name: latitude, dtype: float64",Vertical,6.425754037071933,256,164,92,27.242707831539054,62.51471318783075,42.84821781566646,62.74547061613481
