@@ -1,2425 +1,2425 @@
 station,lon,lat,disp,year,Amplitude,Peak_DoY,Min_DoY,Time_MintoPeak
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2009,11.058918437371819,40,105,65
+Name: latitude, dtype: float64",Vertical,2009,10.911855590375898,40,105,65
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2010,10.613510646269148,307,86,221
+Name: latitude, dtype: float64",Vertical,2010,11.113839368254624,308,86,222
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2011,15.332428706625143,364,174,190
+Name: latitude, dtype: float64",Vertical,2011,15.766624684542247,364,174,190
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2015,10.13232236186002,2,164,162
+Name: latitude, dtype: float64",Vertical,2015,9.76579649703942,2,164,162
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2016,13.56628292131857,58,136,78
+Name: latitude, dtype: float64",Vertical,2016,13.628597236565293,58,5,53
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2017,10.737473731017012,221,135,86
+Name: latitude, dtype: float64",Vertical,2017,10.913843629143683,221,135,86
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2018,9.854870056494008,266,61,205
+Name: latitude, dtype: float64",Vertical,2018,10.318683650865754,266,61,205
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2019,13.35029705112429,25,105,80
+Name: latitude, dtype: float64",Vertical,2019,13.16929662405239,25,105,80
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2020,11.309846545400294,363,95,268
+Name: latitude, dtype: float64",Vertical,2020,11.916197976091166,363,95,268
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2021,8.898087937166727,12,181,169
+Name: latitude, dtype: float64",Vertical,2021,8.761619747633794,333,181,152
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2022,12.525271798262292,273,179,94
+Name: latitude, dtype: float64",Vertical,2022,12.737947300071777,273,179,94
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2023,10.84906153507104,9,103,94
+Name: latitude, dtype: float64",Vertical,2023,10.636386033261559,9,103,94
 JWLF,"1   -45.119847
 Name: longitude, dtype: float64","1    83.111656
-Name: latitude, dtype: float64",Vertical,2024,9.703874190438906,62,197,135
+Name: latitude, dtype: float64",Vertical,2024,9.39843596975507,62,197,135
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2009,13.942880288108508,25,101,76
+Name: latitude, dtype: float64",Vertical,2009,13.891216648306775,25,101,76
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2010,12.608790834344994,213,86,127
+Name: latitude, dtype: float64",Vertical,2010,12.695123495592625,213,86,127
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2011,14.560789187689963,340,172,168
+Name: latitude, dtype: float64",Vertical,2011,14.674993023041166,340,172,168
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2013,8.61774857744578,235,67,168
+Name: latitude, dtype: float64",Vertical,2013,8.715193023041166,235,67,168
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2015,10.665434946036022,260,362,102
+Name: latitude, dtype: float64",Vertical,2015,10.592186378867865,260,362,102
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2016,14.907673885640754,229,5,224
+Name: latitude, dtype: float64",Vertical,2016,15.039955536811085,229,5,224
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2017,13.265121370538733,28,135,107
+Name: latitude, dtype: float64",Vertical,2017,13.192384403975765,28,135,107
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2018,8.082084985984467,211,323,112
+Name: latitude, dtype: float64",Vertical,2018,8.005949095750335,211,323,112
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2019,15.34844059825197,248,105,143
+Name: latitude, dtype: float64",Vertical,2019,15.44564981524734,248,105,143
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2020,9.562466654674454,290,148,142
+Name: latitude, dtype: float64",Vertical,2020,9.658996086935588,290,148,142
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2021,8.087577212903152,332,129,203
+Name: latitude, dtype: float64",Vertical,2021,8.22557351395252,332,129,203
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2022,11.576708197298505,276,55,221
+Name: latitude, dtype: float64",Vertical,2022,11.726940623564072,276,55,221
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2023,16.51765092638376,252,103,149
+Name: latitude, dtype: float64",Vertical,2023,16.618938851784527,252,103,149
 JGBL,"3   -31.004208
 Name: longitude, dtype: float64","3    82.208758
-Name: latitude, dtype: float64",Vertical,2024,8.763992711096936,241,100,141
+Name: latitude, dtype: float64",Vertical,2024,8.859842358623835,241,100,141
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2001,16.810422357053213,13,180,167
+Name: latitude, dtype: float64",Vertical,2001,16.84248385878111,13,180,167
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2003,13.16437334520779,325,157,168
+Name: latitude, dtype: float64",Vertical,2003,13.310764990367906,325,157,168
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2004,10.971715711847278,31,320,289
+Name: latitude, dtype: float64",Vertical,2004,11.003783746785565,31,320,289
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2005,11.83864063919372,1,154,153
+Name: latitude, dtype: float64",Vertical,2005,11.921017746867324,1,154,153
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2006,9.769901849674778,11,129,118
+Name: latitude, dtype: float64",Vertical,2006,9.709385800416195,11,129,118
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2007,10.207908981561161,364,135,229
+Name: latitude, dtype: float64",Vertical,2007,10.392178121791176,364,135,229
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2008,13.270096857946154,225,122,103
+Name: latitude, dtype: float64",Vertical,2008,13.35955646234858,225,122,103
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2009,9.724725167596413,324,107,217
+Name: latitude, dtype: float64",Vertical,2009,9.913675265336325,324,107,217
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2010,9.6398794034648,307,86,221
+Name: latitude, dtype: float64",Vertical,2010,9.79367066193238,307,86,221
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2011,11.98056192952146,363,170,193
+Name: latitude, dtype: float64",Vertical,2011,12.14723621909329,363,170,193
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2012,10.222329452514167,277,171,106
+Name: latitude, dtype: float64",Vertical,2012,10.314394676462287,277,171,106
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2013,12.172401942250564,12,139,127
+Name: latitude, dtype: float64",Vertical,2013,12.096437824741724,12,139,127
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2016,10.99702982649928,59,136,77
+Name: latitude, dtype: float64",Vertical,2016,10.949230282192488,59,136,77
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2017,12.193562145180907,28,145,117
+Name: latitude, dtype: float64",Vertical,2017,12.09194298289854,28,145,117
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2018,6.38520461958449,32,141,109
+Name: latitude, dtype: float64",Vertical,2018,6.290533776090664,32,141,109
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2020,11.414557890376624,308,137,171
+Name: latitude, dtype: float64",Vertical,2020,11.563078204481615,308,137,171
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2021,10.705227334316927,8,119,111
+Name: latitude, dtype: float64",Vertical,2021,10.60881941112597,8,119,111
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2022,9.80348402304929,273,163,110
+Name: latitude, dtype: float64",Vertical,2022,9.899023406391688,273,163,110
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2023,12.28246408559049,8,179,171
+Name: latitude, dtype: float64",Vertical,2023,12.15302179551838,8,179,171
 THU2,"4   -68.82505
 Name: longitude, dtype: float64","4    76.537047
-Name: latitude, dtype: float64",Vertical,2024,9.185991045922306,59,158,99
+Name: latitude, dtype: float64",Vertical,2024,9.10000560091415,59,158,99
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2008,20.454721955121535,258,106,152
+Name: latitude, dtype: float64",Vertical,2008,20.60744002900845,258,106,152
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2011,14.516103405442486,274,132,142
+Name: latitude, dtype: float64",Vertical,2011,14.658774237626318,274,132,142
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2012,30.953235311156842,323,147,176
+Name: latitude, dtype: float64",Vertical,2012,31.115944594992243,323,147,176
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2013,15.83028948317514,317,364,47
+Name: latitude, dtype: float64",Vertical,2013,15.78306744717063,317,364,47
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2015,9.736667227556202,262,81,181
+Name: latitude, dtype: float64",Vertical,2015,9.90222749068331,262,81,181
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2016,20.847157632203157,256,65,191
+Name: latitude, dtype: float64",Vertical,2016,21.039059948732113,256,65,191
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2017,14.387628505614373,241,364,123
+Name: latitude, dtype: float64",Vertical,2017,14.264047432666406,241,364,123
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2018,15.638165024030297,232,46,186
+Name: latitude, dtype: float64",Vertical,2018,15.825043719707711,232,46,186
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2019,20.33365983572906,253,68,185
+Name: latitude, dtype: float64",Vertical,2019,20.519533807236165,253,68,185
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2020,22.67241093749201,259,77,182
+Name: latitude, dtype: float64",Vertical,2020,22.855270736488194,259,77,182
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2021,36.890255709122016,339,52,287
+Name: latitude, dtype: float64",Vertical,2021,37.1786115460006,339,52,287
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2022,33.39636736777858,298,72,226
+Name: latitude, dtype: float64",Vertical,2022,33.60714021856958,298,72,226
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2023,17.026207812494295,295,165,130
+Name: latitude, dtype: float64",Vertical,2023,17.156821954634424,295,165,130
 NNVN,"5   -44.901069
 Name: longitude, dtype: float64","5    61.631878
-Name: latitude, dtype: float64",Vertical,2024,12.046277164134091,0,109,109
+Name: latitude, dtype: float64",Vertical,2024,11.939559628129846,0,109,109
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2010,12.92783528756719,307,86,221
+Name: latitude, dtype: float64",Vertical,2010,12.929618546713813,307,86,221
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2011,16.72382033098082,349,171,178
+Name: latitude, dtype: float64",Vertical,2011,16.726425646976132,349,171,178
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2012,16.09924295687399,258,159,99
+Name: latitude, dtype: float64",Vertical,2012,16.100041792419308,258,159,99
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2013,43.46457222284795,279,350,71
+Name: latitude, dtype: float64",Vertical,2013,43.46399932058817,279,350,71
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2014,24.955058683330883,257,17,240
+Name: latitude, dtype: float64",Vertical,2014,24.95699525434984,257,17,240
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2015,16.44158497541538,252,125,127
+Name: latitude, dtype: float64",Vertical,2015,16.434816238760124,252,125,127
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2016,15.872011814234835,246,121,125
+Name: latitude, dtype: float64",Vertical,2016,15.873020444973875,246,121,125
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2017,14.804877150971263,232,138,94
+Name: latitude, dtype: float64",Vertical,2017,14.80563564128702,232,138,94
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2018,10.151148749515595,0,167,167
+Name: latitude, dtype: float64",Vertical,2018,10.149801218848236,0,167,167
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2019,20.55164819902629,252,106,146
+Name: latitude, dtype: float64",Vertical,2019,20.552826279729487,252,106,146
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2020,11.691865569442403,290,90,200
+Name: latitude, dtype: float64",Vertical,2020,11.693479378624868,290,90,200
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2021,12.658601407498896,234,126,108
+Name: latitude, dtype: float64",Vertical,2021,12.65947286445743,234,126,108
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2022,10.51014037458217,275,161,114
+Name: latitude, dtype: float64",Vertical,2022,10.511060245816175,275,161,114
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2023,16.596309231943017,305,165,140
+Name: latitude, dtype: float64",Vertical,2023,16.59743889837074,305,165,140
 YMER,"7   -24.326331
 Name: longitude, dtype: float64","7    77.432897
-Name: latitude, dtype: float64",Vertical,2024,8.562074099513145,236,163,73
+Name: latitude, dtype: float64",Vertical,2024,8.562663139864744,236,163,73
 ISOR,"10   -38.974917
 Name: longitude, dtype: float64","10    65.546656
-Name: latitude, dtype: float64",Vertical,2013,13.13837215376137,5,173,168
+Name: latitude, dtype: float64",Vertical,2013,12.73050581968583,322,173,149
 ISOR,"10   -38.974917
 Name: longitude, dtype: float64","10    65.546656
-Name: latitude, dtype: float64",Vertical,2014,13.532438394772925,341,174,167
+Name: latitude, dtype: float64",Vertical,2014,14.743256634591946,341,174,167
 ISOR,"10   -38.974917
 Name: longitude, dtype: float64","10    65.546656
-Name: latitude, dtype: float64",Vertical,2015,44.58997239187845,78,164,86
+Name: latitude, dtype: float64",Vertical,2015,44.15668036581892,78,164,86
 ISOR,"10   -38.974917
 Name: longitude, dtype: float64","10    65.546656
-Name: latitude, dtype: float64",Vertical,2018,12.047736232122137,31,171,140
+Name: latitude, dtype: float64",Vertical,2018,11.270909447854608,31,170,139
 ISOR,"10   -38.974917
 Name: longitude, dtype: float64","10    65.546656
-Name: latitude, dtype: float64",Vertical,2022,12.558557385463008,17,152,135
+Name: latitude, dtype: float64",Vertical,2022,11.57975222153745,17,152,135
 ISOR,"10   -38.974917
 Name: longitude, dtype: float64","10    65.546656
-Name: latitude, dtype: float64",Vertical,2023,14.046041351585773,42,166,124
+Name: latitude, dtype: float64",Vertical,2023,13.992659202158402,267,166,101
 TIMM,"11   -42.286153
 Name: longitude, dtype: float64","11    62.535544
-Name: latitude, dtype: float64",Vertical,2008,31.788378308327268,106,146,40
+Name: latitude, dtype: float64",Vertical,2008,31.820256699421208,106,145,39
 TIMM,"11   -42.286153
 Name: longitude, dtype: float64","11    62.535544
-Name: latitude, dtype: float64",Vertical,2009,17.37562975571577,18,168,150
+Name: latitude, dtype: float64",Vertical,2009,16.505829613158483,18,168,150
 TIMM,"11   -42.286153
 Name: longitude, dtype: float64","11    62.535544
-Name: latitude, dtype: float64",Vertical,2010,58.67211768513364,97,52,45
+Name: latitude, dtype: float64",Vertical,2010,58.90040444938579,97,52,45
 TIMM,"11   -42.286153
 Name: longitude, dtype: float64","11    62.535544
-Name: latitude, dtype: float64",Vertical,2013,14.863677351407727,13,152,139
+Name: latitude, dtype: float64",Vertical,2013,14.05766255263797,13,152,139
 TIMM,"11   -42.286153
 Name: longitude, dtype: float64","11    62.535544
-Name: latitude, dtype: float64",Vertical,2015,12.683046076173465,265,149,116
+Name: latitude, dtype: float64",Vertical,2015,13.33179887693522,265,149,116
 TIMM,"11   -42.286153
 Name: longitude, dtype: float64","11    62.535544
-Name: latitude, dtype: float64",Vertical,2017,14.521845662623194,15,113,98
+Name: latitude, dtype: float64",Vertical,2017,13.95357623615243,15,113,98
 TIMM,"11   -42.286153
 Name: longitude, dtype: float64","11    62.535544
-Name: latitude, dtype: float64",Vertical,2020,14.411341719566988,268,140,128
+Name: latitude, dtype: float64",Vertical,2020,15.153571174549208,268,140,128
 TIMM,"11   -42.286153
 Name: longitude, dtype: float64","11    62.535544
-Name: latitude, dtype: float64",Vertical,2021,57.872210069241795,88,165,77
+Name: latitude, dtype: float64",Vertical,2021,57.999136090310245,88,165,77
 TIMM,"11   -42.286153
 Name: longitude, dtype: float64","11    62.535544
-Name: latitude, dtype: float64",Vertical,2022,15.032222398531651,7,158,151
+Name: latitude, dtype: float64",Vertical,2022,15.301019372958532,294,158,136
 TIMM,"11   -42.286153
 Name: longitude, dtype: float64","11    62.535544
-Name: latitude, dtype: float64",Vertical,2023,16.821793219855806,290,155,135
+Name: latitude, dtype: float64",Vertical,2023,17.904059971151316,290,103,187
 TIMM,"11   -42.286153
 Name: longitude, dtype: float64","11    62.535544
-Name: latitude, dtype: float64",Vertical,2024,14.5338843431532,349,111,238
+Name: latitude, dtype: float64",Vertical,2024,15.913967236010766,349,111,238
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2008,14.819721516044185,59,124,65
+Name: latitude, dtype: float64",Vertical,2008,14.819921384254744,59,124,65
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2009,10.756642666225972,46,92,46
+Name: latitude, dtype: float64",Vertical,2009,10.756417184754639,46,92,46
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2010,11.135607335450583,307,86,221
+Name: latitude, dtype: float64",Vertical,2010,11.136690626867205,307,86,221
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2011,15.306811679416171,345,174,171
+Name: latitude, dtype: float64",Vertical,2011,15.307995537832392,345,174,171
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2012,15.475802668046233,308,164,144
+Name: latitude, dtype: float64",Vertical,2012,15.476508523086926,308,164,144
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2013,17.173694663907533,37,325,288
+Name: latitude, dtype: float64",Vertical,2013,17.172282953826148,37,325,288
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2014,16.04859399905155,78,177,99
+Name: latitude, dtype: float64",Vertical,2014,16.04810872371107,78,177,99
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2015,15.873403331944186,26,171,145
+Name: latitude, dtype: float64",Vertical,2015,15.872692575132376,26,171,145
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2016,16.068563999578462,59,103,44
+Name: latitude, dtype: float64",Vertical,2016,16.068348321649367,59,103,44
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2017,12.904693999051549,38,137,99
+Name: latitude, dtype: float64",Vertical,2017,12.90420872371107,38,137,99
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2018,8.346915998697076,31,167,136
+Name: latitude, dtype: float64",Vertical,2018,8.34624935782531,31,167,136
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2019,16.96547482467702,364,108,256
+Name: latitude, dtype: float64",Vertical,2019,16.97156885585824,364,108,256
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2020,14.32578199907071,52,148,96
+Name: latitude, dtype: float64",Vertical,2020,14.325306527272463,52,148,96
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2021,10.783856666043945,12,77,65
+Name: latitude, dtype: float64",Vertical,2021,10.783538050921411,12,77,65
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2022,11.579857331857962,27,181,154
+Name: latitude, dtype: float64",Vertical,2022,11.579102459106107,27,181,154
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2023,10.82671682413094,364,165,199
+Name: latitude, dtype: float64",Vertical,2023,10.832531454358556,364,165,199
 KMOR,"12   -63.527411
 Name: longitude, dtype: float64","12    81.252717
-Name: latitude, dtype: float64",Vertical,2024,9.91012533206873,59,191,132
+Name: latitude, dtype: float64",Vertical,2024,9.909478298281428,59,191,132
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2009,11.538740642659015,27,100,73
+Name: latitude, dtype: float64",Vertical,2009,11.464590043964234,27,100,73
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2010,9.396589935466412,224,86,138
+Name: latitude, dtype: float64",Vertical,2010,9.51432749679821,224,86,138
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2011,12.281377872850022,352,177,175
+Name: latitude, dtype: float64",Vertical,2011,12.464371584104004,352,177,175
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2013,8.409788902263447,232,71,161
+Name: latitude, dtype: float64",Vertical,2013,8.573326524042354,232,71,161
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2015,13.915688480957527,251,176,75
+Name: latitude, dtype: float64",Vertical,2015,13.969433059854097,251,176,75
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2016,15.164007807536535,252,143,109
+Name: latitude, dtype: float64",Vertical,2016,15.274725824765733,252,143,109
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2017,14.387420282877043,229,313,84
+Name: latitude, dtype: float64",Vertical,2017,14.302096306296743,229,313,84
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2018,12.145852850503465,11,174,163
+Name: latitude, dtype: float64",Vertical,2018,11.980283705472651,11,174,163
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2019,15.820887792155549,253,163,90
+Name: latitude, dtype: float64",Vertical,2019,15.912306338491584,253,163,90
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2020,10.650889935466411,289,152,137
+Name: latitude, dtype: float64",Vertical,2020,10.790049278222376,289,152,137
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2021,8.698145083090605,335,124,211
+Name: latitude, dtype: float64",Vertical,2021,8.912470786167308,335,124,211
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2022,11.64126134684198,273,343,70
+Name: latitude, dtype: float64",Vertical,2022,11.570158033025063,273,343,70
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2023,15.216322924398755,311,166,145
+Name: latitude, dtype: float64",Vertical,2023,15.363608360162367,311,166,145
 BLAS,"13   -22.974725
 Name: longitude, dtype: float64","13    79.538608
-Name: latitude, dtype: float64",Vertical,2024,8.129580596516057,75,205,130
+Name: latitude, dtype: float64",Vertical,2024,7.997531585141786,75,205,130
 KLSQ,"14   -50.620236
 Name: longitude, dtype: float64","14    66.995606
-Name: latitude, dtype: float64",Vertical,2015,9.021432056208727,240,158,82
+Name: latitude, dtype: float64",Vertical,2015,9.015330624300095,240,158,82
 KLSQ,"14   -50.620236
 Name: longitude, dtype: float64","14    66.995606
-Name: latitude, dtype: float64",Vertical,2016,19.873626355699557,250,121,129
+Name: latitude, dtype: float64",Vertical,2016,19.87568354310625,250,121,129
 KLSQ,"14   -50.620236
 Name: longitude, dtype: float64","14    66.995606
-Name: latitude, dtype: float64",Vertical,2017,10.02111608152984,27,138,111
+Name: latitude, dtype: float64",Vertical,2017,10.019345943528734,27,138,111
 KLSQ,"14   -50.620236
 Name: longitude, dtype: float64","14    66.995606
-Name: latitude, dtype: float64",Vertical,2018,11.046265710678036,234,159,75
+Name: latitude, dtype: float64",Vertical,2018,11.047461749867974,234,159,75
 KLSQ,"14   -50.620236
 Name: longitude, dtype: float64","14    66.995606
-Name: latitude, dtype: float64",Vertical,2019,21.58586873386611,290,144,146
+Name: latitude, dtype: float64",Vertical,2019,21.564965095298543,290,144,146
 KLSQ,"14   -50.620236
 Name: longitude, dtype: float64","14    66.995606
-Name: latitude, dtype: float64",Vertical,2020,11.04334353607471,264,123,141
+Name: latitude, dtype: float64",Vertical,2020,11.045592089751791,264,123,141
 KLSQ,"14   -50.620236
 Name: longitude, dtype: float64","14    66.995606
-Name: latitude, dtype: float64",Vertical,2021,12.751725399710928,333,129,204
+Name: latitude, dtype: float64",Vertical,2021,12.754978626307555,333,129,204
 KLSQ,"14   -50.620236
 Name: longitude, dtype: float64","14    66.995606
-Name: latitude, dtype: float64",Vertical,2022,9.440726141414533,9,177,168
+Name: latitude, dtype: float64",Vertical,2022,9.438047013629074,9,177,168
 KLSQ,"14   -50.620236
 Name: longitude, dtype: float64","14    66.995606
-Name: latitude, dtype: float64",Vertical,2023,10.46814031096711,43,172,129
+Name: latitude, dtype: float64",Vertical,2023,10.46608312356042,43,172,129
 KLSQ,"14   -50.620236
 Name: longitude, dtype: float64","14    66.995606
-Name: latitude, dtype: float64",Vertical,2024,9.093655421124334,0,170,170
+Name: latitude, dtype: float64",Vertical,2024,9.092686543634354,0,170,170
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2008,17.02735982308137,237,121,116
+Name: latitude, dtype: float64",Vertical,2008,17.027934722523455,237,121,116
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2009,10.775724023129797,324,98,226
+Name: latitude, dtype: float64",Vertical,2009,10.776844085835933,324,98,226
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2010,9.85659068979646,312,86,226
+Name: latitude, dtype: float64",Vertical,2010,9.857710752502598,312,86,226
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2011,15.311426995828453,332,171,161
+Name: latitude, dtype: float64",Vertical,2011,15.312224916605832,332,171,161
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2012,15.438085692776138,274,163,111
+Name: latitude, dtype: float64",Vertical,2012,15.43863581206986,274,163,111
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2013,8.526199038028178,10,359,349
+Name: latitude, dtype: float64",Vertical,2013,8.524469383672239,10,359,349
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2014,10.335739734622054,341,167,174
+Name: latitude, dtype: float64",Vertical,2014,10.336602083785188,341,167,174
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2015,12.185643997616259,251,158,93
+Name: latitude, dtype: float64",Vertical,2015,12.164759734436908,251,158,93
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2016,13.077882213997064,249,118,131
+Name: latitude, dtype: float64",Vertical,2016,13.07853145388425,249,118,131
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2017,12.230931815092084,3,138,135
+Name: latitude, dtype: float64",Vertical,2017,12.230262751086205,3,138,135
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2018,7.754803756913783,39,166,127
+Name: latitude, dtype: float64",Vertical,2018,7.754174341145294,39,166,127
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2019,17.125849272771305,248,148,100
+Name: latitude, dtype: float64",Vertical,2019,17.126344875738617,248,148,100
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2020,13.68736560431682,305,136,169
+Name: latitude, dtype: float64",Vertical,2020,13.688203173331587,305,136,169
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2021,10.354847704341037,342,118,224
+Name: latitude, dtype: float64",Vertical,2021,10.355957854987825,342,118,224
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2022,11.444230866715095,273,163,110
+Name: latitude, dtype: float64",Vertical,2022,11.444776029979142,273,163,110
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2023,12.065427830232599,9,169,160
+Name: latitude, dtype: float64",Vertical,2023,12.064634865484884,9,169,160
 MARG,"15   -65.694631
 Name: longitude, dtype: float64","15    77.187039
-Name: latitude, dtype: float64",Vertical,2024,8.167235799951571,52,161,109
+Name: latitude, dtype: float64",Vertical,2024,8.166690636687527,52,161,109
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2009,10.061748087271447,25,105,80
+Name: latitude, dtype: float64",Vertical,2009,9.974483714119106,25,105,80
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2010,10.078207868726263,23,86,63
+Name: latitude, dtype: float64",Vertical,2010,10.009487174868795,23,86,63
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2011,14.963058579517412,316,175,141
+Name: latitude, dtype: float64",Vertical,2011,15.116862037198409,316,175,141
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2013,9.452354753449352,32,357,325
+Name: latitude, dtype: float64",Vertical,2013,9.119533838608868,32,357,325
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2015,11.317201201937408,51,175,124
+Name: latitude, dtype: float64",Vertical,2015,11.181941423551281,51,175,124
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2016,11.430562076729085,251,137,114
+Name: latitude, dtype: float64",Vertical,2016,11.533223207380274,251,137,114
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2017,13.153924262058712,28,146,118
+Name: latitude, dtype: float64",Vertical,2017,13.025209311659015,28,146,118
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2018,8.02270196702883,29,121,92
+Name: latitude, dtype: float64",Vertical,2018,7.922347937903638,29,121,92
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2019,15.285051038425639,248,161,87
+Name: latitude, dtype: float64",Vertical,2019,15.379951044228807,248,161,87
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2020,11.093930382790091,290,152,138
+Name: latitude, dtype: float64",Vertical,2020,11.244461426477876,290,152,138
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2021,7.2712645898153925,11,185,174
+Name: latitude, dtype: float64",Vertical,2021,7.329573640888546,333,135,198
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2022,10.795897158668252,278,179,99
+Name: latitude, dtype: float64",Vertical,2022,10.90388682044427,278,179,99
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2023,11.673874645215372,306,103,203
+Name: latitude, dtype: float64",Vertical,2023,11.895307992089435,306,103,203
 HRDG,"16   -44.517381
 Name: longitude, dtype: float64","16    81.879833
-Name: latitude, dtype: float64",Vertical,2024,7.77748437175897,242,155,87
+Name: latitude, dtype: float64",Vertical,2024,7.906862240771924,242,100,142
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,1996,12.903638754881987,52,322,270
+Name: latitude, dtype: float64",Vertical,1996,12.811809354003962,52,322,270
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,1997,19.229914335218297,50,140,90
+Name: latitude, dtype: float64",Vertical,1997,19.12211561800132,50,140,90
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,1998,20.003786627921755,347,154,193
+Name: latitude, dtype: float64",Vertical,1998,20.12049082905149,347,154,193
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,1999,19.83018172313002,24,175,151
+Name: latitude, dtype: float64",Vertical,1999,19.69951058625159,24,175,151
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2000,21.885044147211865,4,103,99
+Name: latitude, dtype: float64",Vertical,2000,21.835667661976775,4,103,99
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2001,19.606259566140956,34,166,132
+Name: latitude, dtype: float64",Vertical,2001,19.717908647142675,34,166,132
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2002,16.75118112590817,0,130,130
+Name: latitude, dtype: float64",Vertical,2002,16.678790460569807,0,130,130
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2003,15.450089177210298,217,118,99
+Name: latitude, dtype: float64",Vertical,2003,15.503187264642996,217,118,99
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2004,13.790158472439398,29,163,134
+Name: latitude, dtype: float64",Vertical,2004,13.899556760335312,29,163,134
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2007,11.474184515973457,251,184,67
+Name: latitude, dtype: float64",Vertical,2007,11.535336583142229,251,184,67
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2008,18.93969538042663,235,122,113
+Name: latitude, dtype: float64",Vertical,2008,18.849734958632908,235,122,113
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2010,17.224760208499,268,169,99
+Name: latitude, dtype: float64",Vertical,2010,17.382820597976327,268,169,99
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2011,19.38631345774188,357,168,189
+Name: latitude, dtype: float64",Vertical,2011,19.70365144462147,357,168,189
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2012,20.75563524287067,260,160,100
+Name: latitude, dtype: float64",Vertical,2012,20.923474004689886,260,160,100
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2013,8.96011140768845,240,79,161
+Name: latitude, dtype: float64",Vertical,2013,9.230331814217392,240,79,161
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2014,14.081669340018944,299,159,140
+Name: latitude, dtype: float64",Vertical,2014,14.316643606565849,299,159,140
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2015,11.882980010738361,12,186,174
+Name: latitude, dtype: float64",Vertical,2015,11.590940565172922,12,186,174
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2016,19.621577616066155,258,121,137
+Name: latitude, dtype: float64",Vertical,2016,19.85151671975848,258,121,137
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2017,13.110981156460769,24,138,114
+Name: latitude, dtype: float64",Vertical,2017,12.919644967986859,24,138,114
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2023,13.171330048929109,8,180,172
+Name: latitude, dtype: float64",Vertical,2023,12.882647378600051,8,180,172
 KELY,"17   -50.944844
 Name: longitude, dtype: float64","17    66.987419
-Name: latitude, dtype: float64",Vertical,2024,11.37865092490878,0,169,169
+Name: latitude, dtype: float64",Vertical,2024,11.09568752536052,0,169,169
 KLY2,"18   -50.950742
 Name: longitude, dtype: float64","18    66.986725
-Name: latitude, dtype: float64",Vertical,2021,14.756848000664853,333,125,208
+Name: latitude, dtype: float64",Vertical,2021,14.757081749905012,333,125,208
 KLY2,"18   -50.950742
 Name: longitude, dtype: float64","18    66.986725
-Name: latitude, dtype: float64",Vertical,2022,10.18469912860148,285,161,124
+Name: latitude, dtype: float64",Vertical,2022,10.18483847911004,285,161,124
 KLY2,"18   -50.950742
 Name: longitude, dtype: float64","18    66.986725
-Name: latitude, dtype: float64",Vertical,2023,11.086961246040385,346,181,165
+Name: latitude, dtype: float64",Vertical,2023,11.08718023429965,346,181,165
 KLY2,"18   -50.950742
 Name: longitude, dtype: float64","18    66.986725
-Name: latitude, dtype: float64",Vertical,2024,9.188254499542914,29,171,142
+Name: latitude, dtype: float64",Vertical,2024,9.188093796940304,29,171,142
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2007,26.273819686550947,350,132,218
+Name: latitude, dtype: float64",Vertical,2007,26.431343491920217,350,132,218
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2009,23.02069394698726,241,134,107
+Name: latitude, dtype: float64",Vertical,2009,22.939581726420542,241,134,107
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2010,30.379697402595514,285,152,133
+Name: latitude, dtype: float64",Vertical,2010,30.4728405259869,285,152,133
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2012,33.2023977736533,269,155,114
+Name: latitude, dtype: float64",Vertical,2012,33.2822347365602,269,155,114
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2013,23.243589626662896,242,160,82
+Name: latitude, dtype: float64",Vertical,2013,23.301016214016983,242,160,82
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2014,30.567036313942268,350,153,197
+Name: latitude, dtype: float64",Vertical,2014,30.65194423773999,350,153,197
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2015,25.665036292027096,260,141,119
+Name: latitude, dtype: float64",Vertical,2015,25.72496783904091,260,141,119
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2016,31.02600643318052,251,109,142
+Name: latitude, dtype: float64",Vertical,2016,31.09541344378551,251,109,142
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2017,24.600293330728398,221,149,72
+Name: latitude, dtype: float64",Vertical,2017,24.65071667572223,221,149,72
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2018,24.533960365196677,292,149,143
+Name: latitude, dtype: float64",Vertical,2018,24.634106730948325,292,149,143
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2019,34.39219969957199,252,134,118
+Name: latitude, dtype: float64",Vertical,2019,34.38589121854478,252,134,118
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2020,25.86874481007528,256,124,132
+Name: latitude, dtype: float64",Vertical,2020,25.937780572157433,256,124,132
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2021,27.735514809749667,256,116,140
+Name: latitude, dtype: float64",Vertical,2021,27.833560202793233,256,116,140
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2022,27.204390733323912,364,159,205
+Name: latitude, dtype: float64",Vertical,2022,27.347957201709125,364,159,205
 ILUL,"19   -51.060758
 Name: longitude, dtype: float64","19    69.240417
-Name: latitude, dtype: float64",Vertical,2023,25.780655560982503,19,169,150
+Name: latitude, dtype: float64",Vertical,2023,25.6756069255787,19,169,150
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2008,27.35274806273322,283,109,174
+Name: latitude, dtype: float64",Vertical,2008,27.474077741012692,283,109,174
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2009,16.71492226269381,256,165,91
+Name: latitude, dtype: float64",Vertical,2009,16.77837628983997,256,165,91
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2011,21.361848807748476,351,131,220
+Name: latitude, dtype: float64",Vertical,2011,21.519258063349376,351,131,220
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2012,29.94813557916774,260,152,108
+Name: latitude, dtype: float64",Vertical,2012,30.02451645100831,260,146,114
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2013,24.31823891080159,3,91,88
+Name: latitude, dtype: float64",Vertical,2013,24.25687677466025,3,91,88
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2015,11.239425220021918,51,176,125
+Name: latitude, dtype: float64",Vertical,2015,11.189222312490886,51,176,125
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2016,25.697290709539182,0,138,138
+Name: latitude, dtype: float64",Vertical,2016,25.6042163448232,0,138,138
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2017,20.16672721296537,359,119,240
+Name: latitude, dtype: float64",Vertical,2017,20.33407849335083,359,119,240
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2018,13.700723011305284,278,151,127
+Name: latitude, dtype: float64",Vertical,2018,13.789279730509257,278,151,127
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2019,22.370925594327655,29,134,105
+Name: latitude, dtype: float64",Vertical,2019,22.297709409159012,29,134,105
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2020,16.775218641051225,305,121,184
+Name: latitude, dtype: float64",Vertical,2020,16.90352128934675,305,121,184
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2021,22.5315064474945,335,114,221
+Name: latitude, dtype: float64",Vertical,2021,22.685609084849446,335,114,221
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2022,14.550341119518219,8,346,338
+Name: latitude, dtype: float64",Vertical,2022,14.314654732975358,8,346,338
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2023,28.7459393823547,360,164,196
+Name: latitude, dtype: float64",Vertical,2023,28.85335021401429,360,164,196
 KBUG,"20   -41.157547
 Name: longitude, dtype: float64","20    65.143683
-Name: latitude, dtype: float64",Vertical,2024,14.472458300464282,297,165,132
+Name: latitude, dtype: float64",Vertical,2024,14.56450150467629,297,165,132
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2010,13.539044580889637,305,80,225
+Name: latitude, dtype: float64",Vertical,2010,13.540960122180387,305,80,225
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2011,19.37452175824607,345,175,170
+Name: latitude, dtype: float64",Vertical,2011,19.37613357379555,345,175,170
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2012,22.745959159362513,324,162,162
+Name: latitude, dtype: float64",Vertical,2012,22.737467287969878,324,162,162
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2013,9.168593669735086,310,81,229
+Name: latitude, dtype: float64",Vertical,2013,9.170543265093226,310,81,229
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2014,11.760899145595696,53,159,106
+Name: latitude, dtype: float64",Vertical,2014,11.75999671280983,53,159,106
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2015,11.940393251466215,39,174,135
+Name: latitude, dtype: float64",Vertical,2015,11.939243926691766,39,174,135
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2016,15.813270093217168,253,140,113
+Name: latitude, dtype: float64",Vertical,2016,15.814232120620966,253,140,113
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2017,14.370959918132883,3,138,135
+Name: latitude, dtype: float64",Vertical,2017,14.369810593358434,3,138,135
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2018,12.131023367383483,32,98,66
+Name: latitude, dtype: float64",Vertical,2018,12.130461475271531,32,98,66
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2019,22.5172325443839,358,129,229
+Name: latitude, dtype: float64",Vertical,2019,22.501743265093225,358,129,229
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2020,9.72193941535147,0,168,168
+Name: latitude, dtype: float64",Vertical,2020,9.722803878599322,0,168,168
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2021,13.5878859532965,333,125,208
+Name: latitude, dtype: float64",Vertical,2021,13.589656764800834,333,125,208
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2022,12.120041381340137,16,344,328
+Name: latitude, dtype: float64",Vertical,2022,12.11724894781407,16,344,328
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2023,12.864080390735234,9,179,170
+Name: latitude, dtype: float64",Vertical,2023,12.862633092871114,9,179,170
 DGJG,"21   -29.850208
 Name: longitude, dtype: float64","21    71.786533
-Name: latitude, dtype: float64",Vertical,2024,10.05692658479955,29,163,134
+Name: latitude, dtype: float64",Vertical,2024,10.055777260025101,29,163,134
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2010,11.951060385334262,307,86,221
+Name: latitude, dtype: float64",Vertical,2010,11.951453325113883,307,86,221
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2011,16.603808540823394,349,167,182
+Name: latitude, dtype: float64",Vertical,2011,16.605151757936923,349,167,182
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2012,16.762615482070125,322,145,177
+Name: latitude, dtype: float64",Vertical,2012,16.76293018949543,322,145,177
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2013,8.787706078329425,228,81,147
+Name: latitude, dtype: float64",Vertical,2013,8.787967445513157,228,81,147
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2014,11.45652530605171,255,153,102
+Name: latitude, dtype: float64",Vertical,2014,11.456706662873072,255,153,102
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2015,12.593462015547063,19,126,107
+Name: latitude, dtype: float64",Vertical,2015,12.593271768685435,19,126,107
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2016,15.525442316833145,255,120,135
+Name: latitude, dtype: float64",Vertical,2016,15.525682347920245,255,120,135
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2017,11.824149337145835,25,137,112
+Name: latitude, dtype: float64",Vertical,2017,11.823950200243946,25,137,112
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2018,11.937685206159413,30,141,111
+Name: latitude, dtype: float64",Vertical,2018,11.937487847265576,30,141,111
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2019,18.15780132570833,334,110,224
+Name: latitude, dtype: float64",Vertical,2019,18.158199599512113,334,110,224
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2020,8.069942263091018,0,139,139
+Name: latitude, dtype: float64",Vertical,2020,8.071279416971597,0,139,139
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2021,10.935950242613279,335,118,217
+Name: latitude, dtype: float64",Vertical,2021,10.936336070360692,335,118,217
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2022,9.882858269894903,277,162,115
+Name: latitude, dtype: float64",Vertical,2022,9.88306274082095,277,162,115
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2023,11.696720604181358,253,166,87
+Name: latitude, dtype: float64",Vertical,2023,11.696875290881938,253,166,87
 WTHG,"22   -24.308922
 Name: longitude, dtype: float64","22    73.9552
-Name: latitude, dtype: float64",Vertical,2024,8.676273114486234,299,165,134
+Name: latitude, dtype: float64",Vertical,2024,8.676511367565281,299,165,134
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2006,23.098828656184814,34,142,108
+Name: latitude, dtype: float64",Vertical,2006,23.079869515170657,34,142,108
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2007,11.875714879451792,2,131,129
+Name: latitude, dtype: float64",Vertical,2007,11.838373927071123,2,131,129
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2009,9.590536481809767,315,179,136
+Name: latitude, dtype: float64",Vertical,2009,9.594470898591688,315,179,136
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2010,12.39988185352047,286,169,117
+Name: latitude, dtype: float64",Vertical,2010,12.433749228935493,286,169,117
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2011,14.177626076946272,328,171,157
+Name: latitude, dtype: float64",Vertical,2011,14.223072042246773,328,171,157
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2012,16.363556924859097,59,156,97
+Name: latitude, dtype: float64",Vertical,2012,16.335478844386813,59,156,97
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2013,7.968246034766632,39,176,137
+Name: latitude, dtype: float64",Vertical,2013,7.928589364408866,39,176,137
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2014,27.385300366677665,363,178,185
+Name: latitude, dtype: float64",Vertical,2014,27.438851344898,363,178,185
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2015,29.85014053044474,62,158,96
+Name: latitude, dtype: float64",Vertical,2015,29.822351914719597,62,158,96
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2016,26.853963445634783,79,111,32
+Name: latitude, dtype: float64",Vertical,2016,26.858578416017643,79,111,32
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2017,25.46502631404888,55,142,87
+Name: latitude, dtype: float64",Vertical,2017,25.439842881047966,55,142,87
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2018,11.935900663055929,44,164,120
+Name: latitude, dtype: float64",Vertical,2018,11.901164893399493,44,164,120
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2019,16.437135333524864,335,139,196
+Name: latitude, dtype: float64",Vertical,2019,16.405288451891938,335,139,196
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2020,9.474815731358424,255,136,119
+Name: latitude, dtype: float64",Vertical,2020,9.509262036267724,255,136,119
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2021,11.376638115323638,256,116,140
+Name: latitude, dtype: float64",Vertical,2021,11.417163179922813,256,116,140
 AASI,"23   -52.793347
 Name: longitude, dtype: float64","23    68.719317
-Name: latitude, dtype: float64",Vertical,2022,10.13428699116469,61,170,109
+Name: latitude, dtype: float64",Vertical,2022,10.102735333726763,61,170,109
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2008,19.036949025614234,284,122,162
+Name: latitude, dtype: float64",Vertical,2008,19.098734178700482,284,122,162
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2009,12.87412618421716,275,164,111
+Name: latitude, dtype: float64",Vertical,2009,12.916460455776253,275,164,111
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2010,27.458387094609357,333,86,247
+Name: latitude, dtype: float64",Vertical,2010,27.55259038357419,333,86,247
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2011,15.60558495851646,253,164,89
+Name: latitude, dtype: float64",Vertical,2011,15.63952865373051,253,164,89
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2012,26.683095079430554,281,130,151
+Name: latitude, dtype: float64",Vertical,2012,26.740684944344274,281,130,151
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2013,14.095062209573218,12,92,80
+Name: latitude, dtype: float64",Vertical,2013,14.06455102286396,12,92,80
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2015,13.969972701509478,31,162,131
+Name: latitude, dtype: float64",Vertical,2015,13.920010633273066,31,162,131
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2016,21.57975468943487,264,120,144
+Name: latitude, dtype: float64",Vertical,2016,21.634674825511535,264,120,144
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2017,15.431680130400842,255,133,122
+Name: latitude, dtype: float64",Vertical,2017,15.47820969013246,255,133,122
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2018,13.181375302285222,302,147,155
+Name: latitude, dtype: float64",Vertical,2018,13.240490726534409,302,147,155
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2019,20.73618263751591,308,141,167
+Name: latitude, dtype: float64",Vertical,2019,20.799874739771482,308,141,167
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2020,15.340813742302513,267,140,127
+Name: latitude, dtype: float64",Vertical,2020,15.389250251203462,267,140,127
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2021,16.19205858939164,331,117,214
+Name: latitude, dtype: float64",Vertical,2021,16.27367601383891,331,117,214
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2022,16.75994113324687,295,155,140
+Name: latitude, dtype: float64",Vertical,2022,16.813335709988067,295,155,140
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2023,18.00704623993083,277,165,112
+Name: latitude, dtype: float64",Vertical,2023,18.04976190132379,277,165,112
 HJOR,"24   -41.147872
 Name: longitude, dtype: float64","24    63.418211
-Name: latitude, dtype: float64",Vertical,2024,14.611731477015631,316,110,206
+Name: latitude, dtype: float64",Vertical,2024,14.690297782791967,316,110,206
 DMHN,"25   -18.655678
 Name: longitude, dtype: float64","25    76.771078
-Name: latitude, dtype: float64",Vertical,2012,25.874861050681936,48,145,97
+Name: latitude, dtype: float64",Vertical,2012,25.82164204080557,48,145,97
 DMHN,"25   -18.655678
 Name: longitude, dtype: float64","25    76.771078
-Name: latitude, dtype: float64",Vertical,2013,19.57900495586079,29,363,334
+Name: latitude, dtype: float64",Vertical,2013,19.44415280573871,29,363,334
 DMHN,"25   -18.655678
 Name: longitude, dtype: float64","25    76.771078
-Name: latitude, dtype: float64",Vertical,2014,25.43747119210841,352,0,352
+Name: latitude, dtype: float64",Vertical,2014,25.628625186766385,352,0,352
 DMHN,"25   -18.655678
 Name: longitude, dtype: float64","25    76.771078
-Name: latitude, dtype: float64",Vertical,2015,28.86612940348789,315,162,153
+Name: latitude, dtype: float64",Vertical,2015,28.939212936293345,315,162,153
 DMHN,"25   -18.655678
 Name: longitude, dtype: float64","25    76.771078
-Name: latitude, dtype: float64",Vertical,2016,15.017208226080804,59,142,83
+Name: latitude, dtype: float64",Vertical,2016,14.981440367893155,59,142,83
 DMHN,"25   -18.655678
 Name: longitude, dtype: float64","25    76.771078
-Name: latitude, dtype: float64",Vertical,2017,12.775104195467835,216,134,82
+Name: latitude, dtype: float64",Vertical,2017,12.758567799189894,216,134,82
 DMHN,"25   -18.655678
 Name: longitude, dtype: float64","25    76.771078
-Name: latitude, dtype: float64",Vertical,2020,24.572798149680473,311,94,217
+Name: latitude, dtype: float64",Vertical,2020,24.69064024297814,311,94,217
 DMHN,"25   -18.655678
 Name: longitude, dtype: float64","25    76.771078
-Name: latitude, dtype: float64",Vertical,2021,34.18302642890933,291,364,73
+Name: latitude, dtype: float64",Vertical,2021,34.143383697062646,291,364,73
 DMHN,"25   -18.655678
 Name: longitude, dtype: float64","25    76.771078
-Name: latitude, dtype: float64",Vertical,2022,39.63158144772266,364,105,259
+Name: latitude, dtype: float64",Vertical,2022,39.73283889215671,364,105,259
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2009,11.940360720794544,27,288,261
+Name: latitude, dtype: float64",Vertical,2009,11.763209437072767,27,288,261
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2010,12.669353670850064,307,86,221
+Name: latitude, dtype: float64",Vertical,2010,12.797928152261498,307,86,221
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2012,19.449970682375714,269,160,109
+Name: latitude, dtype: float64",Vertical,2012,19.523953402397453,269,160,109
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2013,19.447022095904835,238,294,56
+Name: latitude, dtype: float64",Vertical,2013,19.40901262506798,238,294,56
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2014,11.289573250462453,257,153,104
+Name: latitude, dtype: float64",Vertical,2014,11.360162267730901,257,153,104
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2015,11.246735797831477,252,126,126
+Name: latitude, dtype: float64",Vertical,2015,11.31083616799696,252,122,130
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2016,14.355235962950957,301,136,165
+Name: latitude, dtype: float64",Vertical,2016,14.456157443996144,301,136,165
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2017,12.322445053302605,229,135,94
+Name: latitude, dtype: float64",Vertical,2017,12.386246665064473,229,135,94
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2018,9.949064840092191,38,322,284
+Name: latitude, dtype: float64",Vertical,2018,9.799156884273307,38,322,284
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2019,17.208726594154648,253,162,91
+Name: latitude, dtype: float64",Vertical,2019,17.270491984264538,253,162,91
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2020,14.123254205185134,288,95,193
+Name: latitude, dtype: float64",Vertical,2020,14.254251131462155,288,95,193
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2021,10.00145880702355,335,125,210
+Name: latitude, dtype: float64",Vertical,2021,10.143994322661758,335,125,210
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2022,13.49448914152367,275,163,112
+Name: latitude, dtype: float64",Vertical,2022,13.570508083197382,275,163,112
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2023,14.773404498249814,303,156,147
+Name: latitude, dtype: float64",Vertical,2023,14.87317935919656,303,156,147
 GROK,"26   -22.903767
 Name: longitude, dtype: float64","26    78.4427
-Name: latitude, dtype: float64",Vertical,2024,8.070254791314504,243,142,101
+Name: latitude, dtype: float64",Vertical,2024,8.138807586930973,243,142,101
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2008,20.813590452065277,283,120,163
+Name: latitude, dtype: float64",Vertical,2008,20.932765878445075,283,120,163
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2009,15.030642674696974,16,165,149
+Name: latitude, dtype: float64",Vertical,2009,14.921703174509307,16,165,149
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2010,24.30306052316961,304,49,255
+Name: latitude, dtype: float64",Vertical,2010,24.4895006073834,304,49,255
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2011,25.516886752001852,359,166,193
+Name: latitude, dtype: float64",Vertical,2011,25.662292420490182,359,166,193
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2012,26.9962341059823,270,161,109
+Name: latitude, dtype: float64",Vertical,2012,27.07592810276388,270,161,109
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2013,15.555270124739678,11,84,73
+Name: latitude, dtype: float64",Vertical,2013,15.501897081023575,11,84,73
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2015,16.8238020657108,35,175,140
+Name: latitude, dtype: float64",Vertical,2015,16.721442803789508,35,175,140
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2016,20.783157325303026,264,115,149
+Name: latitude, dtype: float64",Vertical,2016,20.892096825490693,264,115,149
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2017,20.13416388194225,3,137,134
+Name: latitude, dtype: float64",Vertical,2017,20.036191445531863,3,137,134
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2018,18.238401859139728,31,157,126
+Name: latitude, dtype: float64",Vertical,2018,18.146278523410565,31,157,126
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2019,22.47478157747915,254,134,120
+Name: latitude, dtype: float64",Vertical,2019,22.544106168180416,254,134,120
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2022,14.319201445997559,10,108,98
+Name: latitude, dtype: float64",Vertical,2022,14.24754996265266,10,108,98
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2023,18.857038543275365,296,165,131
+Name: latitude, dtype: float64",Vertical,2023,18.95281756693029,296,165,131
 TREO,"27   -41.375081
 Name: longitude, dtype: float64","27    64.277069
-Name: latitude, dtype: float64",Vertical,2024,22.91597165580676,44,0,44
+Name: latitude, dtype: float64",Vertical,2024,22.943845594999488,44,0,44
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2010,12.414491670365868,305,86,219
+Name: latitude, dtype: float64",Vertical,2010,12.414771742930697,305,86,219
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2011,18.104345754548714,350,171,179
+Name: latitude, dtype: float64",Vertical,2011,18.104997071466947,350,171,179
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2012,19.21896073329622,322,162,160
+Name: latitude, dtype: float64",Vertical,2012,19.219165352521664,322,162,160
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2013,9.750875296516831,232,80,152
+Name: latitude, dtype: float64",Vertical,2013,9.751012084895581,232,80,152
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2014,12.079368494974947,262,154,108
+Name: latitude, dtype: float64",Vertical,2014,12.079506612952123,262,154,108
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2015,12.501859363298076,325,172,153
+Name: latitude, dtype: float64",Vertical,2015,12.49975103501551,325,172,153
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2016,16.25075525330364,251,123,128
+Name: latitude, dtype: float64",Vertical,2016,16.250918948684,251,123,128
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2017,12.480160728363952,3,135,132
+Name: latitude, dtype: float64",Vertical,2017,12.479991917502959,3,135,132
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2018,12.284651367532009,29,167,138
+Name: latitude, dtype: float64",Vertical,2018,12.284474883450063,29,167,138
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2019,18.33801427286912,335,130,205
+Name: latitude, dtype: float64",Vertical,2019,18.338276441251715,335,130,205
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2020,9.174479489636743,0,140,140
+Name: latitude, dtype: float64",Vertical,2020,9.175566366423615,0,140,140
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2021,12.53160228661842,334,126,208
+Name: latitude, dtype: float64",Vertical,2021,12.531868291611499,334,126,208
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2022,9.781144522473557,276,162,114
+Name: latitude, dtype: float64",Vertical,2022,9.781290313671686,276,162,114
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2023,13.080488357481906,250,172,78
+Name: latitude, dtype: float64",Vertical,2023,13.08058810935431,250,172,78
 HMBG,"28   -28.129072
 Name: longitude, dtype: float64","28    73.675983
-Name: latitude, dtype: float64",Vertical,2024,9.290175230388137,306,183,123
+Name: latitude, dtype: float64",Vertical,2024,9.290332531417697,306,183,123
 PAMI,"29   -49.670967
 Name: longitude, dtype: float64","29    62.011567
-Name: latitude, dtype: float64",Vertical,2019,16.991015464407507,11,129,118
+Name: latitude, dtype: float64",Vertical,2019,16.992710179377127,11,129,118
 PAMI,"29   -49.670967
 Name: longitude, dtype: float64","29    62.011567
-Name: latitude, dtype: float64",Vertical,2020,11.63384479905239,356,169,187
+Name: latitude, dtype: float64",Vertical,2020,11.633770308953196,356,169,187
 PAMI,"29   -49.670967
 Name: longitude, dtype: float64","29    62.011567
-Name: latitude, dtype: float64",Vertical,2021,12.222186069709494,7,115,108
+Name: latitude, dtype: float64",Vertical,2021,12.222229090729348,7,115,108
 PAMI,"29   -49.670967
 Name: longitude, dtype: float64","29    62.011567
-Name: latitude, dtype: float64",Vertical,2022,13.178750561938482,295,171,124
+Name: latitude, dtype: float64",Vertical,2022,13.178701167434205,295,171,124
 SISI,"30   -53.672864
 Name: longitude, dtype: float64","30    66.934306
-Name: latitude, dtype: float64",Vertical,2014,18.056930485946165,357,172,185
+Name: latitude, dtype: float64",Vertical,2014,18.073294608097886,357,172,185
 SISI,"30   -53.672864
 Name: longitude, dtype: float64","30    66.934306
-Name: latitude, dtype: float64",Vertical,2015,13.719867523041447,0,161,161
+Name: latitude, dtype: float64",Vertical,2015,13.705626314033735,0,161,161
 SISI,"30   -53.672864
 Name: longitude, dtype: float64","30    66.934306
-Name: latitude, dtype: float64",Vertical,2016,15.624763091374042,364,120,244
+Name: latitude, dtype: float64",Vertical,2016,15.646346041671443,364,120,244
 SISI,"30   -53.672864
 Name: longitude, dtype: float64","30    66.934306
-Name: latitude, dtype: float64",Vertical,2017,15.436043952066075,13,141,128
+Name: latitude, dtype: float64",Vertical,2017,15.424721748631374,13,141,128
 SISI,"30   -53.672864
 Name: longitude, dtype: float64","30    66.934306
-Name: latitude, dtype: float64",Vertical,2018,6.228666473962685,299,146,153
+Name: latitude, dtype: float64",Vertical,2018,6.2422000452557285,299,146,153
 SISI,"30   -53.672864
 Name: longitude, dtype: float64","30    66.934306
-Name: latitude, dtype: float64",Vertical,2019,13.879083472464748,282,133,149
+Name: latitude, dtype: float64",Vertical,2019,13.892263224900457,282,133,149
 SISI,"30   -53.672864
 Name: longitude, dtype: float64","30    66.934306
-Name: latitude, dtype: float64",Vertical,2020,9.863010961230234,246,127,119
+Name: latitude, dtype: float64",Vertical,2020,9.873537072235937,246,127,119
 SISI,"30   -53.672864
 Name: longitude, dtype: float64","30    66.934306
-Name: latitude, dtype: float64",Vertical,2021,12.344521387258997,260,116,144
+Name: latitude, dtype: float64",Vertical,2021,12.357258866123038,260,116,144
 SISI,"30   -53.672864
 Name: longitude, dtype: float64","30    66.934306
-Name: latitude, dtype: float64",Vertical,2022,7.481541704115044,273,173,100
+Name: latitude, dtype: float64",Vertical,2022,7.490387175548405,273,173,100
 SISI,"30   -53.672864
 Name: longitude, dtype: float64","30    66.934306
-Name: latitude, dtype: float64",Vertical,2023,8.63471427958422,251,172,79
+Name: latitude, dtype: float64",Vertical,2023,8.641702202016575,251,172,79
 SISI,"30   -53.672864
 Name: longitude, dtype: float64","30    66.934306
-Name: latitude, dtype: float64",Vertical,2024,8.80356713763348,316,171,145
+Name: latitude, dtype: float64",Vertical,2024,8.816393071211856,316,171,145
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2008,18.745876468978103,244,122,122
+Name: latitude, dtype: float64",Vertical,2008,19.43650551150938,244,122,122
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2009,12.494813610122257,324,107,217
+Name: latitude, dtype: float64",Vertical,2009,13.723227562821329,324,107,217
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2010,11.89817723914084,306,86,220
+Name: latitude, dtype: float64",Vertical,2010,13.143573873213635,306,86,220
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2015,13.188077562323,258,169,89
+Name: latitude, dtype: float64",Vertical,2015,13.649229430527333,258,169,89
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2016,11.299962778060307,59,121,62
+Name: latitude, dtype: float64",Vertical,2016,12.016564205170063,254,121,133
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2017,12.17609011689302,49,138,89
+Name: latitude, dtype: float64",Vertical,2017,11.672270569472664,49,138,89
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2018,8.266155932601412,31,185,154
+Name: latitude, dtype: float64",Vertical,2018,7.394378288750456,31,185,154
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2019,15.711695707415934,249,146,103
+Name: latitude, dtype: float64",Vertical,2019,16.294767767913658,249,146,103
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2020,11.911649130145388,289,140,149
+Name: latitude, dtype: float64",Vertical,2020,12.755122305040144,289,140,149
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2021,10.879460914552674,1,127,126
+Name: latitude, dtype: float64",Vertical,2021,10.16704817809831,1,126,125
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2022,11.11358355682362,278,163,115
+Name: latitude, dtype: float64",Vertical,2022,11.764586342816221,278,163,115
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2023,12.803693316132186,8,166,158
+Name: latitude, dtype: float64",Vertical,2023,11.909272097116268,8,166,158
 DKSG,"31   -61.677658
 Name: longitude, dtype: float64","31    76.351619
-Name: latitude, dtype: float64",Vertical,2024,10.963039651016118,58,163,105
+Name: latitude, dtype: float64",Vertical,2024,10.405652588360702,58,163,105
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2007,8.655363735484316,70,156,86
+Name: latitude, dtype: float64",Vertical,2007,8.856655994661432,362,156,206
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2008,12.036120931882024,289,107,182
+Name: latitude, dtype: float64",Vertical,2008,12.282620992047153,289,107,182
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2009,8.960501202474845,323,173,150
+Name: latitude, dtype: float64",Vertical,2009,9.145685433005896,323,173,150
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2010,13.101364674842834,303,134,169
+Name: latitude, dtype: float64",Vertical,2010,13.330257587853309,303,134,169
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2012,14.11216636784512,272,156,116
+Name: latitude, dtype: float64",Vertical,2012,14.234224734857893,272,156,116
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2013,9.356471040275743,309,177,132
+Name: latitude, dtype: float64",Vertical,2013,9.155675847711855,309,177,132
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2014,12.68561206309035,247,166,81
+Name: latitude, dtype: float64",Vertical,2014,12.795318133823184,247,166,81
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2015,18.142989026757416,24,164,140
+Name: latitude, dtype: float64",Vertical,2015,17.953373595861162,24,164,140
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2016,13.758896542584989,251,125,126
+Name: latitude, dtype: float64",Vertical,2016,13.929550430391618,251,125,126
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2018,10.22900281855527,33,155,122
+Name: latitude, dtype: float64",Vertical,2018,10.063766514488536,33,155,122
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2019,15.953668057013218,335,133,202
+Name: latitude, dtype: float64",Vertical,2019,16.191305716447943,335,133,202
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2020,15.045459188221539,264,165,99
+Name: latitude, dtype: float64",Vertical,2020,15.179544385783892,264,165,99
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2021,13.521298834907606,333,116,217
+Name: latitude, dtype: float64",Vertical,2021,13.797227593081864,333,116,217
 QEQE,"32   -53.522331
 Name: longitude, dtype: float64","32    69.252628
-Name: latitude, dtype: float64",Vertical,2022,10.708199436384888,18,171,153
+Name: latitude, dtype: float64",Vertical,2022,10.500976858333985,18,171,153
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2008,12.728266703626165,234,122,112
+Name: latitude, dtype: float64",Vertical,2008,13.519193896579463,234,121,113
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2009,8.554876206315974,237,189,48
+Name: latitude, dtype: float64",Vertical,2009,8.893078528340537,237,189,48
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2010,7.837362541579436,307,181,126
+Name: latitude, dtype: float64",Vertical,2010,9.01744558534567,307,86,221
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2011,11.397732780994655,298,168,130
+Name: latitude, dtype: float64",Vertical,2011,12.319485844707161,299,168,131
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2012,11.925696464210944,284,166,118
+Name: latitude, dtype: float64",Vertical,2012,12.428869437726044,284,166,118
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2016,11.383879742105032,59,119,60
+Name: latitude, dtype: float64",Vertical,2016,11.943753117846867,348,119,229
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2017,13.137489244794843,55,179,124
+Name: latitude, dtype: float64",Vertical,2017,12.263799912898058,55,179,124
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2018,11.669369300028709,33,170,137
+Name: latitude, dtype: float64",Vertical,2018,10.704083505916937,33,170,137
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2021,8.795069381382309,16,189,173
+Name: latitude, dtype: float64",Vertical,2021,7.7221079429948745,16,189,173
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2022,9.02227469872896,22,171,149
+Name: latitude, dtype: float64",Vertical,2022,8.428054372723642,273,171,102
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2023,12.63222791877126,0,174,174
+Name: latitude, dtype: float64",Vertical,2023,11.410296925704102,7,174,167
 KULL,"33   -57.227067
 Name: longitude, dtype: float64","33    74.580625
-Name: latitude, dtype: float64",Vertical,2024,9.305914883782961,1,172,171
+Name: latitude, dtype: float64",Vertical,2024,8.106443159453502,2,172,170
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2002,8.86136490006249,300,113,187
+Name: latitude, dtype: float64",Vertical,2002,8.885544904053827,300,113,187
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2004,10.907351484307144,350,130,220
+Name: latitude, dtype: float64",Vertical,2004,10.89196851457313,350,130,220
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2006,7.439064389691586,360,143,217
+Name: latitude, dtype: float64",Vertical,2006,7.5187057621016775,360,143,217
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2007,7.11966917362229,244,157,87
+Name: latitude, dtype: float64",Vertical,2007,7.141319821672102,244,157,87
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2008,11.411218141727526,234,107,127
+Name: latitude, dtype: float64",Vertical,2008,11.434306521291457,234,107,127
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2010,14.467037298973011,357,164,193
+Name: latitude, dtype: float64",Vertical,2010,14.537870408996731,357,164,193
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2011,10.424740400586401,260,143,117
+Name: latitude, dtype: float64",Vertical,2011,10.467680679719951,260,143,117
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2012,18.298502905509896,266,133,133
+Name: latitude, dtype: float64",Vertical,2012,18.3473153595677,266,133,133
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2013,7.814040832181361,6,180,174
+Name: latitude, dtype: float64",Vertical,2013,7.761293689989129,6,180,174
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2014,13.329355091067589,296,179,117
+Name: latitude, dtype: float64",Vertical,2014,13.323214013053287,296,179,117
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2015,11.879787525714356,23,158,135
+Name: latitude, dtype: float64",Vertical,2015,11.829592805451338,23,158,135
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2016,14.249015665618847,253,121,132
+Name: latitude, dtype: float64",Vertical,2016,14.297461108743878,253,121,132
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2017,8.67948076178483,241,135,106
+Name: latitude, dtype: float64",Vertical,2017,8.718383920657963,241,135,106
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2018,7.61982646239285,34,148,114
+Name: latitude, dtype: float64",Vertical,2018,7.580765406084832,34,148,114
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2020,11.40773961533606,260,156,104
+Name: latitude, dtype: float64",Vertical,2020,11.44590875234366,260,156,104
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2021,12.19319250115197,333,160,173
+Name: latitude, dtype: float64",Vertical,2021,12.256685392520387,333,160,173
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2022,11.546214644877036,364,164,200
+Name: latitude, dtype: float64",Vertical,2022,11.619616831430116,364,164,200
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2023,11.767569297297124,252,166,86
+Name: latitude, dtype: float64",Vertical,2023,11.79913223751495,252,166,86
 QAQ1,"37   -46.047761
 Name: longitude, dtype: float64","37    60.715264
-Name: latitude, dtype: float64",Vertical,2024,9.024402395138992,333,166,167
+Name: latitude, dtype: float64",Vertical,2024,9.085693220910816,333,166,167
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2006,7.946646607762572,273,127,146
+Name: latitude, dtype: float64",Vertical,2006,7.974127111896192,273,127,146
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2007,8.441000299130557,325,155,170
+Name: latitude, dtype: float64",Vertical,2007,8.435053280055204,325,43,282
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2008,13.219684042615889,289,123,166
+Name: latitude, dtype: float64",Vertical,2008,13.250928999370556,289,123,166
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2010,11.653991910286507,357,112,245
+Name: latitude, dtype: float64",Vertical,2010,11.700106454894296,357,112,245
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2011,9.722680024641601,363,164,199
+Name: latitude, dtype: float64",Vertical,2011,9.761938780369924,363,164,199
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2012,13.289386653389805,349,143,206
+Name: latitude, dtype: float64",Vertical,2012,13.258766107652619,349,143,206
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2013,8.704670582382574,321,180,141
+Name: latitude, dtype: float64",Vertical,2013,8.731209973360933,321,180,141
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2014,11.13252826194407,49,156,107
+Name: latitude, dtype: float64",Vertical,2014,11.120113235345485,49,156,107
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2017,12.48900345387548,23,147,124
+Name: latitude, dtype: float64",Vertical,2017,12.470684964325608,23,147,124
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2018,10.329062508186798,30,130,100
+Name: latitude, dtype: float64",Vertical,2018,10.313973895961514,30,130,100
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2019,13.640523426564105,345,100,245
+Name: latitude, dtype: float64",Vertical,2019,13.68097312156096,345,100,245
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2020,6.956038889657235,288,139,149
+Name: latitude, dtype: float64",Vertical,2020,6.984084061684013,288,139,149
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2021,10.657441164765148,330,48,282
+Name: latitude, dtype: float64",Vertical,2021,10.71051994672187,330,48,282
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2022,9.012181917073256,275,160,115
+Name: latitude, dtype: float64",Vertical,2022,9.03382751964426,275,160,115
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2023,11.7193807613999,305,155,150
+Name: latitude, dtype: float64",Vertical,2023,11.747614156057729,305,155,150
 SCOR,"38   -21.950336
 Name: longitude, dtype: float64","38    70.485333
-Name: latitude, dtype: float64",Vertical,2024,12.028482402007896,321,163,158
+Name: latitude, dtype: float64",Vertical,2024,12.058221577714145,321,163,158
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2008,21.28717775434809,249,123,126
+Name: latitude, dtype: float64",Vertical,2008,21.39728318204417,249,123,126
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2009,17.70773376109584,254,165,89
+Name: latitude, dtype: float64",Vertical,2009,17.81444843811056,254,165,89
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2010,25.941350192794538,298,141,157
+Name: latitude, dtype: float64",Vertical,2010,26.129599679213754,298,141,157
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2011,28.684455080933677,329,168,161
+Name: latitude, dtype: float64",Vertical,2011,28.877500732611992,329,168,161
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2013,15.867295083745232,301,155,146
+Name: latitude, dtype: float64",Vertical,2013,16.04235511570197,301,155,146
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2014,21.92277952162937,341,156,185
+Name: latitude, dtype: float64",Vertical,2014,21.980707053001353,341,156,185
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2015,18.6329493321817,17,169,152
+Name: latitude, dtype: float64",Vertical,2015,18.453426637534022,17,169,152
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2016,22.80522797525825,249,117,132
+Name: latitude, dtype: float64",Vertical,2016,22.963501428808186,249,117,132
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2017,21.6409075812345,2,139,137
+Name: latitude, dtype: float64",Vertical,2017,21.476638921110705,2,139,137
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2018,21.70833549681337,41,171,130
+Name: latitude, dtype: float64",Vertical,2018,21.90824909789094,41,171,130
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2019,27.99953951881781,330,134,196
+Name: latitude, dtype: float64",Vertical,2019,28.234551616513144,330,134,196
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2020,17.285054197293032,269,136,133
+Name: latitude, dtype: float64",Vertical,2020,17.444526692157723,269,136,133
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2021,18.523271084869865,256,116,140
+Name: latitude, dtype: float64",Vertical,2021,18.691136868937956,256,116,140
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2022,18.263818255211223,4,180,176
+Name: latitude, dtype: float64",Vertical,2022,18.052786983811323,4,180,176
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2023,22.6835280314895,8,176,168
+Name: latitude, dtype: float64",Vertical,2023,22.48208909060778,8,176,168
 KAGA,"39   -49.814633
 Name: longitude, dtype: float64","39    69.222303
-Name: latitude, dtype: float64",Vertical,2024,19.263267483297614,0,167,167
+Name: latitude, dtype: float64",Vertical,2024,19.071389090607784,0,167,167
 TIN1,"40   -50.463189
 Name: longitude, dtype: float64","40    68.801242
-Name: latitude, dtype: float64",Vertical,2020,23.83021761883113,329,140,189
+Name: latitude, dtype: float64",Vertical,2020,23.83022536707692,329,140,189
 TIN1,"40   -50.463189
 Name: longitude, dtype: float64","40    68.801242
-Name: latitude, dtype: float64",Vertical,2021,11.163462607449741,343,116,227
+Name: latitude, dtype: float64",Vertical,2021,11.163471913543887,343,116,227
 TIN1,"40   -50.463189
 Name: longitude, dtype: float64","40    68.801242
-Name: latitude, dtype: float64",Vertical,2022,12.199749614379602,288,172,116
+Name: latitude, dtype: float64",Vertical,2022,12.1997543699167,288,172,116
 TIN1,"40   -50.463189
 Name: longitude, dtype: float64","40    68.801242
-Name: latitude, dtype: float64",Vertical,2023,13.142915986308653,252,177,75
+Name: latitude, dtype: float64",Vertical,2023,13.14291906100936,252,177,75
 TIN1,"40   -50.463189
 Name: longitude, dtype: float64","40    68.801242
-Name: latitude, dtype: float64",Vertical,2024,10.631563991096938,18,163,145
+Name: latitude, dtype: float64",Vertical,2024,10.631558005679556,18,163,145
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2009,14.180726646419194,236,100,136
+Name: latitude, dtype: float64",Vertical,2009,14.223914997530848,236,100,136
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2010,13.711506634062282,305,86,219
+Name: latitude, dtype: float64",Vertical,2010,13.78105258180825,305,86,219
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2011,15.98848664105957,342,170,172
+Name: latitude, dtype: float64",Vertical,2011,16.0431072027596,342,170,172
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2012,18.99028664701471,282,150,132
+Name: latitude, dtype: float64",Vertical,2012,19.032204752505432,282,150,132
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2013,8.414340008337195,14,70,56
+Name: latitude, dtype: float64",Vertical,2013,8.396556569644162,14,70,56
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2014,14.879399982878976,259,144,115
+Name: latitude, dtype: float64",Vertical,2014,14.91591954448074,259,144,115
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2015,14.529226654607513,258,175,83
+Name: latitude, dtype: float64",Vertical,2015,14.51850425094407,258,175,83
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2016,15.907199986600935,244,154,90
+Name: latitude, dtype: float64",Vertical,2016,15.935780513071883,244,154,90
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2017,13.63087998540991,231,133,98
+Name: latitude, dtype: float64",Vertical,2017,13.662001003122718,231,133,98
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2018,9.891093311597078,266,120,146
+Name: latitude, dtype: float64",Vertical,2018,9.937457276761057,266,120,146
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2019,20.257939978561502,252,108,144
+Name: latitude, dtype: float64",Vertical,2019,20.303668820915014,252,108,144
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2020,12.76313331100156,291,141,150
+Name: latitude, dtype: float64",Vertical,2020,12.810767521786474,291,141,150
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2021,12.452059968586646,335,124,211
+Name: latitude, dtype: float64",Vertical,2021,12.51906542509075,335,124,211
 LEFN,"41   -26.293467
 Name: longitude, dtype: float64","41    80.456683
-Name: latitude, dtype: float64",Vertical,2024,9.959006655649658,240,166,74
+Name: latitude, dtype: float64",Vertical,2024,9.982506199636882,240,166,74
 GMMA,"42   -19.652119
 Name: longitude, dtype: float64","42    77.809428
-Name: latitude, dtype: float64",Vertical,2010,9.987278260645203,307,86,221
+Name: latitude, dtype: float64",Vertical,2010,10.665022587762234,307,86,221
 GMMA,"42   -19.652119
 Name: longitude, dtype: float64","42    77.809428
-Name: latitude, dtype: float64",Vertical,2011,12.366624571813913,350,173,177
+Name: latitude, dtype: float64",Vertical,2011,12.9124088146331,350,173,177
 GMMA,"42   -19.652119
 Name: longitude, dtype: float64","42    77.809428
-Name: latitude, dtype: float64",Vertical,2012,23.399594418715136,268,164,104
+Name: latitude, dtype: float64",Vertical,2012,23.71372413716044,268,164,104
 GMMA,"42   -19.652119
 Name: longitude, dtype: float64","42    77.809428
-Name: latitude, dtype: float64",Vertical,2015,13.324597456864081,23,171,148
+Name: latitude, dtype: float64",Vertical,2015,13.226261150502056,324,171,153
 GMMA,"42   -19.652119
 Name: longitude, dtype: float64","42    77.809428
-Name: latitude, dtype: float64",Vertical,2016,12.212754246017642,298,138,160
+Name: latitude, dtype: float64",Vertical,2016,12.704532594101295,298,137,161
 GMMA,"42   -19.652119
 Name: longitude, dtype: float64","42    77.809428
-Name: latitude, dtype: float64",Vertical,2020,20.374024818388218,0,92,92
+Name: latitude, dtype: float64",Vertical,2020,20.09355384315888,0,92,92
 GMMA,"42   -19.652119
 Name: longitude, dtype: float64","42    77.809428
-Name: latitude, dtype: float64",Vertical,2021,17.25932147667399,267,125,142
+Name: latitude, dtype: float64",Vertical,2021,17.694795207219777,267,125,142
 GMMA,"42   -19.652119
 Name: longitude, dtype: float64","42    77.809428
-Name: latitude, dtype: float64",Vertical,2022,11.852809600700613,274,344,70
+Name: latitude, dtype: float64",Vertical,2022,11.638139451840017,274,344,70
 GMMA,"42   -19.652119
 Name: longitude, dtype: float64","42    77.809428
-Name: latitude, dtype: float64",Vertical,2023,18.357577214259884,364,164,200
+Name: latitude, dtype: float64",Vertical,2023,18.958477756647568,364,164,200
 GMMA,"42   -19.652119
 Name: longitude, dtype: float64","42    77.809428
-Name: latitude, dtype: float64",Vertical,2024,16.526889340038043,8,199,191
+Name: latitude, dtype: float64",Vertical,2024,16.006785353618334,8,199,191
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2010,10.539957916137098,306,86,220
+Name: latitude, dtype: float64",Vertical,2010,10.585612636369856,306,86,220
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2011,15.521053718986455,349,172,177
+Name: latitude, dtype: float64",Vertical,2011,15.558536227139992,349,172,177
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2012,14.247324219475514,256,164,92
+Name: latitude, dtype: float64",Vertical,2012,14.26641619339103,256,164,92
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2013,11.195625952947593,234,357,123
+Name: latitude, dtype: float64",Vertical,2013,11.170100813908366,234,357,123
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2014,9.595428431558211,258,150,108
+Name: latitude, dtype: float64",Vertical,2014,9.617840748763385,258,150,108
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2016,14.590827732624767,248,111,137
+Name: latitude, dtype: float64",Vertical,2016,14.619258172042441,248,111,137
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2017,9.724943518693866,239,137,102
+Name: latitude, dtype: float64",Vertical,2017,9.746110707165418,239,137,102
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2018,8.165989460552236,32,167,135
+Name: latitude, dtype: float64",Vertical,2018,8.13797406404577,32,167,135
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2019,15.950285975126038,252,147,105
+Name: latitude, dtype: float64",Vertical,2019,15.972075727964402,252,147,105
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2020,8.121141617193588,0,87,87
+Name: latitude, dtype: float64",Vertical,2020,8.10404827878539,0,87,87
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2021,8.237167728928359,224,125,99
+Name: latitude, dtype: float64",Vertical,2021,8.257712353033103,224,125,99
 LBIB,"43   -23.852947
 Name: longitude, dtype: float64","43    75.893808
-Name: latitude, dtype: float64",Vertical,2022,8.316865958492205,277,343,66
+Name: latitude, dtype: float64",Vertical,2022,8.303169542422376,277,343,66
 SCBY,"44   -59.593628
 Name: longitude, dtype: float64","44    80.260133
-Name: latitude, dtype: float64",Vertical,2013,9.459828260371228,361,71,290
+Name: latitude, dtype: float64",Vertical,2013,10.24463324047362,361,71,290
 SCBY,"44   -59.593628
 Name: longitude, dtype: float64","44    80.260133
-Name: latitude, dtype: float64",Vertical,2015,16.814607388594233,300,176,124
+Name: latitude, dtype: float64",Vertical,2015,17.124430994777228,300,176,124
 SCBY,"44   -59.593628
 Name: longitude, dtype: float64","44    80.260133
-Name: latitude, dtype: float64",Vertical,2016,17.48263033716121,252,153,99
+Name: latitude, dtype: float64",Vertical,2016,17.75054652002375,252,153,99
 SCBY,"44   -59.593628
 Name: longitude, dtype: float64","44    80.260133
-Name: latitude, dtype: float64",Vertical,2017,18.325347803788944,27,138,111
+Name: latitude, dtype: float64",Vertical,2017,18.024956932094582,27,138,111
 SCBY,"44   -59.593628
 Name: longitude, dtype: float64","44    80.260133
-Name: latitude, dtype: float64",Vertical,2018,15.134408443757795,31,310,279
+Name: latitude, dtype: float64",Vertical,2018,14.379371928417907,31,310,279
 SCBY,"44   -59.593628
 Name: longitude, dtype: float64","44    80.260133
-Name: latitude, dtype: float64",Vertical,2019,15.499716956222738,334,160,174
+Name: latitude, dtype: float64",Vertical,2019,15.970599944284169,334,160,174
 SCBY,"44   -59.593628
 Name: longitude, dtype: float64","44    80.260133
-Name: latitude, dtype: float64",Vertical,2020,12.754557848285302,310,141,169
+Name: latitude, dtype: float64",Vertical,2020,13.211909716000141,310,141,169
 SCBY,"44   -59.593628
 Name: longitude, dtype: float64","44    80.260133
-Name: latitude, dtype: float64",Vertical,2021,10.873915866705605,335,125,210
+Name: latitude, dtype: float64",Vertical,2021,11.442222921262509,335,125,210
 SCBY,"44   -59.593628
 Name: longitude, dtype: float64","44    80.260133
-Name: latitude, dtype: float64",Vertical,2022,10.332981886369415,278,169,109
+Name: latitude, dtype: float64",Vertical,2022,10.627960309925138,278,169,109
 SCBY,"44   -59.593628
 Name: longitude, dtype: float64","44    80.260133
-Name: latitude, dtype: float64",Vertical,2023,12.406786346682239,249,165,84
+Name: latitude, dtype: float64",Vertical,2023,12.766579250146115,353,165,188
 SCBY,"44   -59.593628
 Name: longitude, dtype: float64","44    80.260133
-Name: latitude, dtype: float64",Vertical,2024,10.872535069853312,243,178,65
+Name: latitude, dtype: float64",Vertical,2024,11.048439634359031,243,178,65
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,1998,38.21064130095067,30,243,213
+Name: latitude, dtype: float64",Vertical,1998,37.735932153131415,364,243,121
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2001,17.454696116689966,260,120,140
+Name: latitude, dtype: float64",Vertical,2001,17.432125287369683,260,120,140
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2002,13.957728860577264,236,114,122
+Name: latitude, dtype: float64",Vertical,2002,14.408587274231673,236,114,122
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2003,16.462083267540052,28,115,87
+Name: latitude, dtype: float64",Vertical,2003,16.112044047610745,28,115,87
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2004,13.717703305912064,26,136,110
+Name: latitude, dtype: float64",Vertical,2004,13.768288711021967,349,136,213
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2005,13.669899375318687,306,150,156
+Name: latitude, dtype: float64",Vertical,2005,14.309440558307168,306,150,156
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2006,10.667825841967641,360,45,315
+Name: latitude, dtype: float64",Vertical,2006,11.152487972115633,360,43,317
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2007,9.864474813238473,261,161,100
+Name: latitude, dtype: float64",Vertical,2007,10.286572003294188,261,155,106
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2009,7.776792576311782,277,184,93
+Name: latitude, dtype: float64",Vertical,2009,8.158057512324145,277,184,93
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2010,13.917861092859876,304,86,218
+Name: latitude, dtype: float64",Vertical,2010,14.947391379335727,352,86,266
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2012,15.856782457493757,257,145,112
+Name: latitude, dtype: float64",Vertical,2012,16.315940229895748,257,145,112
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2015,13.249257172529955,25,162,137
+Name: latitude, dtype: float64",Vertical,2015,12.687608825931095,25,162,137
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2016,12.70962725721002,251,121,130
+Name: latitude, dtype: float64",Vertical,2016,13.24257824303375,251,121,130
 KULU,"47   -37.149361
 Name: longitude, dtype: float64","47    65.579336
-Name: latitude, dtype: float64",Vertical,2021,12.801851255791313,335,115,220
+Name: latitude, dtype: float64",Vertical,2021,13.703768308723786,335,115,220
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2010,10.688315877748266,304,135,169
+Name: latitude, dtype: float64",Vertical,2010,10.690412770406105,304,135,169
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2011,15.034075001701302,349,171,178
+Name: latitude, dtype: float64",Vertical,2011,15.037691063899132,349,171,178
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2012,16.580765854407485,322,146,176
+Name: latitude, dtype: float64",Vertical,2012,16.56418292460438,322,146,176
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2013,11.793298870306195,321,79,242
+Name: latitude, dtype: float64",Vertical,2013,11.796301521331028,321,79,242
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2014,10.277399514511753,259,155,104
+Name: latitude, dtype: float64",Vertical,2014,10.2786899099935,259,155,104
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2015,12.711900653541871,20,160,140
+Name: latitude, dtype: float64",Vertical,2015,12.710163582701057,20,160,140
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2016,14.53838276848643,245,124,121
+Name: latitude, dtype: float64",Vertical,2016,14.539884093998847,245,124,121
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2017,11.583600392125122,48,132,84
+Name: latitude, dtype: float64",Vertical,2017,11.582558149620635,48,132,84
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2018,11.919583972870734,31,168,137
+Name: latitude, dtype: float64",Vertical,2018,11.917884124976514,31,168,137
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2019,19.585615756376207,341,145,196
+Name: latitude, dtype: float64",Vertical,2019,19.578664317551855,341,145,196
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2020,8.319016101819765,262,141,121
+Name: latitude, dtype: float64",Vertical,2020,8.320517427332181,262,141,121
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2021,11.409099019687194,335,125,210
+Name: latitude, dtype: float64",Vertical,2021,11.411704625948413,335,125,210
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2022,10.491399458493879,277,161,116
+Name: latitude, dtype: float64",Vertical,2022,10.492838745761981,277,161,116
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2023,13.365176320178836,359,166,193
+Name: latitude, dtype: float64",Vertical,2023,13.369760441943065,359,166,193
 MSVG,"48   -23.912867
 Name: longitude, dtype: float64","48    72.240822
-Name: latitude, dtype: float64",Vertical,2024,9.082899449157566,297,179,118
+Name: latitude, dtype: float64",Vertical,2024,9.084363551723394,297,179,118
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2009,10.79728833779523,37,106,69
+Name: latitude, dtype: float64",Vertical,2009,10.754817089938713,37,106,69
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2010,10.23381708110993,27,86,59
+Name: latitude, dtype: float64",Vertical,2010,10.197501086565953,27,86,59
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2011,12.576811799004904,360,178,182
+Name: latitude, dtype: float64",Vertical,2011,12.692005405282426,360,178,182
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2013,8.785899585332135,278,196,82
+Name: latitude, dtype: float64",Vertical,2013,8.824832105676698,278,196,82
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2015,11.998544621221722,52,171,119
+Name: latitude, dtype: float64",Vertical,2015,11.925297106802518,52,171,119
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2016,13.819651253560966,54,3,51
+Name: latitude, dtype: float64",Vertical,2016,13.84787504946559,54,3,51
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2017,11.115373364536424,28,137,109
+Name: latitude, dtype: float64",Vertical,2017,11.048281103429755,28,137,109
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2018,10.499466363619904,265,61,204
+Name: latitude, dtype: float64",Vertical,2018,10.625033531195685,265,61,204
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2019,13.056051001321467,354,162,192
+Name: latitude, dtype: float64",Vertical,2019,13.163822735242999,354,162,192
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2020,13.058914068610587,363,154,209
+Name: latitude, dtype: float64",Vertical,2020,13.187558862842636,363,154,209
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2021,10.11663882800018,13,192,179
+Name: latitude, dtype: float64",Vertical,2021,10.006459793705744,13,192,179
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2022,11.223531225482208,278,179,99
+Name: latitude, dtype: float64",Vertical,2022,11.284468233276337,278,179,99
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2023,12.012227788308426,364,166,198
+Name: latitude, dtype: float64",Vertical,2023,12.13726979988601,364,166,198
 KMJP,"49   -33.377089
 Name: longitude, dtype: float64","49    83.643239
-Name: latitude, dtype: float64",Vertical,2024,12.361931629694293,4,191,187
+Name: latitude, dtype: float64",Vertical,2024,12.249380863407897,4,191,187
 NORD,"51   -16.655456
 Name: longitude, dtype: float64","51    81.600142
-Name: latitude, dtype: float64",Vertical,2009,17.382000523892444,22,66,44
+Name: latitude, dtype: float64",Vertical,2009,17.642562853052944,325,66,259
 NORD,"51   -16.655456
 Name: longitude, dtype: float64","51    81.600142
-Name: latitude, dtype: float64",Vertical,2015,17.888072301964996,70,354,284
+Name: latitude, dtype: float64",Vertical,2015,16.58241640823538,70,354,284
 NORD,"51   -16.655456
 Name: longitude, dtype: float64","51    81.600142
-Name: latitude, dtype: float64",Vertical,2016,14.095969592395484,56,0,56
+Name: latitude, dtype: float64",Vertical,2016,14.355345121380818,56,0,56
 NORD,"51   -16.655456
 Name: longitude, dtype: float64","51    81.600142
-Name: latitude, dtype: float64",Vertical,2017,13.659187301237733,222,311,89
+Name: latitude, dtype: float64",Vertical,2017,13.240768170186437,222,311,89
 NORD,"51   -16.655456
 Name: longitude, dtype: float64","51    81.600142
-Name: latitude, dtype: float64",Vertical,2020,12.279044712383524,201,95,106
+Name: latitude, dtype: float64",Vertical,2020,12.777386598804163,201,95,106
 NORD,"51   -16.655456
 Name: longitude, dtype: float64","51    81.600142
-Name: latitude, dtype: float64",Vertical,2021,8.87990083888992,214,48,166
+Name: latitude, dtype: float64",Vertical,2021,9.660323038378849,214,48,166
 NORD,"51   -16.655456
 Name: longitude, dtype: float64","51    81.600142
-Name: latitude, dtype: float64",Vertical,2022,14.960110540160269,10,70,60
+Name: latitude, dtype: float64",Vertical,2022,16.18159591752822,356,70,286
 NORD,"51   -16.655456
 Name: longitude, dtype: float64","51    81.600142
-Name: latitude, dtype: float64",Vertical,2023,26.883375458901735,70,158,88
+Name: latitude, dtype: float64",Vertical,2023,26.469657666401574,70,158,88
 NORD,"51   -16.655456
 Name: longitude, dtype: float64","51    81.600142
-Name: latitude, dtype: float64",Vertical,2024,16.685840043331083,7,99,92
+Name: latitude, dtype: float64",Vertical,2024,16.25279351865924,7,99,92
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2010,15.036024295921974,265,86,179
+Name: latitude, dtype: float64",Vertical,2010,15.036662248726376,265,86,179
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2011,16.989984162973315,349,176,173
+Name: latitude, dtype: float64",Vertical,2011,16.992644147279314,349,176,173
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2012,21.806783680997654,322,150,172
+Name: latitude, dtype: float64",Vertical,2012,21.807396685927024,322,150,172
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2013,11.552073625835995,311,80,231
+Name: latitude, dtype: float64",Vertical,2013,11.552896905712066,311,80,231
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2014,12.417442557198179,262,157,105
+Name: latitude, dtype: float64",Vertical,2014,12.417816775323669,262,157,105
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2015,14.852418676924607,20,176,156
+Name: latitude, dtype: float64",Vertical,2015,14.851862695709602,20,176,156
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2016,18.190789529189935,255,114,141
+Name: latitude, dtype: float64",Vertical,2016,18.191292050672736,255,114,141
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2017,15.76017385503091,3,138,135
+Name: latitude, dtype: float64",Vertical,2017,15.759692717441002,3,138,135
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2018,14.522672930507355,42,155,113
+Name: latitude, dtype: float64",Vertical,2018,14.522270200524687,42,155,113
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2019,23.635490889137813,350,146,204
+Name: latitude, dtype: float64",Vertical,2019,23.63871544920027,350,146,204
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2020,7.953208800906774,0,169,169
+Name: latitude, dtype: float64",Vertical,2020,7.955781570110889,0,169,169
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2021,12.946901526625453,298,118,180
+Name: latitude, dtype: float64",Vertical,2021,12.947543043412,298,118,180
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2022,11.466192625182266,14,163,149
+Name: latitude, dtype: float64",Vertical,2022,11.465661591842288,14,163,149
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2023,13.4872618575954,6,180,174
+Name: latitude, dtype: float64",Vertical,2023,13.486641724701736,6,180,174
 VFDG,"53   -29.817644
 Name: longitude, dtype: float64","53    70.299925
-Name: latitude, dtype: float64",Vertical,2024,10.01755947830242,296,161,135
+Name: latitude, dtype: float64",Vertical,2024,10.018040615892332,296,161,135
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2008,11.047886695465127,58,110,52
+Name: latitude, dtype: float64",Vertical,2008,11.03441345140483,58,110,52
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2009,6.695972712277995,324,107,217
+Name: latitude, dtype: float64",Vertical,2009,6.751136749279588,324,107,217
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2010,8.410628665386074,305,38,267
+Name: latitude, dtype: float64",Vertical,2010,8.301342298268741,305,38,267
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2012,10.376230331034765,353,152,201
+Name: latitude, dtype: float64",Vertical,2012,10.427326973603058,353,152,201
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2013,8.495214908514729,53,174,121
+Name: latitude, dtype: float64",Vertical,2013,8.464455238112919,53,174,121
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2014,9.626025237180533,354,167,187
+Name: latitude, dtype: float64",Vertical,2014,9.647745769355105,354,167,187
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2015,8.23396565614925,0,161,161
+Name: latitude, dtype: float64",Vertical,2015,8.274982140350907,0,161,161
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2016,11.638302683504126,251,115,136
+Name: latitude, dtype: float64",Vertical,2016,11.653683093250494,251,115,136
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2017,14.844935533641976,55,169,114
+Name: latitude, dtype: float64",Vertical,2017,14.815955348304731,55,169,114
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2018,11.534249494192611,45,338,293
+Name: latitude, dtype: float64",Vertical,2018,11.474233482923568,45,338,293
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2019,10.217541579253304,249,146,103
+Name: latitude, dtype: float64",Vertical,2019,10.243725430917653,249,146,103
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2020,8.05400119265757,269,149,120
+Name: latitude, dtype: float64",Vertical,2020,8.0845066509073,269,149,120
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2021,7.535618836140894,20,193,173
+Name: latitude, dtype: float64",Vertical,2021,7.491640133830866,20,193,173
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2022,8.005107114931235,273,171,102
+Name: latitude, dtype: float64",Vertical,2022,8.013320653271204,273,171,102
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2023,9.907872794601474,7,173,166
+Name: latitude, dtype: float64",Vertical,2023,9.865673577356013,7,173,166
 UPVK,"54   -56.128006
 Name: longitude, dtype: float64","54    72.788289
-Name: latitude, dtype: float64",Vertical,2024,7.947357557087933,29,162,133
+Name: latitude, dtype: float64",Vertical,2024,7.913293128709071,29,162,133
 KAPI,"55   -50.271214
 Name: longitude, dtype: float64","55    64.432353
-Name: latitude, dtype: float64",Vertical,2010,17.3667808435847,303,155,148
+Name: latitude, dtype: float64",Vertical,2010,17.505553769635476,303,155,148
 KAPI,"55   -50.271214
 Name: longitude, dtype: float64","55    64.432353
-Name: latitude, dtype: float64",Vertical,2012,22.545043211655855,271,148,123
+Name: latitude, dtype: float64",Vertical,2012,22.65612441665651,271,148,123
 KAPI,"55   -50.271214
 Name: longitude, dtype: float64","55    64.432353
-Name: latitude, dtype: float64",Vertical,2016,18.741291760477036,254,119,135
+Name: latitude, dtype: float64",Vertical,2016,18.86787517275308,254,119,135
 KAPI,"55   -50.271214
 Name: longitude, dtype: float64","55    64.432353
-Name: latitude, dtype: float64",Vertical,2017,12.724032514764732,24,136,112
+Name: latitude, dtype: float64",Vertical,2017,12.6190151653209,24,136,112
 KAPI,"55   -50.271214
 Name: longitude, dtype: float64","55    64.432353
-Name: latitude, dtype: float64",Vertical,2018,11.796328971722616,40,166,126
+Name: latitude, dtype: float64",Vertical,2018,11.685725394319348,40,166,126
 KAPI,"55   -50.271214
 Name: longitude, dtype: float64","55    64.432353
-Name: latitude, dtype: float64",Vertical,2021,13.210463420889676,260,116,144
+Name: latitude, dtype: float64",Vertical,2021,13.197409073158836,260,116,144
 KAPI,"55   -50.271214
 Name: longitude, dtype: float64","55    64.432353
-Name: latitude, dtype: float64",Vertical,2022,12.679270259187708,3,163,160
+Name: latitude, dtype: float64",Vertical,2022,12.529245474267956,3,163,160
 KAPI,"55   -50.271214
 Name: longitude, dtype: float64","55    64.432353
-Name: latitude, dtype: float64",Vertical,2023,12.006415438813761,9,177,168
+Name: latitude, dtype: float64",Vertical,2023,11.979993551484403,251,177,74
 KAPI,"55   -50.271214
 Name: longitude, dtype: float64","55    64.432353
-Name: latitude, dtype: float64",Vertical,2024,10.085587681882732,28,165,137
+Name: latitude, dtype: float64",Vertical,2024,9.956191304889444,28,165,137
 THU1,"56   -68.788
 Name: longitude, dtype: float64","56    76.5373
-Name: latitude, dtype: float64",Vertical,1996,17.691070210568384,265,177,88
+Name: latitude, dtype: float64",Vertical,1996,17.790120295555134,265,177,88
 THU1,"56   -68.788
 Name: longitude, dtype: float64","56    76.5373
-Name: latitude, dtype: float64",Vertical,1998,16.224913471742024,28,88,60
+Name: latitude, dtype: float64",Vertical,1998,16.274272525757866,28,88,60
 THU1,"56   -68.788
 Name: longitude, dtype: float64","56    76.5373
-Name: latitude, dtype: float64",Vertical,1999,17.14598034786809,339,246,93
+Name: latitude, dtype: float64",Vertical,1999,17.232171196186417,339,246,93
 THU1,"56   -68.788
 Name: longitude, dtype: float64","56    76.5373
-Name: latitude, dtype: float64",Vertical,2000,18.32487526142181,29,225,196
+Name: latitude, dtype: float64",Vertical,2000,18.205568959571657,29,225,196
 DANE,"57   -20.199831
 Name: longitude, dtype: float64","57    74.311947
-Name: latitude, dtype: float64",Vertical,2010,8.04090629910198,264,74,190
+Name: latitude, dtype: float64",Vertical,2010,8.200008354014589,264,74,190
 DANE,"57   -20.199831
 Name: longitude, dtype: float64","57    74.311947
-Name: latitude, dtype: float64",Vertical,2011,15.00299102213396,358,175,183
+Name: latitude, dtype: float64",Vertical,2011,15.157903309392998,358,175,183
 DANE,"57   -20.199831
 Name: longitude, dtype: float64","57    74.311947
-Name: latitude, dtype: float64",Vertical,2012,12.61770543039816,1,155,154
+Name: latitude, dtype: float64",Vertical,2012,12.531882255019841,322,155,167
 DANE,"57   -20.199831
 Name: longitude, dtype: float64","57    74.311947
-Name: latitude, dtype: float64",Vertical,2013,6.470507487300008,230,364,134
+Name: latitude, dtype: float64",Vertical,2013,6.514155718081692,230,80,150
 DANE,"57   -20.199831
 Name: longitude, dtype: float64","57    74.311947
-Name: latitude, dtype: float64",Vertical,2014,9.655851139612432,239,157,82
+Name: latitude, dtype: float64",Vertical,2014,9.72451623699577,239,157,82
 DANE,"57   -20.199831
 Name: longitude, dtype: float64","57    74.311947
-Name: latitude, dtype: float64",Vertical,2019,14.794926122260431,336,109,227
+Name: latitude, dtype: float64",Vertical,2019,14.98501120891918,336,109,227
 DANE,"57   -20.199831
 Name: longitude, dtype: float64","57    74.311947
-Name: latitude, dtype: float64",Vertical,2020,7.319691932482577,265,85,180
+Name: latitude, dtype: float64",Vertical,2020,7.471059010929686,265,84,181
 DANE,"57   -20.199831
 Name: longitude, dtype: float64","57    74.311947
-Name: latitude, dtype: float64",Vertical,2021,8.217078173843788,10,118,108
+Name: latitude, dtype: float64",Vertical,2021,8.21006186583428,336,118,218
 DANE,"57   -20.199831
 Name: longitude, dtype: float64","57    74.311947
-Name: latitude, dtype: float64",Vertical,2022,10.978655159489545,277,169,108
+Name: latitude, dtype: float64",Vertical,2022,11.069092117018819,277,169,108
 DANE,"57   -20.199831
 Name: longitude, dtype: float64","57    74.311947
-Name: latitude, dtype: float64",Vertical,2023,11.55796492601442,303,165,138
+Name: latitude, dtype: float64",Vertical,2023,11.673523260635157,303,165,138
 DANE,"57   -20.199831
 Name: longitude, dtype: float64","57    74.311947
-Name: latitude, dtype: float64",Vertical,2024,8.523428747120402,67,163,96
+Name: latitude, dtype: float64",Vertical,2024,8.443040340427716,67,163,96
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2008,13.67998030036262,237,124,113
+Name: latitude, dtype: float64",Vertical,2008,13.906610734960449,237,124,113
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2010,14.775124640663531,307,137,170
+Name: latitude, dtype: float64",Vertical,2010,15.116073082093891,307,137,170
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2011,17.171100773691563,357,169,188
+Name: latitude, dtype: float64",Vertical,2011,17.55314101627638,357,169,188
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2014,16.43396710472988,346,159,187
+Name: latitude, dtype: float64",Vertical,2014,16.809010390303282,346,159,187
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2015,18.926000124807153,0,175,175
+Name: latitude, dtype: float64",Vertical,2015,18.575023788040603,0,175,175
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2016,16.334064290378045,242,115,127
+Name: latitude, dtype: float64",Vertical,2016,16.610836869071743,323,115,208
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2017,15.671394371296325,24,144,120
+Name: latitude, dtype: float64",Vertical,2017,15.43072488322784,24,144,120
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2018,14.457360850339535,42,166,124
+Name: latitude, dtype: float64",Vertical,2018,14.208669046002102,42,166,124
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2019,17.547657863557944,351,151,200
+Name: latitude, dtype: float64",Vertical,2019,17.9534085279536,351,151,200
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2020,12.792403126782437,39,149,110
+Name: latitude, dtype: float64",Vertical,2020,12.569783850319084,39,149,110
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2021,12.191997436087933,255,132,123
+Name: latitude, dtype: float64",Vertical,2021,12.43868366135813,255,132,123
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2022,11.620192307438323,13,177,164
+Name: latitude, dtype: float64",Vertical,2022,11.29127734041138,13,177,164
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2023,14.340242026003141,7,177,170
+Name: latitude, dtype: float64",Vertical,2023,13.999293584572774,7,177,170
 QAAR,"58   -52.688378
 Name: longitude, dtype: float64","58    70.740406
-Name: latitude, dtype: float64",Vertical,2024,12.41690162579479,31,173,142
+Name: latitude, dtype: float64",Vertical,2024,12.130103819179844,31,173,142
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2008,16.340243533168977,289,122,167
+Name: latitude, dtype: float64",Vertical,2008,16.343006968906984,289,122,167
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2009,11.604821696076685,240,107,133
+Name: latitude, dtype: float64",Vertical,2009,11.607022516155467,240,107,133
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2010,17.00402527443319,307,86,221
+Name: latitude, dtype: float64",Vertical,2010,17.007682276218226,307,86,221
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2011,18.428262079219575,350,169,181
+Name: latitude, dtype: float64",Vertical,2011,18.437242233765456,350,169,181
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2012,18.714762468154227,274,163,111
+Name: latitude, dtype: float64",Vertical,2012,18.71659924280644,274,163,111
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2013,9.50191434225454,20,161,141
+Name: latitude, dtype: float64",Vertical,2013,9.499581142020647,20,161,141
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2014,15.300533389426871,352,155,197
+Name: latitude, dtype: float64",Vertical,2014,15.303793250746567,352,155,197
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2015,13.416677880876517,324,159,165
+Name: latitude, dtype: float64",Vertical,2015,13.381607883451018,324,159,165
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2016,15.571656043784225,251,121,130
+Name: latitude, dtype: float64",Vertical,2016,15.573807221304842,251,121,130
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2017,14.609664440809107,49,141,92
+Name: latitude, dtype: float64",Vertical,2017,14.608142069025297,49,141,92
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2018,10.529511975381384,31,165,134
+Name: latitude, dtype: float64",Vertical,2018,10.527294607783217,31,165,134
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2019,17.559401408592485,334,141,193
+Name: latitude, dtype: float64",Vertical,2019,17.56259507983462,334,141,193
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2020,11.845635164972617,38,141,103
+Name: latitude, dtype: float64",Vertical,2020,11.84807455011768,306,141,165
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2021,12.408873570176999,8,127,119
+Name: latitude, dtype: float64",Vertical,2021,12.40690441536967,8,127,119
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2022,11.997717047252431,12,161,149
+Name: latitude, dtype: float64",Vertical,2022,11.99525146686343,12,161,149
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2023,15.133775260800686,43,167,124
+Name: latitude, dtype: float64",Vertical,2023,15.131723368396404,43,167,124
 SRMP,"59   -54.393711
 Name: longitude, dtype: float64","59    72.910678
-Name: latitude, dtype: float64",Vertical,2024,10.597836387935256,0,166,166
+Name: latitude, dtype: float64",Vertical,2024,10.603893031093019,0,166,166
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2009,13.953700569657961,276,167,109
+Name: latitude, dtype: float64",Vertical,2009,14.26732791145746,276,167,109
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2010,28.287514660377703,307,135,172
+Name: latitude, dtype: float64",Vertical,2010,28.782412851107186,307,135,172
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2011,20.918495360428764,274,167,107
+Name: latitude, dtype: float64",Vertical,2011,21.226368072103497,274,167,107
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2012,30.946773498866737,270,133,137
+Name: latitude, dtype: float64",Vertical,2012,31.34096566241289,270,133,137
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2013,13.822194192445169,5,180,175
+Name: latitude, dtype: float64",Vertical,2013,13.528122891340702,310,180,130
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2015,23.1071176483104,31,165,134
+Name: latitude, dtype: float64",Vertical,2015,22.721557429951382,31,165,134
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2016,25.466621947565045,281,119,162
+Name: latitude, dtype: float64",Vertical,2016,25.93274698767072,281,119,162
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2018,17.431507229851995,28,166,138
+Name: latitude, dtype: float64",Vertical,2018,17.03443775124346,28,166,138
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2021,21.387843837794748,321,125,196
+Name: latitude, dtype: float64",Vertical,2021,21.951797590021364,321,125,196
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2022,20.393509963471118,295,144,151
+Name: latitude, dtype: float64",Vertical,2022,20.827984537890607,295,144,151
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2023,20.894653174272563,276,165,111
+Name: latitude, dtype: float64",Vertical,2023,21.193983533924865,287,165,122
 SENU,"60   -47.141319
 Name: longitude, dtype: float64","60    61.069581
-Name: latitude, dtype: float64",Vertical,2024,13.804910988116362,240,127,113
+Name: latitude, dtype: float64",Vertical,2024,14.219122288846043,284,105,179
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2008,12.039677539178342,290,122,168
+Name: latitude, dtype: float64",Vertical,2008,12.041608896370002,290,122,168
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2009,13.530613325316121,23,185,162
+Name: latitude, dtype: float64",Vertical,2009,13.528750945167022,23,185,162
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2010,13.90195622299876,268,86,182
+Name: latitude, dtype: float64",Vertical,2010,13.904048526623058,268,86,182
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2011,18.2297132064463,349,169,180
+Name: latitude, dtype: float64",Vertical,2011,18.237295246110715,349,169,180
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2012,21.515853259590397,321,148,173
+Name: latitude, dtype: float64",Vertical,2012,21.517842097650856,321,148,173
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2013,11.732936869062733,13,81,68
+Name: latitude, dtype: float64",Vertical,2013,11.732155129247065,13,81,68
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2014,14.567669139514141,239,164,75
+Name: latitude, dtype: float64",Vertical,2014,14.568531352546131,239,164,75
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2015,16.107219333892996,20,175,155
+Name: latitude, dtype: float64",Vertical,2015,16.105437426960215,20,175,155
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2016,18.56049284678105,261,114,147
+Name: latitude, dtype: float64",Vertical,2016,18.562182784323753,261,114,147
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2017,18.195170529436663,24,136,112
+Name: latitude, dtype: float64",Vertical,2017,18.193882957975553,24,136,112
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2018,14.760179746702347,39,168,129
+Name: latitude, dtype: float64",Vertical,2018,14.75869674028732,39,168,129
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2019,21.023160910613463,357,140,217
+Name: latitude, dtype: float64",Vertical,2019,21.034230935589022,357,140,217
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2020,10.090198773597777,289,124,165
+Name: latitude, dtype: float64",Vertical,2020,10.092095642268156,289,124,165
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2021,16.36274692397293,335,125,210
+Name: latitude, dtype: float64",Vertical,2021,16.365161120462503,335,125,210
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2022,11.981640404792135,7,143,136
+Name: latitude, dtype: float64",Vertical,2022,11.980076925160793,7,143,136
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2023,10.880109224508924,356,115,241
+Name: latitude, dtype: float64",Vertical,2023,10.85470363507046,356,115,241
 KSNB,"62   -35.576319
 Name: longitude, dtype: float64","62    66.863281
-Name: latitude, dtype: float64",Vertical,2024,10.988329307043045,298,164,134
+Name: latitude, dtype: float64",Vertical,2024,10.989869794326864,298,164,134
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2008,13.784902863674082,234,110,124
+Name: latitude, dtype: float64",Vertical,2008,14.18117289785857,234,110,124
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2009,11.74899217011231,256,176,80
+Name: latitude, dtype: float64",Vertical,2009,12.00465025668295,256,176,80
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2010,18.761441532693684,305,78,227
+Name: latitude, dtype: float64",Vertical,2010,19.486871353337868,305,78,227
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2013,13.383906555050432,305,91,214
+Name: latitude, dtype: float64",Vertical,2013,14.06779193662689,305,91,214
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2015,17.603697550177053,20,161,141
+Name: latitude, dtype: float64",Vertical,2015,17.153100172596304,20,161,141
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2016,17.412053478903474,260,121,139
+Name: latitude, dtype: float64",Vertical,2016,17.856259404319957,260,121,139
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2017,20.97124151572212,123,151,28
+Name: latitude, dtype: float64",Vertical,2017,21.23729994347646,123,151,28
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2018,18.073481498739778,32,158,126
+Name: latitude, dtype: float64",Vertical,2018,17.67082001239102,32,158,126
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2019,22.86818755543142,356,134,222
+Name: latitude, dtype: float64",Vertical,2019,23.554286962295187,356,134,222
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2020,11.608123031433458,266,165,101
+Name: latitude, dtype: float64",Vertical,2020,11.9308913657289,266,165,101
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2021,17.396616432004553,335,124,211
+Name: latitude, dtype: float64",Vertical,2021,18.07091463533461,335,124,211
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2022,13.25925475374073,8,163,155
+Name: latitude, dtype: float64",Vertical,2022,12.763917211010128,8,163,155
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2023,17.09612879206548,278,172,106
+Name: latitude, dtype: float64",Vertical,2023,17.434875756771564,278,172,106
 PLPK,"63   -34.033464
 Name: longitude, dtype: float64","63    66.897728
-Name: latitude, dtype: float64",Vertical,2024,12.77998722608794,297,175,122
+Name: latitude, dtype: float64",Vertical,2024,13.232311147991503,338,175,163
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2008,17.611421096162957,364,121,243
+Name: latitude, dtype: float64",Vertical,2008,18.1785652898158,364,111,253
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2009,15.367498295185127,8,94,86
+Name: latitude, dtype: float64",Vertical,2009,15.167617464067884,8,94,86
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2010,21.400874185986396,357,95,262
+Name: latitude, dtype: float64",Vertical,2010,22.009813462180787,357,95,262
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2011,17.23096852382874,343,132,211
+Name: latitude, dtype: float64",Vertical,2011,17.721373818779185,343,132,211
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2012,22.633328493359304,331,145,186
+Name: latitude, dtype: float64",Vertical,2012,23.065628895543107,331,145,186
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2013,12.912727853746693,6,126,120
+Name: latitude, dtype: float64",Vertical,2013,12.633824368466815,6,126,120
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2014,16.987836742963083,298,126,172
+Name: latitude, dtype: float64",Vertical,2014,17.387598405197565,298,126,172
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2015,11.09542167409981,4,162,158
+Name: latitude, dtype: float64",Vertical,2015,10.72819875181464,4,162,158
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2016,15.969091902743422,257,118,139
+Name: latitude, dtype: float64",Vertical,2016,16.29215510652594,257,118,139
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2017,16.55386152199823,57,121,64
+Name: latitude, dtype: float64",Vertical,2017,16.405112996515633,57,121,64
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2020,12.193167853992321,267,168,99
+Name: latitude, dtype: float64",Vertical,2020,12.423263229348208,267,168,99
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2021,15.571896012433413,343,114,229
+Name: latitude, dtype: float64",Vertical,2021,16.104136830175833,343,114,229
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2022,11.014471111274865,298,152,146
+Name: latitude, dtype: float64",Vertical,2022,11.353803685032041,298,152,146
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2023,14.97465771700265,266,170,96
+Name: latitude, dtype: float64",Vertical,2023,15.19778050522655,266,170,96
 LYNS,"64   -40.198056
 Name: longitude, dtype: float64","64    64.430483
-Name: latitude, dtype: float64",Vertical,2024,10.930469041317973,364,166,198
+Name: latitude, dtype: float64",Vertical,2024,11.390659792029759,364,166,198
 KAGZ,"65   -65.852967
 Name: longitude, dtype: float64","65    79.131958
-Name: latitude, dtype: float64",Vertical,2013,8.06342738252149,33,172,139
+Name: latitude, dtype: float64",Vertical,2013,8.012189215267274,33,172,139
 KAGZ,"65   -65.852967
 Name: longitude, dtype: float64","65    79.131958
-Name: latitude, dtype: float64",Vertical,2014,13.513347465088014,67,171,104
+Name: latitude, dtype: float64",Vertical,2014,13.35100324543215,67,171,104
 KAGZ,"65   -65.852967
 Name: longitude, dtype: float64","65    79.131958
-Name: latitude, dtype: float64",Vertical,2016,12.804073196179836,58,159,101
+Name: latitude, dtype: float64",Vertical,2016,12.651115886982701,58,159,101
 KAGZ,"65   -65.852967
 Name: longitude, dtype: float64","65    79.131958
-Name: latitude, dtype: float64",Vertical,2017,12.905072774878425,28,144,116
+Name: latitude, dtype: float64",Vertical,2017,12.795494984853724,28,139,111
 KAGZ,"65   -65.852967
 Name: longitude, dtype: float64","65    79.131958
-Name: latitude, dtype: float64",Vertical,2018,8.933101618995018,39,169,130
+Name: latitude, dtype: float64",Vertical,2018,9.044638236663278,39,169,130
 KAGZ,"65   -65.852967
 Name: longitude, dtype: float64","65    79.131958
-Name: latitude, dtype: float64",Vertical,2019,15.72334644570456,249,162,87
+Name: latitude, dtype: float64",Vertical,2019,15.883904831691229,249,162,87
 KAGZ,"65   -65.852967
 Name: longitude, dtype: float64","65    79.131958
-Name: latitude, dtype: float64",Vertical,2020,16.11629162769308,364,145,219
+Name: latitude, dtype: float64",Vertical,2020,16.520455840694012,364,145,219
 KAGZ,"65   -65.852967
 Name: longitude, dtype: float64","65    79.131958
-Name: latitude, dtype: float64",Vertical,2021,15.567327645858393,13,127,114
+Name: latitude, dtype: float64",Vertical,2021,15.35694079525517,13,127,114
 KAGZ,"65   -65.852967
 Name: longitude, dtype: float64","65    79.131958
-Name: latitude, dtype: float64",Vertical,2022,10.175009268254628,273,181,92
+Name: latitude, dtype: float64",Vertical,2022,10.344795147688808,273,181,92
 KAGZ,"65   -65.852967
 Name: longitude, dtype: float64","65    79.131958
-Name: latitude, dtype: float64",Vertical,2023,13.746117640561547,47,174,127
+Name: latitude, dtype: float64",Vertical,2023,13.511739306994796,47,174,127
 KAGZ,"65   -65.852967
 Name: longitude, dtype: float64","65    79.131958
-Name: latitude, dtype: float64",Vertical,2024,13.554212006055106,61,172,111
+Name: latitude, dtype: float64",Vertical,2024,13.349361651520384,61,172,111
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2008,20.436698614673745,2,121,119
+Name: latitude, dtype: float64",Vertical,2008,20.093396380881774,2,121,119
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2009,16.888867296599926,256,147,109
+Name: latitude, dtype: float64",Vertical,2009,17.211107731810166,256,147,109
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2010,23.339889050080004,305,136,169
+Name: latitude, dtype: float64",Vertical,2010,23.83950954136928,305,136,169
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2011,23.417900614243447,79,171,92
+Name: latitude, dtype: float64",Vertical,2011,23.181928336453804,79,171,92
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2012,30.397782948772544,67,160,93
+Name: latitude, dtype: float64",Vertical,2012,30.124895003120475,68,160,92
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2014,23.26791831826556,0,164,164
+Name: latitude, dtype: float64",Vertical,2014,22.7830794983162,0,164,164
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2015,17.91070462907267,325,158,167
+Name: latitude, dtype: float64",Vertical,2015,18.355307258828418,325,158,167
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2016,23.48799073468308,264,121,143
+Name: latitude, dtype: float64",Vertical,2016,23.910746535004773,264,121,143
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2017,21.745447154542962,357,135,222
+Name: latitude, dtype: float64",Vertical,2017,22.401753362035386,357,135,222
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2018,16.574044773998256,29,167,138
+Name: latitude, dtype: float64",Vertical,2018,16.21517583801404,29,167,138
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2019,29.655081681734437,305,141,164
+Name: latitude, dtype: float64",Vertical,2019,30.14384059216175,308,141,167
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2021,17.255619856508723,335,127,208
+Name: latitude, dtype: float64",Vertical,2021,17.870537384249367,335,127,208
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2022,15.564475155690417,289,143,146
+Name: latitude, dtype: float64",Vertical,2022,15.996099958816064,289,143,146
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2023,17.312379791934664,9,172,163
+Name: latitude, dtype: float64",Vertical,2023,16.830497306253292,9,172,163
 HEL2,"66   -38.215708
 Name: longitude, dtype: float64","66    66.401158
-Name: latitude, dtype: float64",Vertical,2024,14.069199808531888,0,177,177
+Name: latitude, dtype: float64",Vertical,2024,13.561385893549,0,172,172
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2008,14.681933456415523,248,111,137
+Name: latitude, dtype: float64",Vertical,2008,15.4144179191904,248,111,137
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2009,10.42610496574343,25,185,160
+Name: latitude, dtype: float64",Vertical,2009,10.380211798421591,238,185,53
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2015,12.313222215687261,259,175,84
+Name: latitude, dtype: float64",Vertical,2015,12.712672787435473,259,175,84
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2016,11.609043757148942,348,120,228
+Name: latitude, dtype: float64",Vertical,2016,12.828068994467724,348,120,228
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2017,12.113092110794756,23,138,115
+Name: latitude, dtype: float64",Vertical,2017,11.504080816487015,49,138,89
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2018,8.17007189817934,32,167,135
+Name: latitude, dtype: float64",Vertical,2018,7.4482806392406005,32,167,135
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2019,16.01409959154367,249,162,87
+Name: latitude, dtype: float64",Vertical,2019,16.479253958415313,249,162,87
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2020,11.030808420743757,306,141,165
+Name: latitude, dtype: float64",Vertical,2020,11.91299773722445,306,141,165
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2021,8.758945390974247,10,130,120
+Name: latitude, dtype: float64",Vertical,2021,8.123951719237468,10,128,118
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2022,13.323722481456517,280,172,108
+Name: latitude, dtype: float64",Vertical,2022,13.902338101156356,280,171,109
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2023,13.243736827543422,9,182,173
+Name: latitude, dtype: float64",Vertical,2023,12.318774695718202,9,182,173
 ASKY,"67   -58.257356
 Name: longitude, dtype: float64","67    75.726128
-Name: latitude, dtype: float64",Vertical,2024,11.6042843446717,58,150,92
+Name: latitude, dtype: float64",Vertical,2024,11.10705036629167,58,150,92
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2010,12.587762317110126,303,154,149
+Name: latitude, dtype: float64",Vertical,2010,12.590206514908115,303,154,149
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2011,10.902305329047802,275,174,101
+Name: latitude, dtype: float64",Vertical,2011,10.903962134266575,275,174,101
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2012,19.061150493112525,314,143,171
+Name: latitude, dtype: float64",Vertical,2012,19.060756022702158,314,143,171
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2013,8.340132124578766,326,179,147
+Name: latitude, dtype: float64",Vertical,2013,8.332233832381386,326,179,147
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2014,9.628775176002126,299,169,130
+Name: latitude, dtype: float64",Vertical,2014,9.63090769757084,299,169,130
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2015,9.902787055402856,39,178,139
+Name: latitude, dtype: float64",Vertical,2015,9.900506897725538,39,178,139
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2016,12.295385301499527,250,122,128
+Name: latitude, dtype: float64",Vertical,2016,12.297485015044108,250,122,128
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2017,9.694734201051144,50,143,93
+Name: latitude, dtype: float64",Vertical,2017,9.696111929173682,50,143,93
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2018,10.192858380777738,41,148,107
+Name: latitude, dtype: float64",Vertical,2018,10.191103151486566,41,148,107
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2019,14.774100532598206,336,131,205
+Name: latitude, dtype: float64",Vertical,2019,14.773908292323247,336,131,205
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2020,17.566999277624173,349,124,225
+Name: latitude, dtype: float64",Vertical,2020,17.567135117590556,349,124,225
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2021,14.621839384756964,1,124,123
+Name: latitude, dtype: float64",Vertical,2021,14.619821691272719,1,124,123
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2022,11.09840111723265,298,182,116
+Name: latitude, dtype: float64",Vertical,2022,11.096748919883723,298,182,116
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2023,13.992387214212405,351,178,173
+Name: latitude, dtype: float64",Vertical,2023,13.995995371895553,351,178,173
 NUUK,"69   -51.731164
 Name: longitude, dtype: float64","69    64.183553
-Name: latitude, dtype: float64",Vertical,2024,10.742957881848442,311,171,140
+Name: latitude, dtype: float64",Vertical,2024,10.745254443537828,311,171,140
 UTMG,"70   -43.306422
 Name: longitude, dtype: float64","70    62.927208
-Name: latitude, dtype: float64",Vertical,2014,15.555192495697987,298,127,171
+Name: latitude, dtype: float64",Vertical,2014,15.880556577060773,359,127,232
 UTMG,"70   -43.306422
 Name: longitude, dtype: float64","70    62.927208
-Name: latitude, dtype: float64",Vertical,2015,11.563391938345763,20,165,145
+Name: latitude, dtype: float64",Vertical,2015,11.433212481692511,324,165,159
 UTMG,"70   -43.306422
 Name: longitude, dtype: float64","70    62.927208
-Name: latitude, dtype: float64",Vertical,2016,18.636204898861045,261,115,146
+Name: latitude, dtype: float64",Vertical,2016,18.895621524069853,261,115,146
 UTMG,"70   -43.306422
 Name: longitude, dtype: float64","70    62.927208
-Name: latitude, dtype: float64",Vertical,2017,12.744001922744719,27,133,106
+Name: latitude, dtype: float64",Vertical,2017,12.66054865120188,240,133,107
 UTMG,"70   -43.306422
 Name: longitude, dtype: float64","70    62.927208
-Name: latitude, dtype: float64",Vertical,2018,9.949030201206563,294,156,138
+Name: latitude, dtype: float64",Vertical,2018,10.194232216814886,294,156,138
 UTMG,"70   -43.306422
 Name: longitude, dtype: float64","70    62.927208
-Name: latitude, dtype: float64",Vertical,2019,18.646706542929657,11,129,118
+Name: latitude, dtype: float64",Vertical,2019,18.607199580320568,360,129,231
 UTMG,"70   -43.306422
 Name: longitude, dtype: float64","70    62.927208
-Name: latitude, dtype: float64",Vertical,2020,13.36445063535744,262,141,121
+Name: latitude, dtype: float64",Vertical,2020,13.57944660556474,262,141,121
 UTMG,"70   -43.306422
 Name: longitude, dtype: float64","70    62.927208
-Name: latitude, dtype: float64",Vertical,2021,18.170752836778274,335,162,173
+Name: latitude, dtype: float64",Vertical,2021,18.478143769388712,335,162,173
 UTMG,"70   -43.306422
 Name: longitude, dtype: float64","70    62.927208
-Name: latitude, dtype: float64",Vertical,2022,14.29833020120656,281,143,138
+Name: latitude, dtype: float64",Vertical,2022,14.543532216814887,281,143,138
 UTMG,"70   -43.306422
 Name: longitude, dtype: float64","70    62.927208
-Name: latitude, dtype: float64",Vertical,2023,18.915404650851357,288,163,125
+Name: latitude, dtype: float64",Vertical,2023,19.137507925858895,288,163,125
 UTMG,"70   -43.306422
 Name: longitude, dtype: float64","70    62.927208
-Name: latitude, dtype: float64",Vertical,2024,14.460383255328114,304,109,195
+Name: latitude, dtype: float64",Vertical,2024,14.806864364339877,304,109,195
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2010,18.82930050136222,305,86,219
+Name: latitude, dtype: float64",Vertical,2010,19.205028679171676,305,86,219
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2011,16.44880830166004,338,169,169
+Name: latitude, dtype: float64",Vertical,2011,16.738753790471904,338,169,169
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2012,20.102286668773434,257,163,94
+Name: latitude, dtype: float64",Vertical,2012,20.300687123805233,332,163,169
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2013,13.86172184926096,326,90,236
+Name: latitude, dtype: float64",Vertical,2013,14.2666161413296,326,90,236
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2014,14.138424540844909,239,157,82
+Name: latitude, dtype: float64",Vertical,2014,14.279108150800962,239,157,82
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2015,17.081677443536293,13,171,158
+Name: latitude, dtype: float64",Vertical,2015,17.23694201837538,13,171,158
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2016,19.362852981838728,260,121,139
+Name: latitude, dtype: float64",Vertical,2016,19.60132885725204,260,121,139
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2019,27.46957636864879,323,111,212
+Name: latitude, dtype: float64",Vertical,2019,27.565649528087047,323,111,212
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2020,11.769221564273087,330,152,178
+Name: latitude, dtype: float64",Vertical,2020,12.074607937104531,330,152,178
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2021,14.467284969380088,334,118,216
+Name: latitude, dtype: float64",Vertical,2021,14.837866185849688,334,118,216
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2022,12.39762567026253,7,163,156
+Name: latitude, dtype: float64",Vertical,2022,12.574778883964095,290,163,127
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2023,15.651708016672174,278,167,111
+Name: latitude, dtype: float64",Vertical,2023,15.842145586246833,278,167,111
 MIK2,"71   -31.451825
 Name: longitude, dtype: float64","71    68.140281
-Name: latitude, dtype: float64",Vertical,2024,13.311179507064852,318,161,157
+Name: latitude, dtype: float64",Vertical,2024,13.582853790471901,318,149,169
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2010,20.789853288883105,308,114,194
+Name: latitude, dtype: float64",Vertical,2010,21.359438082334435,308,75,233
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2011,18.8769218943781,345,169,176
+Name: latitude, dtype: float64",Vertical,2011,19.393972399817713,345,169,176
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2012,26.658957984876864,257,161,96
+Name: latitude, dtype: float64",Vertical,2012,26.9405334302036,257,161,96
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2013,12.84348498441728,308,165,143
+Name: latitude, dtype: float64",Vertical,2013,13.40817695507828,308,91,217
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2015,19.745893585567842,20,176,156
+Name: latitude, dtype: float64",Vertical,2015,19.289162342585815,20,176,156
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2016,21.971990417178283,254,125,129
+Name: latitude, dtype: float64",Vertical,2016,22.350357421836087,254,125,129
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2017,17.1707827741155,27,136,109
+Name: latitude, dtype: float64",Vertical,2017,16.85107732056744,27,136,109
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2019,28.651299988402712,335,107,228
+Name: latitude, dtype: float64",Vertical,2019,26.46546273006689,335,107,228
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2020,12.709417771817547,266,140,126
+Name: latitude, dtype: float64",Vertical,2020,13.078985543808887,266,140,126
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2021,12.975797132639606,334,116,218
+Name: latitude, dtype: float64",Vertical,2021,13.515745358865118,334,116,218
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2022,12.29711179312348,288,165,123
+Name: latitude, dtype: float64",Vertical,2022,12.657880332448363,288,165,123
 KUAQ,"72   -33.05275
 Name: longitude, dtype: float64","72    68.587
-Name: latitude, dtype: float64",Vertical,2023,16.244953235744017,7,181,174
+Name: latitude, dtype: float64",Vertical,2023,16.248017188457176,354,181,173
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2008,16.027932077594578,249,126,123
+Name: latitude, dtype: float64",Vertical,2008,16.029069690925738,249,126,123
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2009,11.927595261148307,255,189,66
+Name: latitude, dtype: float64",Vertical,2009,11.928205687813808,255,189,66
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2010,16.718255042274855,269,86,183
+Name: latitude, dtype: float64",Vertical,2010,16.719947588938293,269,86,183
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2011,20.446086434194193,358,170,188
+Name: latitude, dtype: float64",Vertical,2011,20.452687413772672,358,170,188
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2012,20.639648399927463,333,163,170
+Name: latitude, dtype: float64",Vertical,2012,20.641220711035572,333,163,170
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2013,12.337961280058028,20,156,136
+Name: latitude, dtype: float64",Vertical,2013,12.336703431171541,20,156,136
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2014,15.014870473658075,331,173,158
+Name: latitude, dtype: float64",Vertical,2014,15.016331798099728,331,173,158
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2015,14.761382341242607,20,175,155
+Name: latitude, dtype: float64",Vertical,2015,14.759948763467566,20,175,155
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2016,16.054084892495254,247,121,126
+Name: latitude, dtype: float64",Vertical,2016,16.055250252493032,247,121,126
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2017,14.896110935724248,49,138,89
+Name: latitude, dtype: float64",Vertical,2017,14.895287784614709,49,138,89
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2018,11.256740218873453,41,158,117
+Name: latitude, dtype: float64",Vertical,2018,11.255658098875516,41,158,117
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2019,22.32298477089889,328,136,192
+Name: latitude, dtype: float64",Vertical,2019,22.303922606973508,328,136,192
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2020,10.857975577298852,39,141,102
+Name: latitude, dtype: float64",Vertical,2020,10.857022941745115,39,141,102
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2021,13.671901255738756,1,124,123
+Name: latitude, dtype: float64",Vertical,2021,13.670763642407595,1,124,123
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2022,10.941853625164603,16,172,156
+Name: latitude, dtype: float64",Vertical,2022,10.94041079850069,16,172,156
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2023,14.10221409495871,46,179,133
+Name: latitude, dtype: float64",Vertical,2023,14.10098399273884,46,179,133
 RINK,"74   -50.993967
 Name: longitude, dtype: float64","74    71.8485
-Name: latitude, dtype: float64",Vertical,2024,12.31767715691608,52,176,124
+Name: latitude, dtype: float64",Vertical,2024,12.316521045807171,52,176,124
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2009,13.067871287996471,27,92,65
+Name: latitude, dtype: float64",Vertical,2009,13.017817372713292,27,92,65
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2010,8.77034076883246,305,85,220
+Name: latitude, dtype: float64",Vertical,2010,8.939754020560134,305,85,220
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2011,17.41592715689753,360,50,310
+Name: latitude, dtype: float64",Vertical,2011,17.658642786546856,360,50,310
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2013,12.38962390306244,288,177,111
+Name: latitude, dtype: float64",Vertical,2013,12.475528238020072,288,173,115
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2015,17.470500992272132,52,355,303
+Name: latitude, dtype: float64",Vertical,2015,17.250305598955816,52,355,303
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2016,13.6582744314201,40,141,101
+Name: latitude, dtype: float64",Vertical,2016,13.579882357414608,40,138,98
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2017,11.496492422857854,254,133,121
+Name: latitude, dtype: float64",Vertical,2017,11.589669711308074,254,133,121
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2018,21.445919775614094,29,336,307
+Name: latitude, dtype: float64",Vertical,2018,21.20951128343048,29,336,307
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2019,13.992518179049041,242,0,242
+Name: latitude, dtype: float64",Vertical,2019,14.17887275594948,242,0,242
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2020,13.014793484082391,364,6,358
+Name: latitude, dtype: float64",Vertical,2020,13.287248151732218,364,6,358
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2021,13.05738020140177,285,158,127
+Name: latitude, dtype: float64",Vertical,2021,13.156320687226799,285,65,220
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2022,16.704084470493136,273,69,204
+Name: latitude, dtype: float64",Vertical,2022,16.86117675845879,273,69,204
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2023,10.491792610469142,306,165,141
+Name: latitude, dtype: float64",Vertical,2023,10.583241288934754,306,165,141
 NRSK,"75   -17.725419
 Name: longitude, dtype: float64","75    79.155031
-Name: latitude, dtype: float64",Vertical,2024,9.088179450956618,71,21,50
+Name: latitude, dtype: float64",Vertical,2024,9.127452522948033,71,21,50
